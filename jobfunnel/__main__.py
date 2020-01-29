@@ -6,7 +6,7 @@ import sys
 from typing import Union
 
 from .config.parser import parse_config, ConfigError
-from .config.validate import validate_config
+#from .config.validate import validate_config
 
 from .jobfunnel import JobFunnel
 from .indeed import Indeed
