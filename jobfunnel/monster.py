@@ -151,7 +151,7 @@ class Monster(JobFunnel):
         try:
             num_res = soup_base.find('h2', 'figure').text.strip()
         except Exception as e:
-            log_info('No searches found for the keyword')
+            log_info('No searches found for the keyword on monster')
             return 
 
         num_res = int(re.findall(r'(\d+)', num_res)[0])
