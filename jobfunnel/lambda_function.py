@@ -1,7 +1,7 @@
 
 #Function which receives data from the SQS Queue
 import sys
-
+import config
 from typing import Union
 
 from jobfunnel import JobFunnel
@@ -104,7 +104,7 @@ def lambda_handler(event,context):
             print('-'*100)
 
     s3 = boto3.client('s3')
-        s3.upload_file(master_list_path, config.S3_BUCKET_NAME, filename))
+    s3.upload_file(master_list_path, config.S3_BUCKET_NAME, filename))
 
 
     
