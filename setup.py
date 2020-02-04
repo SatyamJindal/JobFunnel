@@ -7,7 +7,6 @@ url = 'https://github.com/PaulMcInnis/JobFunnel'
 requires = ['beautifulsoup4>=4.6.3',
             'lxml>=4.2.4',
             'requests>=2.19.1',
-            'python-dateutil>=2.8.0',
             'PyYAML>=5.1',
             'scikit-learn>=0.21.2',
             'nltk>=3.4.1',

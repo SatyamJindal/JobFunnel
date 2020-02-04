@@ -19,7 +19,7 @@ providers_dict={
 keyword = ['hackerrank','google']
 
 
-def lambda_handler():
+def lambda_handler(event,context):
     for kword in keyword:
         for ctry in country_indeed.keys():
             print('Keyword: ', kword)
@@ -102,8 +102,7 @@ def lambda_handler():
                 "done. see un-archived jobs in " + config['master_list_path'])
             print('-'*100)
 
-
-lambda_handler()
+lambda_handler(1,1)
     
 
 

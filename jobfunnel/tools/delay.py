@@ -3,12 +3,16 @@ Module for calculating random or non-random delay
 """
 import sys
 
-from math import ceil, log, sqrt
+from math import ceil, log, sqrt , exp
 from numpy import arange
 from random import uniform
-from scipy.special import expit
+#from scipy.special import expit
 from typing import Dict, Union
 from logging import warning
+
+def expit(x):
+    val = 1 / (1 + exp(-x))
+    return val
 
 
 def _c_delay(list_len: int, delay: Union[int, float]):
