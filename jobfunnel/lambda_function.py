@@ -9,6 +9,7 @@ from indeed import Indeed
 from monster import Monster
 from glassdoor import GlassDoor
 from country_hash import *
+import boto3
 PROVIDERS = {'indeed': Indeed, 'monster': Monster, 'glassdoor': GlassDoor}
 
 providers_dict={
@@ -55,11 +56,11 @@ def lambda_handler(event,context):
                                                     'random': False,
                                                     'converge': False
                                                 },
-                                'data_path': 'search/data',
-                                'master_list_path': 'search/master_list.csv',
-                                'duplicate_list_path': 'search/duplicate_list.csv',
-                                'filter_list_path': 'search/data/filter_list.json',
-                                'log_path': 'search/data/jobfunnel.log', 'proxy': None
+                                'data_path': '/tmp/data',
+                                'master_list_path': '/tmp/master_list.csv',
+                                'duplicate_list_path': '/tmp/duplicate_list.csv',
+                                'filter_list_path': '/tmp/data/filter_list.json',
+                                'log_path': '/tmp/data/jobfunnel.log', 'proxy': None
                             }
             # validate_config(config)
             except Exception as e:
@@ -102,7 +103,10 @@ def lambda_handler(event,context):
                 "done. see un-archived jobs in " + config['master_list_path'])
             print('-'*100)
 
-lambda_handler(1,1)
+    s3 = boto3.client('s3')
+        s3.upload_file(master_list_path, config.S3_BUCKET_NAME, filename))
+
+
     
 
 
