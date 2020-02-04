@@ -8,6 +8,7 @@ cp glassdoor.py build/.
 cp indeed.py build/.
 cp monster.py build/.
 cp database.py build/.
+cp lambda_function.py build/.
 cp __init__.py build/.
 mkdir -p ./build/config/
 cp ./config/settings.yaml ./build/config/.
