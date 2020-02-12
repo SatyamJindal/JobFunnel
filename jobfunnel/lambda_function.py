@@ -157,6 +157,7 @@ def lambda_handler(event,context):
                                                                 'radius': 25
                                                         },
                                                 'keywords': [temp_kword.strip() + ' developer']
+                                                #'keywords':['Hackerank developer']
                                             }, 
                             'black_list': ['Infox Consulting'],
                             'log_level': 20, 
