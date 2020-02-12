@@ -160,13 +160,21 @@ class JobFunnel(object):
 
         stack_overflow_tags = dd(int)
 
-        data_stack = pd.read_csv('QueryResults.csv')
-        data_stack = pd.DataFrame(data_stack)
+        #data_stack = pd.read_csv('QueryResults.csv')
+        #data_stack = pd.DataFrame(data_stack)
+        file = open('QueryResults.csv','r')
+        a = file.read()
+        a = list(a.split('\n'))
+        arr = []
 
-
+        for i in a:
+	        ind = i.index(',')
+	        arr.append([int(i[:ind]), i[ind+1:]])
+        data_stack = arr[:]
+        #print(data_stack[0])
         for i in range(len(data_stack)):
-            stack_overflow_tags[str(data_stack.iloc[i][0]).lower()]=1
-
+            stack_overflow_tags[str(data_stack[i][1]).lower()]=data_stack[i][0]
+        #print(stack_overflow_tags)
         # writes data [dict(),..] to a csv at path
         with open(path, 'w', encoding='utf8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -179,22 +187,33 @@ class JobFunnel(object):
                     curr_cont[i] = curr_cont[i].replace('.','')
                     curr_cont[i] = curr_cont[i].replace(' ','-')
                 ans=''
-
-                for i in curr_cont:
-                    if( i.lower() in stack_overflow_tags):
-                        temp_dict[i]+=1
                 final_arr = []
+                print(curr_cont)
+                
+                for i in curr_cont:
+                    if(type(i) == type("a")):
+                        print('i',i,'type',type(i))
+                        if( i.lower() in stack_overflow_tags):
+                            #print('j',i)
+                            if(str(type(i.lower()))[8:-2]=='str'):
+                                #print('**')
+                                #print('trying',stack_overflow_tags[str(i.lower())])
+                                final_arr.append([stack_overflow_tags[str(i.lower())],i])
 
-                for i in temp_dict.keys():
-                    final_arr.append([temp_dict[i],i])
 
-                print(sorted(final_arr,reverse=True))
-                    # count =0
-                for i in range(len(final_arr)):
-                    # count = count+1
+
+                '''for i in temp_dict.keys():
+                    final_arr.append([stack_overflow_tags[i.lower()],i])'''
+
+                final_arr = final_arr.sort(reverse=True)
+                print(final_arr)
+
+                count = 0
+                '''for i in range(len(final_arr)):
+                    count = count+1
                     ans+=final_arr[i][1] + ' , '
-                    # if(count > 15):
-                    #     break
+                    if(count > 15):
+                        break'''
                 data[row]['tags'] = ans
                 #print('here', data[row]['tags'])
                 writer.writerow(data[row])
