@@ -4,7 +4,7 @@ import os
 from collections import defaultdict as dd
 from typing import Union
 #import boto3
-from jobfunnel import JobFunnel
+from jobfunnel import JobFunnel, make_new_csv
 from indeed import Indeed
 from monster import Monster
 from glassdoor import GlassDoor
@@ -37,7 +37,7 @@ providers_dict={
 
 get_prev_cache()
 
-data  = pd.read_csv('/Users/riya/Desktop/data.csv')
+data  = pd.read_csv('/Users/satyam/Desktop/data.csv')
 
 
 df = pd.DataFrame(data)
@@ -232,8 +232,12 @@ def lambda_handler(event,context):
     
     file.close()
 
+
+
     print(invalid_comp)
 
+    df = pd.DataFrame(make_new_csv, columns = ['Title','Company','link','Blurb'])
+    df.to_csv(str(cur_date)+'.csv',index=False)
     
         
     

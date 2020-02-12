@@ -30,6 +30,11 @@ REMOVE_STATUSES = ['archive', 'archived', 'remove', 'rejected']
 MASTERLIST_HEADER = ['status', 'title', 'company', 'location', 'date',
                       'tags', 'link', 'id', 'provider', 'query','blurb']
 
+second = ['status', 'title', 'company', 'location', 'date',
+                      'tags', 'link', 'id', 'provider', 'query']
+
+make_new_csv = []
+
 # user agent list
 USER_AGENT_LIST = os.path.normpath(
     os.path.join(os.path.dirname(__file__), 'text/user_agent_list.txt'))
@@ -177,10 +182,12 @@ class JobFunnel(object):
         #print(stack_overflow_tags)
         # writes data [dict(),..] to a csv at path
         with open(path, 'w', encoding='utf8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer = csv.DictWriter(csvfile, fieldnames=second)
             writer.writeheader()
             temp_dict = dd(int)
+            #print('data',data)
             for row in data:
+                make_new_csv.append([data[row]['title'],data[row]['company'],data[row]['link'],data[row]['blurb']])
                 curr_cont = list(data[row]['blurb'].split(' '))
                 for i in range(len(curr_cont)):
                     curr_cont[i] = curr_cont[i].replace(',','')
@@ -217,7 +224,7 @@ class JobFunnel(object):
                     else:
                         continue
                     
-                print('trying',final_string)
+                #print('trying',final_string)
 
                 count = 0
                 for i in range(len(final_string)):
@@ -230,7 +237,9 @@ class JobFunnel(object):
 
                     
                 data[row]['tags'] = ans
+
                 #print('here', data[row]['tags'])
+                del data[row]['blurb']
                 writer.writerow(data[row])
 
     def remove_jobs_in_filterlist(self, data: Dict[str, dict]):
