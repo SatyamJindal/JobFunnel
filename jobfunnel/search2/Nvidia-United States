@@ -1,0 +1,676 @@
+status,title,company,location,date,blurb,tags,link,id,provider,query
+new,Senior Developer Technology Engineer - AI,NVIDIA,"Austin, TX",2020-02-11,"NVIDIA is looking for a passionate, world-class computer scientist to work in its Compute Developer Technology (Devtech) team as an AI Developer Technology Engineer
+
+What you will be doing:
+
+Study and develop cutting-edge techniques in deep learning, graphs, machine learning, and data analytics, and perform in-depth analysis and optimization to ensure the best possible performance on current- and next-generation GPU architectures.Work directly with key customers to understand the current and future problems they are solving and provide the best AI solutions using GPUs.Collaborate closely with the architecture, research, libraries, tools, and system software teams at NVIDIA to influence the design of next-generation architectures, software platforms, and programming models.
+
+What we need to see:
+
+A Masters Degree or PhD from a leading university in an engineering or computer science related discipline and 3+ years of relevant work or research experience.Strong knowledge of C/C++, software design, programming techniques, and AI algorithms.Firsthand work experience with parallel programming, ideally CUDA C/C++.Strong communication and organization skills, with a logical approach to problem solving, good time management, and task prioritization skills.Some travel is required for conferences and for on-site visits with developers.
+
+Artificial intelligence, the dream of computer scientists for over half a century, is no longer science fiction. And in the next few years, it will transform every industry. Soon, self-driving cars will reduce congestion and improve road safety. AI travel agents will know your preferences and arrange every detail of your family vacation. And medical instruments will read and understand patient DNA to detect and treat early signs of cancer.
+
+Where engines made us stronger and powered the first industrial revolution, AI will make us smarter and power the next. What will make this intelligent industrial revolution possible? A new computing model  GPU deep learning  that enables computers to learn from data and write software that is too complex for people to code.
+
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. Are you a creative and autonomous computer scientist with a genuine passion for parallel computing? If so, we want to hear from you. Come, join our AI Compute DevTech team and help build the real-time, cost-effective computing platform driving our success in this exciting and quickly growing field.
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning","performance , join , optimization , build , model , architecture , CUDA , key , task , expression , GPU",https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=132938&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_d57b6fc3&cb=1581508355631&jobListingId=3283669567,3283669567,glassdoor,Nvidia developer
+new,"Developer Relations Manager, Cloud Service Provider",NVIDIA,"Seattle, WA",2020-02-05,"We are looking for a Developer Relations - CSP Alliance Manager passionate about developing modern Artificial Intelligence, HPC, Computer Vision, and Professional Visualization throughout a leading CSP. With solid focus on Deep learning, which is making a major impact across research and industry and is poised to revolutionize industries such as manufacturing, IoT, and healthcare. NVIDIA's Worldwide Field Operations in North America is looking for a Developer Relations - CSP Alliance Manager to lead our partnerships with developers within a large CSP, working with research, applications, and new initiatives. We need passionate and creative people who want to build a career at the intersection of imaging, machine learning, deep learning, and data analytics. The Developer Relations - CSP Alliance Manager role is for an experienced technical business manager who believes that deep learning, data science, and artificial intelligence is a new computing revolution and a new computing model.
+
+Development Relations Alliance Managers should be passionate about building and executing partnership strategies to integrate NVIDIA platform solutions throughout the CSPs applications.
+
+This position will be a combination of developer advocacy, product management and business development. You and the CSP team are responsible for leading go-to-market activities with a multi-functional team of product, technical marketing, sales and partners. You will work closely with many groups within NVIDIA, including Industry Business Development, Solutions Architects, Software Developers, HW & SW Architecture, and our product and marketing teams. In this role, you can expect high transparency with NVIDIA senior leaders, given the strategic priority for developing computing platform for deep learning and AI.What you'll be doing:
+
+Lead and develop NVIDIA developer and ISV strategy with multi-functional team: Product, Engineering, Applied Research, Marketing, and Sales.Develop a thorough understanding and prioritization list of Cloud services and applications that could benefit from GPU acceleration.Lead strategic relationship with key opinion leaders, influential researchers, leading product teams, leading developers focused new initiatives.Establish strategic relationships with CSP engineering leads & developers, dedicate yourself to making them successful.Assess potential projects, engage technical SMEs and drive project breakthroughs.Provide feedback of features requests into actionable engineering and product steering.Understand application workflow and architectural requirements to enable GPU based servers.Integrate NVIDIA platform solutions into CSP Applications.Be alert to the competitive landscape and communicate internallyKnow the road map and detailed road map briefings of all NVIDIA AI computing platform from data center to edge: Deep Learning SDK, Tesla, Jetson, NGC.Strategic partnership and community building by attending research conferences and hosting technical meetupsHost CSP developer summits; AI, Deep Learning, HPC, Professional Visualization.Engage in industry events to speak, collect requirements, establish relationships, showcase NVIDIA Platform Solutions
+
+What we need to see:
+
+
+
+BS/MS/PhD in Computer Science or Engineering8+ years of relevant experienceMulti year experience with Cloud, Scalable Applications, Data Analytics, IoT, and GPU technology.Good technical understanding of cloud, high performance computing, database analytics.Working knowledge of with machine learning, deep learning, artificial intelligence platforms.Demonstrated good communication skills (both verbal and written) and evidence of your ability to represent NVIDIA externally.Excellent social, organizational, planning and prioritization skills.Comfortably work across all major internal functional areas (engineering, sales, marketing, executives), as well as external partners, customers, and content developers.You are a self-starter with mindset for growth and passion for continuous learning.
+
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative and autonomous, we want to hear from you!NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning","database , list , performance , events , build , Architecture , SDK , map , position , key , cloud , Cloud , focus , expression , GPU",https://www.glassdoor.com/partner/jobListing.htm?pos=114&ao=132938&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_90c7c7a3&cb=1581508355645&jobListingId=3414653284,3414653284,glassdoor,Nvidia developer
+new,Senior Content Developer - Deep Learning,NVIDIA,"Santa Clara, CA",2020-02-07,"NVIDIA Deep Learning Institute (DLI) is searching for an exceptional course developer to craft hands-on learning experiences. The work involves collaborating with internal and external subject matter experts to build project-based training that teaches developers and data scientists how to solve challenging problems across a wide range of technologies such as deep learning, accelerated computing, data science, and other advanced technologies.
+
+NVIDIAs invention of the GPU 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU accelerated deep learning ignited modern AI  the next era of computing  with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as the AI computing company. We are growing our company, and building teams with the smartest people in the world.
+
+What you'll be doing:
+
+You will develop high-quality hands-on training courses for developers, researchers, and data scientists as an integral member of the DLI content development team, which includes:
+Partnering with subject matter experts (SMEs) from NVIDIA and industry-leading organizations to draft course proposals aligned with key market segments and developer audiences.
+Creating project-based training that includes compelling diagrams, explanatory videos, interactive hands-on exercises/assessments that prepare developers to build complete applications by collaborating with internal and external subject matter experts to help them solve real-world problems.
+Collaborating with SMEs to integrate key features of NVIDIA and 3rd party SDKs, frameworks and tools into compelling, project-based learning experiences.
+Developing instructor delivery notes, certification criteria and assessment materials.
+Participating in internal test flight and dry-run deliveries to ensure course material is excellent and instructors are prepared to consistently deliver high-quality learning experiences.
+Engage with regional teams to support localization and deployment courses.
+Actively seeking feedback from instructors, students, and industry partners to improve courses.
+Peer-reviewing, copy editing and providing feedback on courses developed by other members of the team.
+
+What we need to see:
+
+Bachelors degree in computer science/engineering, or equivalent experience
+8 years of professional experience and 2+ years experience with related technologies such as deep learning, accelerated computing, or data science
+Strong communication, interpersonal and writing skills (sample requested)
+Ability to work cross-functionally across many levels of a matrixed organization
+Prior success handling multiple projects in parallel
+
+Ways to stand out from the crowd:
+
+Experience building in-depth hands-on training for developers, or other technical audience
+Experience presenting high-quality training workshops to professional technical audiences
+Experience using related technologies in key market segments such as Automotive, Energy, Finance, Healthcare, Manufacturing, Retail, Robotics, Smart Cities, or Telecommunications.
+MS degree in computer science/engineering or related domain science
+3+ years of industry experience building production application using related technologies
+Development experience in cloud-based Linux environments and/or using tools such as Docker containers, Git, Jira, Confluence, Jenkins, Python, CUDA, RAPIDS, cloud service providers (AWS, Azure, GCloud), Open edX.
+
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning","Python , Linux , Git , Azure , Docker , Jenkins , service , deployment , build , graphics , CUDA , localization , frameworks , copy , range",https://www.glassdoor.com/partner/jobListing.htm?pos=121&ao=132938&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_03f1c655&cb=1581508355653&jobListingId=3306071143,3306071143,glassdoor,Nvidia developer
+new,Developer Relations Manager - AI,NVIDIA,"Santa Clara, CA",2020-02-06,"At NVIDIA we are building the future with AI powered IOT and edge computing using our Jetson and Tesla platforms and ground breaking software innovations. These technologies will drive the future of Robotics , smart cities, retail stores, warehouses, smart factories, and more. We are looking for a Developer Relationships Manager to build and drive a rich developer and ISV ecosystem that is building core technologies and products with AI and deep learning. You will also play an important role in defining the future software for our Robotics platform. The role will involve engaging 3rd party developers, customers, and NVIDIA engineering teams to help create solutions using deep learning for some of the most challenging problems in Robotics like Delivery robots, Warehouse robots , logistic robots, Industrial robots, Smart retail, and more. The ideal candidate will have experience in enterprise and embedded SW segments and collaborating with multiple partners and products to bring solutions to market.
+
+What you'll be doing:
+
+Engage with various NVIDIA technology partners and identify areas of collaboration. Identify complimentary technologies needed to build complex solutions using super computers at the edge. Develop a rich ecosystem of strategic partners and help customers achieve their product goals through fostering collaboration between customers and the ecosystemWork with NVIDIA product management and various engineering teams to define to define software and hardware components needed to compliment 3rd party solutionsWork with sales and customer teams to understand customers requirements and create a scale out plan for 3rd party technologiesGenerating technology trends and market analysis
+
+What we need to see:
+
+BS/MS with 5+ years of experience.MBA/MS or advanced degree desired.Experience in building developer ecosystems for a cutting edge technologiesExperience in robotics industryStrong leadership skillsExcellent communication abilities and collaborative attitudeAbility to influence and work with a world-class product and engineering team
+
+Ways to stand out from the crowd:
+
+Experience in successfully leading to build strategic partnerships and a versatile ISV ecosystem for new products Working through product development/ deployment using Kubernetes, Dockers, IOT services Experience with deep learning and/or other AI technologies
+
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning","Kubernetes , deployment , build , components , embedded , expression",https://www.glassdoor.com/partner/jobListing.htm?pos=123&ao=132938&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_5bf277b1&cb=1581508355655&jobListingId=3356399886,3356399886,glassdoor,Nvidia developer
+new,"Senior Developer Technology Engineer, Optimization - Content",NVIDIA,"Santa Clara, CA",2020-02-11,"The NVIDIA PhysX SDK team is hiring! We are looking for a low-level systems programmer to help optimize our 3D simulation applications and editing tools on our large range of supported platforms. You will work alongside a globally distributed team of simulation authorities, game developers, robotics researchers, and 3D content creators to realize our vision of the future of real time simulation and collaboration.
+
+What we need to see:
+
+Degree in Computer Science or equivalent work experience.10+ years of experienceExpert C++ programming skills: You have worked on large software projects as part of an agile team and used continuous integration.Deep familiarity with Intel and AMD CPU generations.Experience with Multithreaded applications and SIMD.Proven understanding of 3D linear algebra fundamentals.A penchant for writing easy to understand yet highly performant code.DirectX, or OpenGL or similar graphics API experience.Passionate about profiling and optimizing code and removing bottlenecks.Excited to learn about new platforms and figuring out how to get the best possible performance out of them.Flexible, willing to change directions quickly when requirements shift.Self-sufficient, going out to determine how you can help rather than waiting for a specific assignment.
+
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most brilliant and hardworking people on the planet working for us and, due to unprecedented growth, our special engineering teams are growing fast. If you're a creative and autonomous engineer with a genuine passion for technology, we want to hear from you.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","C++ , performance , API , OpenGL , graphics , 3D , get , SDK , package , range , expression , profiling",https://www.glassdoor.com/partner/jobListing.htm?pos=124&ao=132938&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_f84ba5ba&cb=1581508355656&jobListingId=3335526057,3335526057,glassdoor,Nvidia developer
+new,Developer Relations Account Manager - Federal Analytics,NVIDIA,Maryland,2020-01-28,"NVIDIA is the world leader in Visual Computing and in the last few years, with its unparalleled GPU based computers, we have been driving much of the worlds growth in Deep Learning and AI research, accelerated analytics, and autonomous vehicles and robots. NVIDIA's customers include global tech-titans and span multiple verticals such as Manufacturing, Automotive, Aerospace, and Healthcare. NVIDIA is well positioned as the top AI Computing Company.
+
+We are rapidly growing the Federal business and looking to grow our team with a Senior Developer Relations account manager. You will help NVIDIA create and execute a strategy around a key Federal use case. The key use case areas are Cyber, Predictive Maintenance (PdM), and Humanitarian Assistance & Disaster Relief (HA/DR). As an NVIDIA DevRel, you will lead our developer engagements within the Federal community, evangelize Nvidia technologies and accelerate their adoption. You will have strong technical competence and be a leader who can function effectively and independently in a matrixed environment.
+
+Do you enjoy being involved in multiple, diverse technical projects at the same time and appreciate a constantly changing and challenging work experience? We are looking for a DevRel that will innovate and curate the design and deployment of high performance GPU accelerated data analytics workflows. You will need a good background in dynamic areas such as machine learning, graph algorithms, high performance computing and the data analytics software ecosystem.
+
+What youll be doing:
+
+Your main responsibility will be to develop a business strategy to win GPU and NVIDIA platforms' adoption for one of the key use cases within the Federal market: Cyber, PdM, HA/DR. You will need to establish relationships and influence the technical leaders, developers, and software partners within the relevant ecosystem. You will evangelize and develop our leadership position in this market.
+
+Collaborate with the field team to select and participate in targeted customer and industry developer events and activities
+Create technical and engineering activities spanning product divisions and sales geographies, particularly with solution architects and engineering resources
+Contribute towards our technical strategy and development of our value messaging for your partner companies. Be their key advisor to how we are differentiated.
+You will become an NVIDIA technology mentor and focal point for the software developer community that you engage with.
+
+What we need to see:
+
+Bachelor's Degree in computer science or information technology, Master's Degree is preferred. Intellectual curiosity and passion for innovation.
+Deep experience and understanding of applied information processing workflows within Cyber, PdM or HA/DR, in the Government market, including at least 7+ years related experience with the developers and engineering organizations, and at least 3 years in developer relations or architecture advisory role.
+Demonstrate that you have an established ability to influence, evangelize and persuade at both operational and executive level to achieve a targeted outcome.
+Show that you are able to communicate clearly and concisely to accelerate strategic decisions.
+Ability to effectively deliver a value proposition to assist both NVIDIA and its partner organizations.
+Experience deploying large scale data analytics or high performance computing infrastructure.
+
+Ways to stand out from the crowd:
+
+Multi year experience with leading AI, Deep Learning, Cyber, Graph and GPU technologies related to analyticsThe ability to hold a US DOD security clearance.Excellent social, organizational, planning, and prioritization skills.Ability to work under stress, interruptions and around tight deadlines.You should demonstrate superb communication skills (both verbal and written) and evidence of your ability to represent NVIDIA externally.You're a self starter with a mindset for growth and continuous learning and a passion to coach others.
+
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning","performance , function , security , events , select , dynamic , graph , Graph , deployment , architecture , background , include , position , key , expression",https://www.glassdoor.com/partner/jobListing.htm?pos=129&ao=132938&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_ce5ab2ef&cb=1581508355666&jobListingId=3268205865,3268205865,glassdoor,Nvidia developer
+new,Open Source Software Intern - Summer 2020,NVIDIA,"Santa Clara, CA",2020-02-12,"NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI - the next era of computing. NVIDIA is a learning machine that constantly evolves by adapting to new opportunities that are hard to solve, that only we can tackle, and that matter to the world. This is our lifes work, to amplify human creativity and intelligence. Make the choice to join us today.
+We are looking for a Software Engineering Intern to work on Open Source Software (OSS) auditing and reporting. NVIDIA embraces the use of OSS, and is investing further to ensure that our use of Open Source (OS) is accurate and that we meet all the licensing terms of the software that we utilize.
+What youll be doing:
+You will be improving the measurement of our progress in reviewing the OSS used in our products.
+Provide improved information for developers that focuses them on the OS compliance issues that they need to address.
+Provide technical support and consulting for developers performing OSS reviews.
+What we need to see:
+Currently enrolled in an undergraduate degree program in Computer Science or Software Engineering.
+Proven programming skills, Python strongly preferred, with experience deploying software in a data center on Linux servers is a huge plus!
+Ways to stand out from the crowd:
+Knowledge of OS development, including a proven understanding of OS licensing and compliance.
+Experience in developing scripts and analyzing data in a big data environment, and in providing operational support for users.
+Experience in Pandas, Jenkins and databases.
+Ability to design and implement web pages that effectively convey large amounts of information.
+Familiarity with Git and/or Perforce, and software versioning policies used in large development organizations is a plus!
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","Python , Linux , Pandas , Git , Jenkins , web , join , graphics , expression , GPU",https://www.indeed.com/viewjob?jk=7efbbdaea221a5d1,7efbbdaea221a5d1,indeed,Nvidia developer
+new,Senior CPU Microcode Software Developer,NVIDIA,"Hillsboro, OR",2020-01-13,"We are now looking for a Senior CPU Microcode Software Developer.
+NVIDIAs is hiring experienced Microcode Developers to join our CPU architecture team in creating new, innovative products tailored to NVIDIAs world-changing solutions for autonomous vehicles, AI, gaming, mobile systems and more in conjunction with NVIDIA's GPUs and other industry-leading technology.
+
+What you'll be doing:
+Implement operations in microcode for our processors.
+Analyze interactions between our microcode software and low level hardware implementation details.
+Recommend and implement optimizations to NVIDIA's runtime operations to improve current and future platforms.
+What we need to see:
+A Bachelors Degree in CS or ECE or related field with 6+ years of meaningful experience.
+Deep knowledge of computer architecture fundamentals.
+Strong programming experience working in C and Assembly languages.
+Experience with Verilog and VHDL or other direct exposure to hardware design.
+A good understanding of memory system behavior including coherency protocols.
+Realtime scheduling experience.
+Real passion for low-level system details down to the microcode level displayed in your work.
+Strong interpersonal skills are required along with the ability to work in a dynamic, product oriented team.
+
+Ways to stand out from the crowd:
+Masters Degree or PhD with a focus on computer architecture
+Prior work on a dynamically optimizing system
+Familiarity with details of the ARM architecture
+Demonstrated architectural work at the hardware/software boundary
+ Familiarity with RTL design flows and analysis tools
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative, autonomous and love a challenge, we want to hear from you! Come, join our CPU Microcode Architecture team and help build the real-time, cost-effective computing platform driving our success across multiple quickly growing fields.
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","C , join , Assembly , memory , mobile , dynamic , build , architecture , Architecture , ARM , runtime , focus , expression , field , VHDL",https://www.indeed.com/viewjob?jk=51a8597844468e77,51a8597844468e77,indeed,Nvidia developer
+new,Developer Technology Engineer - AI,NVIDIA,"Santa Clara, CA",2020-01-13,"We are now looking for an AI Developer Technology Engineer:
+Intelligent machines powered by AI computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car can meander through a country road at night and find its way. An AI-powered robot can learn motor skills through trial and error. This is truly an extraordinary time  the era of AI has begun. Image recognition and speech recognition  GPU Deep Learning has provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human creativity, conjuring up the amazing virtual worlds of video games and Hollywood films.
+Now, NVIDIA's GPU runs Deep Learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human creativity and intelligence are linked, computer graphics and artificial intelligence come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why NVIDIA GPUs are used broadly for Deep Learning, and NVIDIA is increasingly known as the AI computing company.
+Do you share our passion for Artificial Intelligence? Come join a team full of outstanding computer scientists to work on the Compute Developer Technology team.
+What you will be doing:
+Study and develop state of the art techniques in deep learning, graphs, machine learning, and data analytics, and perform in-depth analysis and optimization to ensure the best possible performance on current- and next-generation GPU architectures
+Provide the best AI solutions using GPUs working directly with key customers
+Collaborate closely with the architecture, research, libraries, tools, and system software teams to influence the design of next-generation architectures, software platforms, and programming models
+What we need to see:
+Currently pursuing a MS or PhD from a leading University in an engineering or Computer Science related discipline
+You'll possess strong knowledge of C/C++, software design, programming techniques, and AI algorithms
+Experience with parallel programming, ideally CUDA C/C++
+Excellent communication and organization skills, with a logical approach to problem solving, time management, and task prioritization skills
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most brilliant and talented people in the world working with us and our engineering teams are growing fast in some of the hottest and state of the art fields: Deep Learning, Artificial Intelligence, Autonomous Vehicles, Supercomputing and more. Are you a creative and autonomous computer scientist with a real passion for parallel computing? If so, we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","Image , performance , join , optimization , video , graphics , architecture , CUDA , package , find , key , task , expression , GPU , state",https://www.indeed.com/viewjob?jk=7f850680be623c3e,7f850680be623c3e,indeed,Nvidia developer
+new,"Developer Relations and Alliances, Industrial Inspection - A...",NVIDIA,"Santa Clara, CA",2020-01-13,"NVIDIA is searching for an outstanding Developer Relations & Alliances leader to build a robust partner ecosystem of GPU-accelerated Smart Industrial and Manufacturing Applications! The NVIDIA Industrial & Manufacturing team has global responsibility to build NVIDIAs solution stack and go-to-market strategy with the objective of building a billion-dollar vertical business unit. The Developer Relations & Alliances role is instrumental in recruiting and engaging strategic software & solutions partners.
+This position is for the leader for our growing Industrial Inspection ecosystem. In this role, be responsible for developer engagements to build an ecosystem of GPU accelerated AI software partners to enable high-impact customer solutions using computer vision, machine learning, and deep learning.
+Build deep technical and business alignment between NVIDIA and strategic partners through developer and executive engagement. Build go-to-market business programs in collaboration with your partners to create market demand for our joint solutions in manufacturing, supply chain & logistics, and aerospace.
+Leverage and support other team members who are similarly developing adjacent use cases, including predictive analytics, asset performance management, process optimization, and industrial HPC applications.
+This role requires a strong working knowledge of one or more aspects of GPU-accelerated computing, with a strong background in computer vision. Other relevant experience include experience with artificial intelligence, machine learning (especially deep learning), data science/analytics, video analytics, or high-performance computing. Technical experience working with industrial IoT and manufacturing organizations is highly desired.
+Our team works collaboratively with global sales, product teams, and engineering to solve the toughest business problems for our customers. You should be comfortable working in a dynamic environment experiencing rapid growth. You will use your leadership skills and industrial ecosystem contacts to connect developers to NVIDIAs resources.
+Your ability to work independently is important, and you will rely upon your excellent communication and interpersonal skills to communicate opportunities and threats internally and externally.
+What you'll be doing:
+Help developers understand how NVIDIAs GPUs and software stack can speed their algorithms and help their customers, therefore making our developers and partners more successful
+Develop a joint solution stack including partner software and NVIDIAs GPUs and software/SDKs that provides a differentiated solution to our customers
+Collaborate with NVIDIA Solution Architects to develop the benchmarks to measure the performance increase of partners applications on NVIDIA GPUs
+Recruit potential customers to join NVIDIAs Developer Program and use our SDKs. Know how to file bugs and help partners get the most out of their interactions with NVIDIA
+Position new GPUs & SDKs to developers when we introduce new architectures and software
+Help start-ups with programs that raise their visibility to VCs/investors
+Partner with innovative software & solutions partners, including startups, to create transformative value for end customers
+Get partner software licenses for our performance testing labs, and make sure we have the latest software to benchmark or replicate bugs.
+Build formal and informal programs to connect developers to our product teams
+Develop success stories, demos for our trade shows and developer conferences, get assets for our social media programs and other work that raises awareness to press, mutual customers and business partners of our success together
+Track and prioritize applications that are not yet GPU-accelerated but would benefit from being so
+Identify gaps and competitive threats
+What we need to see:
+10+ years of experience in a data science or engineering product management role. Must have significant technical depth with computer vision, including deep learning.
+Experience as a technical alliance manager a strong plus
+BS in relevant engineering discipline or equivalent experience
+In-depth knowledge of Machine Learning and Deep Learning algorithms
+Experience in manufacturing, logistics, or other heavy industry is a strong plus
+Ways to stand out from the crowd:
+Proven success in building effective technical partnerships between organizations
+Excellent ability to clearly communicate complex technical information to senior executives
+Experience in creating formal and informal programs to connect developers to technical product teams
+Demonstrated ability to create sales & marketing assets with developers
+Experience with GPU or other high-performance accelerated computing applications
+Deep technical experience with industrial and manufacturing organizations
+Advanced degree in engineering, mathematics or statistics
+NVIDIA is widely considered to be one of the technology worlds most desirable employers! We have some of the most forward-thinking and smartest people in the world working for us. If you're creative and autonomous, we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","performance , file , testing , join , optimization , video , dynamic , build , Build , process , get , background , stack , include , position",https://www.indeed.com/viewjob?jk=2768157c0f588868,2768157c0f588868,indeed,Nvidia developer
+new,"Developer Technology Engineer, Intelligent Machines",NVIDIA,"Santa Clara, CA",2020-01-13,"We are now looking for a Developer Technology Engineer for our Intelligent Machines team.
+What you'll be doing:
+Our team is responsible for working with groundbreaking applications of AI/ Deep Learning, image processing and computer vision on our next-generation intelligent machines  scaling from the edge to the cloud.
+We engage companies that are developing retail, smart-city, and industrial inspection platforms and other intelligent machines, as well as develop and implement new solutions using AI and NVIDIA platforms, build technical demos, write whitepapers and present our work at conferences.
+We work directly with key application developers and customers to understand the current and future problems they are solving and to design data flows and structures, build, and optimize core parallel algorithms to provide the best solution on GPU.
+Collaborate closely with the architecture, tools and system software teams internally to influence the design of next-generation architectures, software platforms, and programming models by investigating impact on application performance and developer productivity.
+What we need to see:
+Bachelors or Masters in engineering or computer science or related discipline with 4+ years of experience
+Experience developing solutions for computer vision, video analytics and related areas using AI/DL
+Programming skills in C/C++ and Python
+Knowledge of multimedia and image processing frameworks  OpenCV, Gstreamer
+Good communication and organization skills, with a logical approach to problem solving, good time management and task prioritization skills
+Ways to stand out from the crowd:
+Familiarity with one or more of the widely used DL frameworks like TF, PyTorch
+Experience with various IOT technologies and messaging protocols like MQTT and KAFKA
+Some travel is required for on-site visits with developers and conferences
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you are creative and autonomous, we want to hear from you!
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","image , performance , OpenCV , video , build , architecture , frameworks , key , task , expression , processing",https://www.indeed.com/viewjob?jk=07761149c2d9316f,07761149c2d9316f,indeed,Nvidia developer
+new,Developer Technology Engineer - Gaming,NVIDIA,"Santa Clara, CA",2020-01-13,"The NVIDIA PhysX SDK team is hiring! We are looking for engineers to develop and maintain the game engine integrations of our physics simulations. You will work alongside a globally distributed team of simulation authorities, game developers, robotics researchers, and 3D content creators to realize our vision of the future of real time simulation and collaboration.
+What we need to see:
+Degree in Computer Science or equivalent work experience.
+10+ years of experience
+Expert C++ programming skills: You have worked on large software projects as part of an agile team and used continuous integration.
+Proven understanding of 3D linear algebra fundamentals.
+A penchant for writing easy to understand yet highly performant code.
+DirectX, or OpenGL or similar graphics API experience.
+Experience with the internals of game engines such as Unreal Engine, Unity etc.
+Experience working alongside a team of artists and designers.
+Ways to stand out from the crowd:
+Experience writing plugins for DCC tools such as 3D Studio Max, Maya, etc.
+Writing Multithreaded applications.
+Experience in the interactive simulation domain.
+You can program in Python.
+Passionate about enthusiastically helping customers.
+Flexible, willing to change directions quickly when requirements shift.
+Self-sufficient, going out to determine how you can help rather than waiting for a specific assignment.
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and hardworking people on the planet working for us and, due to unprecedented growth, our special engineering teams are growing fast. If you're a creative and autonomous engineer with a genuine passion for technology, we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","C++ , API , OpenGL , plugins , graphics , 3D , SDK , package , Max , expression",https://www.indeed.com/viewjob?jk=edc339cefeb40ff1,edc339cefeb40ff1,indeed,Nvidia developer
+new,DevOps Engineer,NVIDIA,"Santa Clara, CA",2020-02-12,"NVIDIA is looking for DevOps Engineer to increase availability, improve quality and reduce delivery time for internal services developed by multiple teams and used throughout the company worldwide. With your help, our teams will be able to focus on more challenging programming tasks, better serving needs of our customers through new and improved CI/CD processes. We work in a dynamic environment where multiple projects will be active at once and priorities may shift frequently.
+We are looking for hardworking engineers who arent afraid of taking up new technologies, processes, and tools to make constant improvement on the automation infrastructure. The engineer will collaborate closely with our software developers as well as performance analysts to build and improve the world-class automation infrastructure.
+What youll be doing:
+You will develop and support staging and production environments for multiple internal services.
+You will coordinate with various teams across the globe to promote and improve CI/CD practices.
+You will help to build services using Kubernetes and commercial clouds.
+You will be working in a team with great flexibility in your technical decisions.
+What we need to see:
+Bachelor of Science (or equivalent) in Computer Engineering, Computer Science or 3+ years of a related technical discipline
+Excellent programming and debugging skills in scripting languages
+Proven Linux system administration experience (CentOS and Ubuntu strongly preferred)
+Good knowledge of CI/CD pipelines and tools (GitLab or similar)
+Database administration and performance tuning experience
+Ways to stand out from the crowd:
+Experience with Containers (Docker, Kubernetes) Web Services (SOAP/REST) and Scalable Storage(HDFS/Ceph)
+You have worked with cloud services (AWS, Azure and others)
+You have expertise in Python programming
+Familiarity with Windows system administration is a huge advantage
+We are widely considered to be one of the technology worlds most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative and autonomous with a real passion for technology we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","Python , Linux , Windows , performance , Azure , Ubuntu , debugging , Web , Kubernetes , dynamic , build , automation , scripting , Containers , cloud",https://www.indeed.com/viewjob?jk=7f6d3684daa01870,7f6d3684daa01870,indeed,Nvidia developer
+new,"Senior Account Manager, Civilian Agencies",NVIDIA,Virginia,2020-02-12,"NVIDIA's Federal business unit is seeking a leader motivated by shaping an entire market, in service to the US Federal Government, at a time of exciting and profound change.
+The Senior Account Manager we're looking for will have a consistent record of winning and leading complex government funded programs in the Civilian Agency segment of the Federal market. This full-time position requires close partnership with NVIDIA product marketing, solution architects, developer relations, and applied engineering to drive revenue for the company. The role requires a strong knowledge of the Civilian Agency segment, with focus on agencies including DHS and DOJ. You'll need the ability to work effectively across multiple levels in an Agency, from Executives to program managers to engineers and developers. This could very well be your most rewarding career move  working with the Federal Government at a critical time of transformation and investment.
+What you'll be doing:
+In this role you will be responsible for all aspects of demand creation, co-selling, forecasting, sales management, training and education of key customers, Independent Software Vendors and partners. For this role, you would have a mix of the following skills:
+We are looking for someone who knows how to accelerate growth, drive revenue and increase market share for NVIDIA products in the DOD
+This leader will be the key point of contact and relationship owner for a defined set of customers, agencies and surrounding ecosystem. We expect this Account Manager to build key accounts into strategic partners, and drive sustaining revenue by winning program business.
+Work closely with FSI's, OEM, S/W, and research partners to envision, craft, and execute go-to-market plans serve customer requirements and adoption of the NVIDIA products within your defined accounts.
+We require that you define, drive and communicate product and solution strategy specific to address the requirements of the Agencies for which youre responsible.
+Promote the use of NVIDIA products and technologies to end user customers and partners
+Ability to travel as needed
+What we need to see:
+Bachelor's degree required.
+12 + years (or senior management experience in lieu of) in the High-Performance Computing (HPC) market.
+Direct experience in working Civilian Agencies in BD and sales roles representing systems, software, or other related HPC infrastructure.
+Proven track record leading significant revenue responsibility and overachieving targets to meet stretch goals
+Please be ready to provide specific examples of closing large, strategic programs in the Federal Government.
+Demonstrate the capacity to understand a complex and broad range of NVIDIA technologies.
+Provide thought leadership, think strategically and successfully communicate vision (both written and verbal) and engage in cross-functional collaboration.
+Ways to stand out from the crowd:
+Demonstrated ability to build and lead in a matrix-managed team culture
+Working remotely to the team and corporate offices while fully participating as a team member.
+Adept at handling intense short-term pressures with overall long-term goals.
+Strong executive presence, polish, and political acumen.
+Leadership of an extended team with resources from multiple functional areas.
+Excellent interpersonal skills and ability to persuade - using simple communications that convey concepts in a creative way.
+National travel is required.
+NVIDIA is widely considered to be one of the technology worlds most desirable employers! We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative, independent, and a phenomenal teammate wanting to serve the mission of the U.S. Federal Government, we want to hear from you!
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","service , build , set , resources , range , position , key , focus , expression",https://www.indeed.com/viewjob?jk=b8e0d5e7962f7575,b8e0d5e7962f7575,indeed,Nvidia developer
+new,Compute Performance Developer Technology Engineer - CUDA,NVIDIA,"Santa Clara, CA",2020-01-13,"We are now looking for a Compute Performance Developer Technology Engineer - New College Graduate:
+NVIDIA is hiring passionate, world-class computer scientists to work in its Compute Developer Technology (Devtech) team. In this role, you will research and develop techniques to GPU-accelerate leading applications in high-performance computing fields within scientific computing, computational engineering, and data science. You will be performing in-depth analysis and optimization to ensure the best possible performance on current and next-generation GPU architectures.
+What you will be doing:
+Working directly with key application developers to understand the current and future problems they are solving, crafting and optimizing core parallel algorithms and data structures to provide the best solutions using GPUs, through both library development and direct contribution to the applications.
+Collaborating closely with diverse groups at NVIDIA such as the architecture, research, libraries, tools, and system software teams to influence the design of next-generation architectures, software platforms, and programming models, by investigating the impact on application performance and developer productivity.
+What we need to see:
+You are pursuing a BS, MS, or PhD from a leading university in an engineering or computer science related discipline. While not a requirement, specialization in telecommunications, medical imaging, machine learning, deep learning, or natural sciences is helpful.
+Programming fluency in C/C++ and/or Fortran with a deep understanding of software design, programming techniques, and algorithms.
+Strong mathematical fundamentals, including linear algebra and numerical methods.
+Experience with parallel programming, ideally CUDA C/C++ and OpenACC.
+Strong communication and organization skills, with a logical approach to problem-solving, good time management, and task prioritization skills.
+You will need to travel from time to time for conferences and for on-site visits with developers.
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most brilliant and talented people in the world working with us and our engineering teams are growing fast in some of the hottest and state of the art fields: Deep Learning, Artificial Intelligence, Autonomous Vehicles, Supercomputing and more. Are you a creative and autonomous computer scientist with a real passion for parallel computing? If so, we want to hear from you.
+**Please note that Santa Clara, CA is the preferred location; however, we are open to hiring across all US offices**
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","performance , Performance , optimization , architecture , CUDA , Fortran , package , key , task , expression , GPU , state",https://www.indeed.com/viewjob?jk=f9d2ce88f9788cb6,f9d2ce88f9788cb6,indeed,Nvidia developer
+new,BaseOS Engineer - New College Grad,NVIDIA,"Santa Clara, CA",2020-01-13,"NVIDIAs invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI  the next era of computing  with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as the AI computing company. We're looking to grow our company, and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.
+What you'll be doing:
+NVIDIA BaseOS is the Linux distribution of the NVIDIA GPU based platforms deployed in AI, Data-Analytics, Autonomous vehicle industries. Your role as a BaseOS Engineer is to develop the Ubuntu and RHEL based OS image flavors across platforms.
+Working closely with System/Software development teams to build common infrastructure for automation and use the latest industry standard tools!
+What we need to see from you:
+BS or Masters in computer science, or related field.
+Your excellent C and Python programming skills. Your expertise in coding is essential to your success in this role.
+Your familiarity with at least one major Linux distro (Ubuntu, RedHat, CentOS) is required.
+Experience creating your own Debian or RPM package and repository is highly desirable.
+Knowledge of OS concepts such as file systems, job scheduling, device drivers, storage, are required.
+Basic knowledge of tools deploying Virtualization, Containers, or Kubernetes technologies is preferred.
+Having written software in GitHub with exposure to opensource development life cycle is desired.
+Your experience with complex system-level debugging is invaluable.
+Excellent communication and planning skills.
+Are you dedicated, upbeat and dynamic with excellent analytical ability? Are you a software engineer passionate and highly motivated about solving complex problems? If so, you may be a perfect fit for our group.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","Python , C , Linux , image , file , Ubuntu , debugging , GitHub , Join , Kubernetes , dynamic , build , graphics , automation , package",https://www.indeed.com/viewjob?jk=d36342d591e2f7d2,d36342d591e2f7d2,indeed,Nvidia developer
+new,Simulation Support Engineer  Robotics,NVIDIA,"Santa Clara, CA",2020-01-13,"The NVIDIA PhysX SDK team is hiring! We are looking for engineers to do technical writing, Quality Assurance, and technical support for customers in machine learning, industrial simulation and robotics fields. You will work alongside a globally distributed team of simulation authorities, game developers, robotics researchers, and 3d content creators to realize our vision of the future of real time simulation and collaboration.
+What we need to see:
+Degree in computer science, mechanical engineering, machine learning or robotics, or similar work experience.
+6+ years of experience
+Excellent communication skills in English, both written and oral.
+Experience with AI (esp. deep learning, reinforcement learning).
+Experience with technologies such as Gazebo, MuJoCo, ROS, etc.
+Can program in python.
+Have written technical user documentation.
+Has publishing polished, interesting work on social media.
+Experience using our PhysX SDK.
+Ways to stand out from the crowd:
+Customer oriented: Making sure that our users are always satisfied.
+Focused, reliable, but also eager to learn new things.
+Flexible, willing to change directions quickly when requirements shift.
+Self-sufficient, going out to determine how you can help rather than waiting for a specific assignment.
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and hardworking people on the planet working for us and, due to unprecedented growth, our special engineering teams are growing fast. If you're a creative and autonomous engineer with a genuine passion for technology, we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","3d , SDK , package , expression",https://www.indeed.com/viewjob?jk=45cf2bde20d339dc,45cf2bde20d339dc,indeed,Nvidia developer
+new,Software Engineer - Manageability (New College Grad),NVIDIA,"Santa Clara, CA",2020-01-31,"We are now looking for a Software Engineer - Manageability
+NVIDIAs invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI  the next era of computing  with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as the AI computing company. We're looking to grow our company, and form teams with the smartest people in the world. Join us at the forefront of technological advancement.
+What youll be doing:
+Deliver innovations for NVIDIA's groundbreaking GPU-based DGX Server family of AI computing appliances with focus on distributed system design and system management of server components (processors, memory, storage devices, NICs and PCIe buses)
+Define, implement and validate backward- and forward-compatible, secure, robust RESTful APIs. Integrate these APIs with industry-standard tools and open source frameworks
+Develop automated unit test suites and strive to achieve 100% code coverage and dedicatedly ensure delivery of enterprise quality software applications with enhanced supportability
+Find innovative ways to optimize software applications to deliver the best possible performance while consuming the least amount of system resources like CPU and memory
+Collaborate actively with other teams, take up any engineering tasks that give to progress towards goals of the team and the company
+What we need to see:
+Experience with development of software applications using industry-standard web technologies like HTTPS, RESTful APIs, JSON, OData and NoSQL databases
+Familiarity with distributed messaging systems like Kafka/MQTT and usage of open source data collectors like Fluentd
+Experience with developing and debugging user space applications on Linux (Redhat/CentOS, and Ubuntu) using high-level programming languages like Golang/Python/C++
+Knowledge of Data Center standards like DMTF Redfish API and Systems Management Architecture for Server Hardware (SMASH), in-band and out-of-band management of software and hardware components in a data center
+Experience open-source tools like Postman, cURL, Swagger UI/Editor/Codegen to design, build, test, document and consume RESTful APIs
+Deep understanding of concepts related to operating systems, data structures and algorithms, object-oriented design and standard programming practices
+You are passionate about coding and problem solving, curious to learn new things and adopt new ideas. You can learn quickly and efficiently apply new knowledge, demonstrating a desire to stay in touch with new technologies
+Ways to stand out from the crowd:
+You are highly motivated, have excellent social skills, and can demonstrate good work ethics and a high sense of partnership
+Familiarity with developing software for ARM platforms
+Passion for building and deploying microservice applications and hands-on experience using open source tools like Docker, Kubernetes and Open Shift
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most forward-thinking and talented people in the world working for us. If you're creative and autonomous, we want to hear from you!
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","JSON , Linux , performance , API , Docker , debugging , web , cURL , Join , memory , Kubernetes , HTTPS , server , Server , build",https://www.indeed.com/viewjob?jk=21af250b3dc52951,21af250b3dc52951,indeed,Nvidia developer
+new,Developer Technology Engineer - Graphics,NVIDIA,California,2020-01-13,"For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics. With our invention of the GPU - the engine of modern visual computing - the field has expanded to encompass PC games, movie production, product design, medical diagnosis and scientific research. Today, visual computing is becoming increasingly central to how people interact with technology, and there has never been a more exciting time to join our team.
+NVIDIA has been the driving force powering video games since we invented the GPU, and weve been innovating ever since. From programmable shaders to ray tracing, we continue to change the way people make and play games.
+We are now looking for a Developer Technology Engineer to focus on real time ray tracing for games.
+What you'll be doing:
+Work with some of the most hardworking cutting-edge developers throughout the world.
+Interacting closely with the architecture and driver teams at NVIDIA in ensuring the best possible experience on current generation hardware, and on determining trends and features for next generation architectures.
+You will play with the latest GPU technology to develop new techniques using GPUs, create technical demos, write whitepapers and present your work at conferences.
+Collaborate with developers to implement and optimize real time ray traced effects such as reflection and refraction, shadows and ambient occlusion, global illumination, and subsurface scattering in AAA PC games.
+What we need to see:
+You have 10+ years of experience and a degree in Computer Science or Engineering.
+Deep knowledge of 3D graphics and GPU technologies, including shaders, shading languages and rendering techniques.
+Proficient in C++ with strong software development, optimization, and debugging skills.
+Experience in physically based shading, ray tracing and rendering techniques used in game and film production.
+You have a strong software engineering background.
+You have good communication skills.
+Open to travel for on-site visits with developers and for conferences.
+Ways to stand out from the crowd:
+Experience with GPU ray tracing with OptiX or RTX.
+Experience with modern, explicit 3D APIs such as Vulkan or DirectX 12.
+You have an understanding of GPU architectures.
+Experience with Windows or Linux driver development.
+Experience in machine learning algorithms and applications.
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and talented people on the planet working for us and, due to unprecedented growth, our special engineering teams are growing fast. If you're a creative and autonomous engineer with a genuine passion for technology, we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","C++ , Linux , Windows , debugging , join , optimization , video , reflection , graphics , architecture , 3D , package , focus , expression , GPU",https://www.indeed.com/viewjob?jk=23920fb490c147d5,23920fb490c147d5,indeed,Nvidia developer
+new,Software Engineer - Robotics,NVIDIA,"Santa Clara, CA",2020-01-13,"We are now looking for a Software Engineer (New College Grad) for our Robotics team!
+For two decades, we have pioneered visual computing, the art and science of computer graphics. With our invention of the GPU - the engine of modern visual computing - the field has expanded to encompass video games, movie production, research, and autonomous machines.
+The team around Project Isaac is building a robotics platform for developing the next generation of intelligent robots. Isaac is binding together high-fidelity visual and physical simulation, a high-quality developing platform, hundreds of optimized algorithms to tackle hard problems in computer vision and artificial intelligence, and a small and powerful computational platform to form the brain of intelligent machines. Our team consists of experts from all over the world and dozens different fields, and together we want to change the way how robots are programmed.
+What youll be doing:
+Play a key role in helping us build the fundamental infrastructure of our system.
+You will work at the very heart of the system which will power every robot and application built with Isaac.
+You should have very strong software development skills and would be an active force in reviewing code and a guardian to guarantee that we follow successful practices and develop only the best and most robust code.
+Actively drive projects to improve existing platform features and to add new features to complement and extend the system.
+What we need to see:
+You will be completing PhD, MS, or BS in Computer Science or related field.
+You have an expertise in computer graphics, simulation or game development.
+You have experience with C++/C, CUDA, DX, or OpenGL.
+You've worked with Robots or autonomous machines in a prior capacity
+Dedication to quality and creativity.
+You have excellent interpersonal skills, including written and verbal communication
+You are comfortable and enjoy working with dynamic and ever evolving environments
+You are a meticulous organizer with an ever positive, can-do attitude
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative, autonomous and love a challenge, we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","video , dynamic , build , graphics , binding , CUDA , key , expression , GPU , field",https://www.indeed.com/viewjob?jk=307197a76a16f141,307197a76a16f141,indeed,Nvidia developer
+new,"Software Intern, IVA - 2020",NVIDIA,"Santa Clara, CA",2020-01-13,"NVIDIAs invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI  the next era of computing  with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as the AI computing company. We're looking to grow our company, and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.
+We are looking for Intelligent Video Analytics Software Interns to join our team!
+What youll be doing:
+Work with the early prototyping of Computer Vision/Deep Learning based solutions for Intelligent Video Analytics
+You will engage with different kinds of image/video datasets
+Partner with the team on deep learning models (CNN/RNN/LSTM etc.)
+What we need to see from you:
+Pursuing MS or PhD in electrical engineering, computer science, or related field
+Excellent C/C++/python programming skills
+Familiarity with computer vision and machine learning
+You possess fundamentals in computer science
+Strong communication and planning skills
+Ways to stand out from the crowd:
+You are experienced with systems software programming
+Are you dedicated, upbeat and dynamic with excellent analytical ability? Are you a software engineer passionate and highly motivated about solving complex problems? If so, you may be a perfect fit for our group.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","join , Join , Video , dynamic , build , graphics , expression , GPU",https://www.indeed.com/viewjob?jk=a14ca856cea092cc,a14ca856cea092cc,indeed,Nvidia developer
+new,Developer Relations Manager - FinTech,NVIDIA,"Santa Clara, CA",2020-01-13,"We are looking for a Developer Relations Manager for Fintech.
+NVIDIA is searching for an extraordinary Developer Relations / Alliance Manager to identify and develop innovative alliances and programs designed to accelerate the availability of GPU-accelerated AI applications in the Fintech market by helping developers understand the value of our hardware products and SDKs in solving critical business opportunities. A key success factor will be to increase NVIDIAs TAM by developing business strategies with your partners that build market demand.
+You should have a strong working knowledge of one or more aspects of GPU-accelerated computing, including artificial intelligence, deep learning, data analytics, and machine learning including the knowledge of underlying software and hardware architectures.
+You will ensure a positive experience for external customers and partners while working cross functionally within our organization. You should be comfortable working in a dynamic environment experiencing rapid growth. You will use your leadership skills and ecosystem contacts to connect developers to NVIDIAs resources. Working independently is important, and you will rely upon your excellent communication skills during customer engagements, and to communicate opportunities and threats internally.
+What you'll be doing:
+Develop a technical and business strategy to win GPU adoption within leading Fintech companies in areas such as digital banking, robo-advisory, InsureTech, payments, personal finance and online lending.
+Build and influence key data science relationships to evangelize and develop our leadership position.
+You will lead targeted industry developer events and activities.
+Coordinate technical and engineering activities spanning product divisions and sales geographies, particularly with solution architects and engineering resources.
+Contribute towards our technical strategy and development of our value messaging for your companies. Be a key advisor on how we are differentiated.
+Evangelize our Developer Program and help your partners get the most out of our SDKs while building the business case for new software investments.
+What we need to see:
+You will show an understanding of how to work cross functionally with multiple internal organizations to deliver customer and partner value.
+Demonstrate that you have a good understanding of AI/ML/DL technologies.
+Demonstrate familiarity with one or more aspects of the Fintech industry.
+An established ability to influence and evangelize at operational and leadership levels (esp. engineering/ product management) to achieve a technical partnership
+Show that you are able to communicate clearly and concisely to accelerate strategic decisions
+Ability to articulate & demonstrate GPU hardware and SDKs value proposition to Fintech developers
+Masters degree in Computer Science or similar technical degree or background.
+6+ years of experience
+Domestic travel 20-30 % of the time.
+Ways to stand out from the crowd:
+Additional relevant degrees (Ph.D with a data science or financial services emphasis, MBA, etc).
+Multiyear experience in an AI or Data Science role.
+Familiarity with key use cases such as transaction fraud, anti-money laundering, or NLP.
+Familiarity with open source data science tools, especially GPU accelerated ones.
+Experience in financial service industry firms, especially across multiple vertical segments.
+Strong analytical, problem solving, and negotiation skills, using data analysis to support strategic decisions
+Excellent social, organizational, planning, and prioritization skills
+Ability to work under stress, interruptions and around tight deadlines
+You should demonstrate strong communication skills (both verbal and written) and evidence of your ability to represent NVIDIA externally, including presenting at conferences, Meetups, etc..
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","events , dynamic , service , build , get , resources , key , expression , case , GPU",https://www.indeed.com/viewjob?jk=8b528144712f6422,8b528144712f6422,indeed,Nvidia developer
+new,Simulation Support Engineer  Gaming,NVIDIA,"Santa Clara, CA",2020-01-13,"The NVIDIA PhysX SDK team is hiring! We are looking for engineers to do technical writing, Quality Assurance, and technical support for customers in game development and visual effects. You will work alongside a globally distributed team of simulation authorities, game developers, robotics researchers, and 3d content creators to realize our vision of the future of real time simulation and teamwork.
+What we need to see:
+Excellent communication skills in English, both written and oral.
+Experience using game engines like Unity or Unreal Engine, especially with the movement, collision detection and physics features.
+Experience creating 3D content in DCC tools like Maya.
+Comfortable working in a team of artists and designers.
+6+ years of experience
+Degree in Computer Science or equivalent
+Ways to stand out from the crowd:
+Can program in a language like C# or python.
+Have written user documentation.
+Experience in the game industry as a tester.
+Has publishing polished, interesting work on social media.
+Experience using our PhysX SDK.
+Focused, reliable, but also eager to learn new things.
+Flexible, willing to change directions quickly when requirements shift.
+Self-sufficient, going out to determine how you can help rather than waiting for a specific assignment.
+With highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and hardworking people on the planet working for us and, due to unprecedented growth, our special engineering teams are growing fast. If you're a creative and autonomous engineer with a genuine passion for technology, we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","C# , 3d , 3D , SDK , package , expression",https://www.indeed.com/viewjob?jk=fe8393dc84716e6c,fe8393dc84716e6c,indeed,Nvidia developer
+new,Senior Developer Engineer - Autonomous Vehicles,NVIDIA,"Santa Clara, CA",2020-01-13,"We are now looking for a Senior Developer Engineer for Autonomous Vehicles
+Intelligent machines powered by Artificial Intelligence computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can learn motor skills through trial and error  this is truly an extraordinary time and the era of AI has begun.
+Image recognition and speech recognition  GPU Deep Learning has provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human creativity, conjuring up the amazing virtual worlds of video games and Hollywood films. Now, Nvidias GPU runs Deep Learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human imagination and intelligence are linked, computer graphics and AI come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why NVIDIA GPUs are used broadly for Deep Learning, and NVIDIA is increasingly known as the AI computing company. Make the choice to join us today.
+Our team builds the NVIDIA DriveWorks SDK with the goal to provide a scalable software stack and framework to build autonomous vehicles.
+We are seeking senior software engineers with interests in computer vision and/or point cloud processing to work as part of NVIDIAs Driveworks team developing highly tuned GPU accelerated computer vision and point could core algorithms for the customers of the SDK.
+What you will be doing:
+Taking algorithms from initial evaluation and experimentation all the way to shipping them in the SDK and related products.
+Developing and optimizing software architecture and frameworks for real-world performance while matching or exceeding customer requirements.
+Working on computer vision and/or point cloud processing areas
+Solidifying existing algorithms and working with large amounts of real and synthetic data to continuously improve the algorithmic and computational performance.
+Performing in-vehicle tests, collecting data and completing autonomous drive missions.
+Developing unit tests, documentation for features, evaluating quality and proposing corrective actions.
+Developing highly efficient product code in C++, making use of high algorithmic parallelism offered by GPGPU programming (CUDA). Follow quality and safety standards such as defined by MISRA
+What we need to see:
+MS or higher in computer science or related engineering discipline with 2+ years of relevant industry experience.
+Excellent C and C++ programming skills
+Experience implementing algorithms in Robotics, Computer Vision and/or Machine Learning
+Knowledge of image processing APIs (e.g. OpenCV) and point cloud processing APIs (e.g. PCL).
+Strong knowledge of programming and debugging techniques, especially for parallel architectures.
+Strong mathematical fundamentals, including linear algebra and numerical methods.
+Great communication and analytical skills.
+Self-motivation and a great teammate
+Ways to stand out from the crowd:
+Understanding of embedded architectures
+Experience with data-parallel and/or GPGPU programming, CUDA, OpenCL
+Experience with performance analysis, optimizations and benchmarking
+Knowledge of automotive systems, notably ADAS applications.
+Software development for modern OpenGL (Core Profile) and Linux.
+Programming experience on Linux, Android, and other real-time operating systems is a plus.
+Experience with version control systems GIT and build system CMake
+Be hands-on and work well within a team of algorithm, software and hardware engineers, with a significant level of detail orientation and a penchant for data organization and presentation.
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most brilliant and talented people on the planet working for us. If you're creative and autonomous, we want to hear from you!
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","Android , C++ , C , Linux , GIT , image , algorithm , performance , debugging , join , OpenGL , video , build , graphics , architecture",https://www.indeed.com/viewjob?jk=55ba3f0f2fcdc2da,55ba3f0f2fcdc2da,indeed,Nvidia developer
+new,"Technical Support Engineer, Human Loop - AI",NVIDIA,"Santa Clara, CA",2020-01-13,"NVIDIA is searching for a Technical Support Engineer to work on our AI Infra team. Our team is enabling NVIDIA and our customers to more easily scale up machine learning workflows - machine learning at scale requires a new vocabulary for organizing and managing data, jobs and users. We are building and optimizing human in the loop pipelines which enable massive state of the art systems in Artificial Intelligence / Machine Learning at NVIDIA and for our customers in many application spaces including medical imagery and autonomous driving.
+What you will be doing:
+You will be in charge of working with customers to manage and ensure execution of labelling and curation requests.
+Be the interface between the users of these tools: the labeling workforce in India and DNN research and product teams in the US and Europe.
+Understand the technical possibilities and limitations of the tools and find ways to enable customer requests in this landscape.
+Work with the tool development teams to define new features and plan the execution of these features.
+You will identify the need for and create processes to simplify multiple parallel interactions with the labeling and curation toolset.
+What we need to see:
+3+ years of experience in an engineering support or operations role and 5+ years of software development experience.
+Understanding of the Unix environment and git source code management.
+Experience managing configuration files (json, yaml formats)
+Excellent organizational skills
+Process oriented but not stuck in processes
+Great at dealing with technical customers
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most brilliant and talented people in the world working for us. Are you a creative and autonomous software engineer with a genuine passion for advancing the state of AI and machine learning across a variety of verticals? Do you love a challenge? If so, we want to hear from you.
+For two decades, we have pioneered visual computing, the art and science of computer graphics. With our invention of the GPU - the engine of modern visual computing - the field has expanded to encompass video games, movie production, product design, medical diagnosis and scientific research.
+Today, we stand at the beginning of the next era, the AI computing era, ignited by a new computing model, GPU deep learning. This new model - where deep neural networks are trained to recognize patterns from massive amounts of data - has shown to be deeply effective at solving some of the most complex problems in everyday life.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","git , Unix , video , graphics , interface , configuration , model , find , yaml , expression , GPU , field , state",https://www.indeed.com/viewjob?jk=61a5490ae43d5575,61a5490ae43d5575,indeed,Nvidia developer
+new,Software Engineer - Web Application Developer,NVIDIA,"Santa Clara, CA",2020-02-01,"We are now looking for a Software Engineer/Web Developer
+NVIDIA's deep learning platform has already made a major impact to the field and is broadly used across leading academic institutions, start-ups, and industry, including the worlds largest Internet companies. We need passionate, hard-working and creative people to help us dive into more of these rare opportunities in Autonomous Driving.
+We are looking for a Software Engineer to join the NVIDIA Applications Engineering team to work as a full stack Web Developer and write Electron-based native applications for customer tools. This is a highly technical engineering support role that is responsible for providing best-in-class application support to NVIDIA's internal and external customers. Skills required include front-end development, back-end development and agile engineering practices. If you are someone who has superb technical and interpersonal skills to capture customer requirements, develop and deploy applications, this is the role for you! Join our dynamic team today!
+What you'll be doing:
+You will be responsible for the entire development cycle from design, development, testing and deployment of NVIDIA customer tools and internal website.
+Help with writing clean, reusable ReactJS components for front-end website and native applications using Electron framework.
+Work on new feature development along with architecting backend APIs in Rails (SQL) or Node (MongoDB).
+You'll work directly with internal and multi-functional teams to collect requirements on new features, outline proposals and drive development to closure.
+You will also track bugs, take ownership and see them through to resolution.
+We are seeking a motivated individual who is comfortable working independently in a dynamic agile development environment.
+What we need to see:
+BS or MS in Computer Science or Engineering field and 2 years minimum experience
+You should be fluent in JavaScript (ES6), and scripting languages such as Ruby or Python.
+Have a deep understanding of full stack web development and have past experience with technologies such as React and Redux.
+Experience with both PostgreSQL and NoSQL (Mongodb), including designing efficient RESTful API queries.
+Professional-level interpersonal skills, including your ability to adjust your communication to the technical level of the audience.
+An innate capability to accurately and succinctly communicate procedures, results, and recommendations to customers.
+Understanding of Agile Software / SCRUM Development practices and Git version control system.
+Ways to stand out from the crowd:
+Past experience with ReactJS, Redux, Redux-Saga and Electron.
+Past experience with Ruby on Rails API framework as back-end service.
+DevOps experience with deploying docker containers to production environment.
+Any CUDA or driver experience with NVIDIA products under Linux and Windows
+If you're a creative and autonomous computer engineer with a sincere, real passion for web and application development, we want to hear from you. NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most brilliant and talented people in the world working for us.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","JavaScript , Ruby , ReactJS , Linux , Git , PostgreSQL , API , docker , testing , web , Web , join , Join , dynamic , Redux",https://www.indeed.com/viewjob?jk=381215952c42d05e,381215952c42d05e,indeed,Nvidia developer
+new,"Developer Relations Manager, vRAN and Telecoms - 5G",NVIDIA,"Santa Clara, CA",2020-01-13,"We are looking for a Developer Relations for Telecoms  5G.
+NVIDIA is searching for an exceptional Developer Relations to identify and develop alliances and programs designed to accelerate the availability of GPU-accelerated applications and accelerating the use of Deep-Learning among Telecoms 5G global ecosystem, by helping developers and R&D Engineers, understand the value of our hardware products and SDKs. You will also increase NVIDIAs TAM by developing business strategies with your partners to build market demand.
+You should have a strong working knowledge of one or more aspects of GPU-accelerated computing, including artificial intelligence, deep learning, data analytics, and high performance computing including the knowledge of underlying software and hardware architectures. Good Knowledge of Telecommunications Technologies such as vRAN, CloudRAN, 4G, 5G, VNF, NFV, Network Security, IDS, DPI, Firewall.
+You will be working cross functionally with our organizations, as well as ensuring a positive experience for external customers and partners. You should be comfortable working in a dynamic environment experiencing rapid growth. You will use your leadership skills and ecosystem contacts to connect developers to NVIDIAs resources. Your ability to work independently and being a great teammate is critical, and you will rely upon your superb communication skills during consulting engagements, and to communicate opportunities and threats internally.
+What you'll be doing:
+Help the developer understand how our technology can speed their development and help their customers, therefore making our developers and partners more successful
+Get potential customers to join the Developer Program and use our SDKs, know how to file bugs and get the most out of their interactions with NVIDIA
+Provide developers with GPUs when we have a new architecture
+Help start-ups with programs that raise their transparency to VCs/investors
+Get partner software licenses for our performance testing labs, and make sure we have the latest software to benchmark or replicate bugs.
+Build formal or informal programs to connect developers to our product teams
+Develop success stories, demos for our trade shows and developer conferences, get assets for our social media and other programs that raise awareness to press, mutual customers and business partners of our success together
+Track and prioritize applications that are not yet GPU-accelerated but would benefit from being so
+Identify gaps and competitive threats
+What we need to see:
+12+ years of experience in a high tech electronics industry in an alliance manager role
+BS in relevant engineering discipline or equivalent experience
+In-depth knowledge of computer systems architecture
+Additional experience in related field such as Telecoms technologies in one of more of the following : vRAN, CloudRAN, 4G, 5G, VNF, NFV, Network Security, IDS, DPI, Firewall.
+Ways to stand out from the crowd:
+Experience in building formal or informal programs to connect developers to product teams
+Ability to create marketing assets with developers
+Be the expert on the GPU opportunity for the applications and how that would affect NVIDIAs market availability.
+Advanced degree
+Experience in applying AI, Deep Learning in Telecommunications networks
+Strong relationship as trusted technical advisor to 5G ecosystem
+NVIDIA is widely considered to be one of the technology worlds most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative and autonomous, we want to hear from you.
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+#deeplearning","performance , file , Security , testing , join , dynamic , build , Deep-Learning , get , resources , expression , GPU , field",https://www.indeed.com/viewjob?jk=93259bc1a81e94df,93259bc1a81e94df,indeed,Nvidia developer
+new,Developer Operations Engineer,NVIDIA,"Santa Clara, CA",2020-01-26,"NVIDIA is looking for a passionate member to join our Engineering Productivity Team in GeForce NOW as a DevOps Engineer. In this role, you will play a significant part in helping to craft and guide the future of Cloud Gaming.
+
+GeForce NOW is NVIDIA's Cloud Gaming service streaming games at the highest quality to any and every user regardless of their device types and capabilities  low-end PCs, Macs, or mobile devices. Using the most advanced GPUs and software, GeForce NOW transforms the gaming experience with always up-to-date games on always latest hardware, a streaming experience rivaling that of a local PC, and near-instant launch  just click and play! For more details see https://www.nvidia.com/en-us/geforce/products/geforce-now/.
+
+Are you passionate about automation and strive for quality? Do you pride yourself in building enterprise quality continuous integration and deployment workflows? If so, join our team at NVIDIA, where we are dedicated to delivering GPU powered services around the world!
+
+What you'll be doing:
+
+Design, document and implement CI/CD processes that can be taken advantage by all cloud software engineering teams.
+Monitoring and improving our entire pipeline of automated testing and delivery, from code to production.
+Drive automation in all areas with outcome of increased team cadence and quality.
+Work closely with engineering teams to help share knowledge and improve quality.
+
+What we need to see:
+
+BS or MS in Computer Science or equivalent program from an accredited University/College; Have 5+ years of hands on software engineering or equivalent experience; 3+ years of experience in DevOps.
+Experience with Docker and Containers
+Experience with Git and Jenkins
+A desire to automate all software release processes
+A deep understating of CI and CD
+Extensive Experience with AWS
+Experience with Test Automation
+Experience with scripting BASH, Perl, Python, etc
+Excellent interpersonal and written communication skills required
+Proficient in agile methodology
+Linux system administration experience
+
+Ways to stand out from the crowd:
+
+Demonstrate previous usage of KubernetesExperience with Data Pipelines: Kafka, Zookeeper, Solr, ELK,A track record of solving complex problems with elegant solutions.Demonstrate delivery of complex projects in previous rolesExperience with NoSQL Databases such as CassandraExperience deploying Java Cloud ApplicationsExperience with load testing frameworks such as JMeter and Gatling
+
+Widely considered to be one of the technology worlds most desirable employers, NVIDIA is an industry leader with groundbreaking developments in High-Performance Computing, Artificial Intelligence and Visualization. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens up new universes to explore, enables amazing creativity and discovery and powers what were once science fiction inventions from artificial intelligence to autonomous cars.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","Java , Python , BASH , Git , Docker , Perl , testing , join , mobile , service , types , deployment , Solr , automation , scripting",https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=702326&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_3e6dae9d&cb=1581508355642&jobListingId=3294764253,3294764253,glassdoor,Nvidia developer
+new,VLSI CAD Architect and Developer - Hardware,NVIDIA,"Austin, TX",2020-01-31,"We are now looking for a VLSI CAD Architect and Developer
+
+Location: Santa Clara, CA OR Austin, TX
+
+We are seeking someone passionate about high performance automation across VLSI architecture, logic, and physical design. Our team combines advances in both high performance software and VLSI hardware design to craft large scale internal CAD tools for delivering unsurpassed computing hardware. This position is a mix of VLSI algorithms research, high performance C++ development, CUDA, Python, Deep Learning, and hands-on hardware implementation. It requires broad insight into heuristics and strategies governing the analysis and optimization of chip architecture, floorplanning, synthesis, clocks, gate-level, and physical design. Constant creativity and a self-drive to explore and perfect optimization techniques is required. If you like to work across many technical areas and see your successes directly realized in the world's fastest AI hardware, this is it.
+
+As the inventor and world leader of GPU computing, the platform that ultimately ignited modern AI, NVIDIA is widely recognized as best positioned to propel AI even further into new applications and amazing levels of performance.
+
+NVIDIA's engineering environment offers an ideal combination of the resources and benefits of a world-class leader plus the nimbleness, opportunity, and freedom to explore as a rapidly developing company. Check online for yourself --
+
+NVIDIA employees love working here for good reason! We are accelerating our growth even further by building our teams with the smartest people in the world.
+
+What youll be doing:
+
+Invent and tune new methods for both automatic and interactive power and timing optimization from architecture through tapeout.
+Work with experts and increase your own expertise in parallel computing, deep learning, and nonlinear optimization algorithms to bridge from theory to practical implementation.
+Particular emphasis on optimizing designs from RTL to post-synthesis e.g. better physical modeling, improving clock gating, advanced logic restructuring, incremental synthesis, fast timing closure, etc.
+Projects will be tailored toward your interest and experience.
+Although we do write a lot of code, this is far broader than a typical CAD or EDA role. Instead, you will help guide the whole process from discovery and invention of new hardware opportunities through developing solutions and working directly in design teams to lead adoption.
+
+What we need to see:
+
+MS or PhD in Electrical Engineering or Computer ScienceStrength in both hardware and software10+ years of experience in one or more of these areas: computer architecture, RTL, logic synthesis algorithms, floorplanning, timing, power and/or area optimizationExpertise in C++ and some experience with Python
+
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","Python , C++ , performance , optimization , methods , process , automation , architecture , CUDA , resources , position , logic , expression , GPU",https://www.glassdoor.com/partner/jobListing.htm?pos=119&ao=702326&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_5207ed3b&cb=1581508355651&jobListingId=3410420779,3410420779,glassdoor,Nvidia developer
+new,Senior Software Quality Assurance Test Developer - Auto,NVIDIA,"Santa Clara, CA",2020-01-29,"We are now looking for software QA test developer for Self-Driving car.
+
+NVIDIAs deep learning platform has already made a major impact to the field and is broadly used across leading academic institutions, start-ups, and industry, including the worlds largest Internet companies. We need hardworking, hard-working and creative people to help us seek more of these challenging opportunities in Autonomous Driving. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens up new universes to explore, enables amazing creativity and discovery and powers what were once science fiction inventions from artificial intelligence to autonomous cars.
+
+We're looking for a very strong technical Test Developer; someone with the technical ability to deeply understand architectures and strong scripting experience to automate and innovate testing scenarios, and the leadership to encourage our engineering team. As a key member of our automotive group, you'll be working on the real time challenges unrivaled to the automotive industry and our automotive products.
+
+As part of the automotive software testing organization, you'll get along with both software and hardware engineering teams covering multiple disciplines to provide quality product.
+
+What youll be doing:
+
+As a member of Autonomous Vehicle Software Test Engineer team, you will work on Autonomous Vehicle Software for end to end software & hardware testing for autonomous driving.
+You will collaborate with a team with dynamic strengths of engineers encompassing the entire NVIDIA Automotive platform. As such, you should have a track record of working well across organizations.Automation/tools development for white box testing.Develop scenario/test cases based on the product/features.Root cause/troubleshoot issuesStrong Embedded knowledgeWork experience in Linux environmentStrong leadership & interpersonal skills are required
+
+What we need to see:
+
+A master or bachelors degree in computer science, electrical engineering, computer engineering or have a technical degree with 5+ years of industry experience.
+You demonstrate excellent test process/flow with SW debugging skills in a Linux environment.Experience in Embedded/Car industry with similar technology experience.Work with sensors like Lidar, RADAR, Camera.Experience with a scripting language (Python, Bash, etc.)Strong knowledge of C/C++Some familiarity with embedded platforms and system softwareSelf-motivated to learn new thing & embrace technology faster
+
+Ways to stand out from the crowd:
+
+Familiarity with industrial and scientific way of their software architecture.
+Strong in scripting/tools developmentExperience in Embedded domainExperience in LinuxStrong in debugging/troubleshootingDeep understanding of technology and passionate about what you doStrong reciprocal and interpersonal skills, specifically a confirmed ability to effectively guide and influence within a dynamic work environmentCar driving experience in USA
+
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.","Linux , Bash , debugging , testing , dynamic , scripting , get , embedded , Embedded , key , expression , GPU , field",https://www.glassdoor.com/partner/jobListing.htm?pos=125&ao=702326&s=58&guid=00000170393e6515bfc1bb4ae46218d1&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_6ce317b7&cb=1581508355657&jobListingId=3347431817,3347431817,glassdoor,Nvidia developer

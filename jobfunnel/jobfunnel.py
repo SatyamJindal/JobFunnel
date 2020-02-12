@@ -28,7 +28,7 @@ REMOVE_STATUSES = ['archive', 'archived', 'remove', 'rejected']
 
 # csv header
 MASTERLIST_HEADER = ['status', 'title', 'company', 'location', 'date',
-                     'blurb', 'tags', 'link', 'id', 'provider', 'query']
+                      'tags', 'link', 'id', 'provider', 'query','blurb']
 
 # user agent list
 USER_AGENT_LIST = os.path.normpath(
