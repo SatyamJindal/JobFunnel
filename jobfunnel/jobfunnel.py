@@ -188,32 +188,47 @@ class JobFunnel(object):
                     curr_cont[i] = curr_cont[i].replace(' ','-')
                 ans=''
                 final_arr = []
-                print(curr_cont)
-                
+
+                curr_cont = list(filter(None.__ne__, curr_cont))
+                #print(curr_cont)
                 for i in curr_cont:
-                    if(type(i) == type("a")):
-                        print('i',i,'type',type(i))
-                        if( i.lower() in stack_overflow_tags):
+                    if( i.lower() in stack_overflow_tags):
                             #print('j',i)
-                            if(str(type(i.lower()))[8:-2]=='str'):
+                        if(str(type(i.lower()))[8:-2]=='str'):
                                 #print('**')
                                 #print('trying',stack_overflow_tags[str(i.lower())])
-                                final_arr.append([stack_overflow_tags[str(i.lower())],i])
+                            print(stack_overflow_tags[str(i.lower())])
+                            final_arr.append([stack_overflow_tags[str(i.lower())],i])
 
 
 
                 '''for i in temp_dict.keys():
                     final_arr.append([stack_overflow_tags[i.lower()],i])'''
 
-                final_arr = final_arr.sort(reverse=True)
-                print(final_arr)
+                final_arr.sort(reverse=True)
+
+                rem_dup = dd(int)
+
+                final_string = []
+                for i in final_arr:
+                    if(i[1] not in rem_dup):
+                        final_string.append(i[1])
+                        rem_dup[i[1]]=1
+                    else:
+                        continue
+                    
+                print('trying',final_string)
 
                 count = 0
-                '''for i in range(len(final_arr)):
+                for i in range(len(final_string)):
                     count = count+1
-                    ans+=final_arr[i][1] + ' , '
-                    if(count > 15):
-                        break'''
+                    if(count>15):
+                        break
+                    ans+=final_string[i]
+                    if(count<min(15,len(final_string))):
+                        ans+=' , ' 
+
+                    
                 data[row]['tags'] = ans
                 #print('here', data[row]['tags'])
                 writer.writerow(data[row])
