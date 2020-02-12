@@ -37,7 +37,7 @@ providers_dict={
 
 get_prev_cache()
 
-data  = pd.read_csv('/Users/satyam/Desktop/data.csv')
+data  = pd.read_csv('/Users/riya/Desktop/data.csv')
 
 
 df = pd.DataFrame(data)

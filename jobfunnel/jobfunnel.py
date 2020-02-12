@@ -176,18 +176,25 @@ class JobFunnel(object):
                 curr_cont = list(data[row]['blurb'].split(' '))
                 for i in range(len(curr_cont)):
                     curr_cont[i] = curr_cont[i].replace(',','')
-                    curr_cont[i] = curr_cont[i].replace('-','')
+                    curr_cont[i] = curr_cont[i].replace('.','')
+                    curr_cont[i] = curr_cont[i].replace(' ','-')
                 ans=''
 
                 for i in curr_cont:
                     if( i.lower() in stack_overflow_tags):
                         temp_dict[i]+=1
                 final_arr = []
+
                 for i in temp_dict.keys():
                     final_arr.append([temp_dict[i],i])
+
                 print(sorted(final_arr,reverse=True))
+                    # count =0
                 for i in range(len(final_arr)):
+                    # count = count+1
                     ans+=final_arr[i][1] + ' , '
+                    # if(count > 15):
+                    #     break
                 data[row]['tags'] = ans
                 #print('here', data[row]['tags'])
                 writer.writerow(data[row])
