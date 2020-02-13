@@ -153,7 +153,11 @@ class Indeed(JobFunnel):
                  f'{self.query}')
         
         pages = int(ceil(num_res / self.max_results_per_page))
+<<<<<<< HEAD
         pages = min(10,pages)
+=======
+        #pages = min(10,pages)
+>>>>>>> 9e62e37f571a6d777967c9de60b62ddb131f0a1b
         
         # init list of job soups    
         job_soup_list = []

@@ -22,12 +22,6 @@ today = date.today()
 
 
 
-
-
-
-
-
-
 PROVIDERS = {'indeed': Indeed, 'monster': Monster, 'glassdoor': GlassDoor}
 
 providers_dict={
