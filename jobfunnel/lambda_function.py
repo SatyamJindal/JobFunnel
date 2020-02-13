@@ -31,7 +31,7 @@ providers_dict={
 
 get_prev_cache()
 
-data  = pd.read_csv('/Users/satyam/Desktop/data.csv')
+data  = pd.read_csv('/Users/riya/Desktop/data.csv')
 
 
 df = pd.DataFrame(data)
@@ -140,6 +140,7 @@ def lambda_handler(event,context):
         try:
             temp_ctry = ctry.replace('_',' ')
             temp_kword = kword.replace('_',' ')
+            temp_kword = temp_kword.strip()
             config =    {
                             'output_path': 'search',
                             'providers': providers_dict[curr],
