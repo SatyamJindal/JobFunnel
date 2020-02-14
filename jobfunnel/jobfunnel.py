@@ -204,7 +204,7 @@ class JobFunnel(object):
                         if(str(type(i.lower()))[8:-2]=='str'):
                                 #print('**')
                                 #print('trying',stack_overflow_tags[str(i.lower())])
-                            #print(stack_overflow_tags[str(i.lower())])
+                            print(stack_overflow_tags[str(i.lower())])
                             final_arr.append([stack_overflow_tags[str(i.lower())],i])
 
 

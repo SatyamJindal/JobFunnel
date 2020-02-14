@@ -1,4 +1,0 @@
-status,title,company,location,date,tags,link,id,provider,query
-new,Software Developer (C# .Net Core),RiskFirst,London,2020-01-14,"C# , SQL , Git , PostgreSQL , Azure , API , Docker , Web , join , events , IIS , Kubernetes , time , Server , Scheme",https://www.indeed.co.uk/viewjob?jk=b8a3adcb2127bcba,b8a3adcb2127bcba,indeed,RiskFirst developer
-new,Software Developer (C# .Net),RiskFirst,London,2020-01-14,"C# , SQL , Angular , Git , Azure , API , Docker , testing , Web , join , events , IIS , time , Server , frameworks",https://www.indeed.co.uk/viewjob?jk=ff75ffb68464558b,ff75ffb68464558b,indeed,RiskFirst developer
-new,Front-End Developer (React/Redux),RiskFirst,London,2020-01-14,"Javascript , ReactJS , Typescript , performance , API , Testing , web , join , events , Webpack , Redux , build , frameworks , range , TDD",https://www.indeed.co.uk/viewjob?jk=07c436ab84c256f9,07c436ab84c256f9,indeed,RiskFirst developer

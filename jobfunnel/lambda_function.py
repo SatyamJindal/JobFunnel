@@ -140,7 +140,7 @@ def lambda_handler(event,context):
         try:
             temp_ctry = ctry.replace('_',' ')
             temp_kword = kword.replace('_',' ')
-            temp_kword = temp_kword.strip()
+            #temp_kword = temp_kword.strip()
             config =    {
                             'output_path': 'search',
                             'providers': providers_dict[curr],
@@ -229,7 +229,7 @@ def lambda_handler(event,context):
 
 
 
-    print(invalid_comp)
+    #print(invalid_comp)
 
     df = pd.DataFrame(make_new_csv, columns = ['Title','Company','link','Blurb'])
     df.to_csv(str(cur_date)+'.csv',index=False)
