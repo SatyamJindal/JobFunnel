@@ -84,9 +84,9 @@ def clean(kword):
 
 
 
-for i in glob_cache.keys():
+'''for i in glob_cache.keys():
     for j in glob_cache[i].keys():
-        print(i,j)
+        print(i,j)'''
 
 
 
@@ -228,7 +228,7 @@ def lambda_handler(event,context):
 
 
 
-    print(invalid_comp)
+    #print(invalid_comp)
 
     df = pd.DataFrame(make_new_csv, columns = ['Title','Company','link','Blurb'])
     df.to_csv(str(cur_date)+'.csv',index=False)

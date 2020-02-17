@@ -182,11 +182,14 @@ class JobFunnel(object):
         #print(stack_overflow_tags)
         # writes data [dict(),..] to a csv at path
         with open(path, 'w', encoding='utf8') as csvfile:
+
             writer = csv.DictWriter(csvfile, fieldnames=second)
             writer.writeheader()
             temp_dict = dd(int)
             #print('data',data)
             for row in data:
+                if 'blurb' not in data[row]:
+                    data[row]['blurb'] = ''
                 make_new_csv.append([data[row]['title'],data[row]['company'],data[row]['link'],data[row]['blurb']])
                 curr_cont = list(data[row]['blurb'].split(' '))
                 for i in range(len(curr_cont)):

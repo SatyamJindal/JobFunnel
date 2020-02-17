@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from typing import Dict, Optional
 from numpy import delete as np_delete, max as np_max, fill_diagonal
-
+from collections import defaultdict as dd
 
 def id_filter(cur_dict: Dict[str, dict], prev_dict: Dict[str, dict], provider):
     """ Filter duplicates on job id per provider.
@@ -116,35 +116,40 @@ def tfidf_filter(cur_dict: Dict[str, dict],
                      f're-posts/duplicates via TFIDF cosine similarity!')
 
     else:
+        try:
         # checks current scrape for re-posts/duplicates
-        duplicate_ids = tfidf_filter(cur_dict)
+            duplicate_ids = tfidf_filter(cur_dict)
 
-        # get query words and ids as lists
-        query_ids = [job['id'] for job in cur_dict.values()]
-        query_words = [job['blurb'] for job in cur_dict.values()]
+            # get query words and ids as lists
+            query_ids = [job['id'] for job in cur_dict.values()]
+            query_words = [job['blurb'] for job in cur_dict.values()]
 
-        # get reference words as list
-        reference_words = [job['blurb'] for job in prev_dict.values()]
 
-        # fit vectorizer to entire corpus
-        vectorizer.fit(query_words + reference_words)
+            # get reference words as list
+            reference_words = [job['blurb'] for job in prev_dict.values()]
 
-        # set reference tfidf for cosine similarity later
-        references = vectorizer.transform(reference_words)
+            # fit vectorizer to entire corpus
+            vectorizer.fit(query_words + reference_words)
 
-        # calculate cosine similarity between reference and current blurbs
-        similarities = cosine_similarity(
-            vectorizer.transform(query_words), references)
+            # set reference tfidf for cosine similarity later
+            references = vectorizer.transform(reference_words)
 
-        # get duplicate job ids and pop them
-        for sim, query_id in zip(similarities, query_ids):
-            if np_max(sim) >= max_similarity:
-                duplicate_ids.update({query_id: cur_dict.pop(query_id)})
+            # calculate cosine similarity between reference and current blurbs
+            similarities = cosine_similarity(
+                vectorizer.transform(query_words), references)
 
-        # log something
-        logging.info(f'found {len(cur_dict.keys())} unique listings and '
-                     f'{len(duplicate_ids.keys())} duplicates '
-                     f'via TFIDF cosine similarity')
+            # get duplicate job ids and pop them
+            for sim, query_id in zip(similarities, query_ids):
+                if np_max(sim) >= max_similarity:
+                    duplicate_ids.update({query_id: cur_dict.pop(query_id)})
+
+            # log something
+            logging.info(f'found {len(cur_dict.keys())} unique listings and '
+                        f'{len(duplicate_ids.keys())} duplicates '
+                        f'via TFIDF cosine similarity')
+            
 
     # returns a dictionary of duplicates
-    return duplicate_ids
+            return duplicate_ids
+        except Exception as e:
+            return dd(int)
