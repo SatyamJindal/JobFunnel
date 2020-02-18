@@ -248,9 +248,17 @@ class GlassDoor(JobFunnel):
                 #print(job['company'].lower())
                 search_key = str(self.search_terms['keywords'][0]).lower().strip('developer').strip()
                 first_job = job['company'].lower().strip()
+          
+                flag = 0
+                search_list = search_key.split()
+                for i in search_list:
+                    if i in first_job:
+                        flag = 1
+                        break 
+                        
                 #print('fir',search_key,'sec',first_job)
                 #print(str(search_key).lower().strip()==str(first_job).lower().strip())
-                if(search_key!=first_job):
+                if(flag == 0):
                     log_info('No searches found on glassdoor')
                     status = 1
                     continue
