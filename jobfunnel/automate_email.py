@@ -1,4 +1,6 @@
-import imaplib, email 
+import imaplib, email
+import csv
+import pandas as pd
   
 user = 'riya.agrahari@hackerrank.com'
 password = 'wvtufdqovypfmtjy'
@@ -66,8 +68,54 @@ for msg in msgs[::-1]:
                 file = open('file.txt','a')
                 file.write(data2[0: indexend])
                 file.close()
-                print(data2[0: indexend]) 
+                # print(data2[0: indexend]) 
   
             except UnicodeEncodeError as e: 
                 pass
     break
+# replace invalid keywords
+f = open('file.txt','r')
+filedata = f.read()
+f.close()
+
+newdata = filedata.replace("=0D","")
+newdata = newdata.replace("0D","")
+newdata = newdata.replace("=","")
+newdata = newdata.replace("\n","")
+
+f = open('file.txt','w')
+f.write(newdata)
+f.close()
+print("********************************************************************************************************")
+data = ""
+# find index of string
+with open('file.txt', 'r') as f:
+    content = f.read()
+    first_index = content.index('|0A|')
+    last_index = content.index('|0A0A')
+    data = content[first_index+4:last_index]
+    data = data.replace("0D","")
+# write data to a csv 
+cols = ['Name', 'Email', 'Company', 'Phone', 'Payment plan', 'Country', 'Current status']
+HEADER = []
+l = data.split("|0A|")
+print(l)
+for i in l:
+    row = i.split("|")
+    row = [x.replace("\n","") for x in row]
+    row = [x.strip(' ') for x in row]
+    HEADER.append(row)
+df = pd.DataFrame(HEADER,columns=cols)
+df.to_csv('data.csv',index=False)
+#print(data)
+#data_list = []
+'''with open('data.csv', 'w') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=HEADER)
+    #writer.writeheader()
+    # data.replace("\n","")
+    #print(data)
+
+    writer.writerows(HEADER)
+    print(HEADER)'''   
+            
+
