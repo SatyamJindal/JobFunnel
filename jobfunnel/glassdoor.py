@@ -256,7 +256,7 @@ class GlassDoor(JobFunnel):
                         flag = 1
                         break 
                         
-                #print('fir',search_key,'sec',first_job)
+               
                 #print(str(search_key).lower().strip()==str(first_job).lower().strip())
                 if(flag == 0):
                     log_info('No searches found on glassdoor')
