@@ -1,0 +1,89 @@
+status,title,company,location,date,blurb,tags,link,id,provider,query
+new,Full-Stack Web Applications Developer,Torc Robotics,"Blacksburg, VA 24060",2020-01-13,"At Torc, we have always believed that autonomous vehicle technology will transform how we travel, ship goods, and do business.
+
+A leader in autonomous driving since 2007, Torc has spent over a decade commercializing their autonomous solutions with experienced partners. Now a part of the Daimler family ( https://torc.ai/daimler-testing-automated-trucks-public/ ), we are developing automated trucks to transform transportation.
+
+Join us and take your career to new heights with a company that helped pioneer autonomous technology. You'll work with an experienced team of people who are committed to creating safer roads, and your contributions will have an impact on the future of transportation.
+
+About the Role:
+We are seeking a Junior Web Developer to support the integration and deployment of autonomous software to vehicles operating all over the world. You will be responsible for working closely with engineers to drive the technical road map of infrastructure operations while maintaining vehicle deployments and updates.
+
+Responsibilities:
+
+Develop and maintain Web Applications and API's
+Work with the autonomous software development teams to provide new features and capabilities
+Develop and maintain standards-compliant and extensible code
+
+Core Competencies:
+
+Python
+Fullstack Web Application and API development
+Node.js, Javascript, Typescript
+SQL
+Agile Development (Scrum)
+Linux Command Line
+Docker & Docker Compose
+End-to-end testing experience
+
+Preferred Competencies:
+
+Experience with a variety of web stacks
+DDD (Domain Driven Development), and Clean Architecture
+Svelte, Vue or any modern front-end JavaScript framework
+three.js or other 3D web framework
+ROS
+C++
+Object-oriented development
+
+Qualifications:
+
+Bachelor's or Master's Degree in Computer Engineering, Computer Science, or related technical field
+1-2 years of relevant industry experience
+
+Perks of Being a Torc'r
+
+Torc cares about our team members and we strive to provide benefits and resources to support their health, work/life balance, and their future. Additionally, we are always open to suggestions to accommodate individual employee needs. Torc offers:
+
+
+Full coverage of monthly medical premiums for full-time employees
+Medical/dental/vision/ AD+D and Life Insurance
+401K plan with employer matching
+Annual learning and development stipend
+Leadership development training
+Collaborative, energetic, and team-focused work environment
+Flexibility in schedule and generous paid vacation","Javascript , JavaScript , API , Docker , testing , web , Web , deployment , 3D , map , Command , resources",https://www.indeed.com/viewjob?jk=852fee4be42de7b2,852fee4be42de7b2,indeed,Torc Robotics developer
+new,System Integration Engineering Co-Op,Torc Robotics,"Blacksburg, VA 24060",2020-01-29,"At Torc, we have always believed that autonomous vehicle technology will transform how we travel, ship goods, and do business.
+
+A leader in autonomous driving since 2007, Torc has spent over a decade commercializing their autonomous solutions with experienced partners. Now a part of the Daimler family ( https://torc.ai/daimler-testing-automated-trucks-public/ ), we are developing automated trucks to transform transportation.
+
+Join us and take your career to new heights with a company that helped pioneer autonomous technology. You'll work with an experienced team of people who are committed to creating safer roads, and your contributions will have an impact on the future of transportation.
+
+About the Role
+
+Torc is looking for a System Integration Engineering Co-op to join a team responsible for bringing our autonomous driving software onto our test vehicles. This team provides a key role in the continuous development pipeline, ensuring functional deployment updates are available to testing teams on a regular basis.
+
+Responsibilities
+
+
+Support the integration of new and existing automated components onto vehicles and test benches
+Assist with troubleshooting of component and system integration issues, guiding the team to an efficient resolution
+Assist developer-in-vehicle development data collection and testing
+Support integration tests, performing closed course and on-road verification of software updates prior to deployment to testing groups
+Track full system performance, understanding the contributions of relevant sub-systems, providing feedback to development teams
+Support a rapid integration and deployment schedule for autonomous software stack with consistent releases to testing teams
+Assist with tracking of system performance KPis on a regular basis
+Provide integration issue resolution support to the testing teams
+
+Qualifications
+
+
+Experience with robotics, or systems integration of complex electro-mechanical systems
+Experience using ROS is preferred
+Programming experience in C++ and Python are desired
+Exceptional problem-solving skills, able to identify root causes in complex integrated systems
+Strong communication skills in both written documentation and verbal presentation
+
+Education, Licensing, and Certifications Required
+
+
+Progress toward a bachelor's degree in Engineering or Computer Science","Python , C++ , performance , testing , join , deployment , stack , components , key",https://www.indeed.com/viewjob?jk=8c27c619e1e8d086,8c27c619e1e8d086,indeed,Torc Robotics developer

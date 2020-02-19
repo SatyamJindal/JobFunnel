@@ -1,0 +1,244 @@
+status,title,company,location,date,blurb,tags,link,id,provider,query
+new,"Senior Software Engineer, Data",Coinbase,"San Francisco, CA",2020-01-13,"Location: San Francisco, CA
+
+Coinbase has built the world's leading compliant cryptocurrency platform serving over 30 million accounts in more than 100 countries. With multiple successful products, and our vocal advocacy for blockchain technology, we have played a major part in mainstream awareness and adoption of cryptocurrency. We are proud to offer an entire suite of products that are helping build the cryptoeconomy, and increase economic freedom around the world.
+
+There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we assess whether a candidate demonstrates our values: Clear Communication, Positive Energy, Efficient Execution, and Continuous Learning. Second, we look for signals that a candidate will thrive in a culture like ours, where we default to trust, embrace feedback, disrupt ourselves, and expect sustained high performance because we play as a championship team. Finally, we seek people with the desire and capacity to build and share expertise in the frontier technologies of crypto and blockchain, in whatever way is most relevant to their role.
+
+Read more about our values and culture here.
+
+As a senior software engineer in the Data organization, you will have a chance to work across the full spectrum of our data systems from our data ingestion and transformation engines that empower users to build their own pipelines and dimensional models, through BI tooling automation that helps analysts deliver insights, to our machine learning platform that enables our machine learning team to iterate on, train at scale and productionize models at lightning speed.
+
+Responsibilities:
+
+Data Ingestion Platform: scalable, self-service tooling that allows non-engineers to manage batch and streaming ingestion pipelines and data transformations.
+Data Governance System: a comprehensive system that encompasses data quality, lineage, sensitive data discovery and categorization, role-based access controls, auditing, and a user-friendly catalogue.
+Frontend Analytics Service: large-scale clickstream ingestion pipeline and related stream processing.
+Feature Store: Batch and real-time data aggregation and serving layer that powers predictive models.
+Nostradamus: Training and scoring infrastructure that enable machine learning practitioners to take a model from an idea to production.
+
+Requirements
+
+Exhibit our core cultural values: add positive energy, communicate clearly, be curious, and be a builder.
+Experience building backend systems at scale with a focus on data processing/machine learning/analytics
+Experience building microservices
+Experience with Python and/or Java/Scala
+
+
+Preferred (not required)
+
+
+
+Computer Science or related engineering degree
+Deep knowledge of Apache Airflow, Spark, Flink, Kafka/Kinesis, Snowflake, Hadoop, Hive
+
+What to send:
+
+A resume that describes scalable systems you've built
+
+
+Coinbase is committed to diversity in its workforce and is proud to be an equal opportunity employer and to review all of our job postings to minimize biased language. Coinbase does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Coinbase will also consider for employment qualified applicants with arrest and conviction records in a manner consistent with San Francisco's Fair Chance Ordinance and similar local laws.
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how your data will be processed as part of the application procedure for application locations is available here: Ireland/EU, United Kingdom, and California. By submitting your application, you are agreeing to our use and processing of your data as required.SDL2017","Python , performance , Apache , Hadoop , build , automation , model , stream , location , controls , streaming , focus , expression , signals , processing",https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=189299&s=58&guid=00000170393f8ea7a57800d854d61851&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&cs=1_dfbaadd3&cb=1581508432859&jobListingId=3429143267,3429143267,glassdoor,Coinbase developer
+new,"Staff Software Engineer, Developer Productivity",Coinbase,"San Francisco, CA",2020-02-08,"Location: San Francisco, CACoinbase has built the world's leading compliant cryptocurrency platform serving over 30 million accounts in more than 100 countries. With multiple successful products, and our vocal advocacy for blockchain technology, we have played a major part in mainstream awareness and adoption of cryptocurrency. We are proud to offer an entire suite of products that are helping build the cryptoeconomy, and increase economic freedom around the world.
+
+There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we assess whether a candidate demonstrates our values: Clear Communication, Positive Energy, Efficient Execution, and Continuous Learning. Second, we look for signals that a candidate will thrive in a culture like ours, where we default to trust, embrace feedback, disrupt ourselves, and expect sustained high performance because we play as a championship team. Finally, we seek people with the desire and capacity to build and share expertise in the frontier technologies of crypto and blockchain, in whatever way is most relevant to their role.
+
+Read more about our values and culture here.
+
+The Developer Productivity team helps Coinbase engineers realize this vision by enabling them to design, develop and deploy software quickly, reliably and securely. We consider the engineering teams as our customers and work closely with them throughout our development process. We proactively seek out and adopt best practices from the industry and make strategic investments to automate interactions and push responsibility to vendors for undifferentiated tools. Our biggest challenge is to serve a high-velocity engineering organization well during a period of high growth and ambitious goals.
+
+We're looking for a Staff Software Engineer to balance the role of an individual contributor while also anchoring new projects, leading technical direction and mentoring other engineers on the team.
+
+What you'll be doing:
+
+
+Lead the development of tools, rules and standards for our bazel-based monorepo
+Continuously improve our CI/CD pipeline serving a wide range of architectural patterns, from EC2 to Serverless to mobile
+Manage, develop and improve service discovery and communication protocols
+Build and maintain artifact storage and management tools
+Accelerate engineering velocity through paved roads that standardize common programming patterns across our engineering organization
+Quantify productivity and help define a data-driven roadmap
+Make our Serverless tooling enterprise-level:
+
+
+https://blog.coinbase.com/benchmarking-aws-lambda-ca3cfb3c25cd
+
+Bridge the gap between several technologies we'd like to adopt, such as gRPC and AWS Lambda:
+
+https://blog.coinbase.com/grpc-to-aws-lambda-is-it-possible-4b29a9171d7f
+
+What we look for in you:
+
+
+You exhibit our core values: clear communication, positive energy, continuous learning, and efficient execution
+You have at least 7+ years of experience in software engineering
+You know what high quality code  and software engineering processes  look like and know how to foster an environment that creates them
+You are an expert in at least one programming language such as Go, Ruby or JavaScript
+You have built systems on public cloud providers such as AWS, GCP or Azure
+You're passionate about building an open financial system for the world
+
+Nice to haves:
+
+
+You are familiar with service oriented architectures at scale and understand the tradeoffs between different architectural approaches
+You are familiar with popular application frameworks such as React
+You've built systems with financial or security constraints
+
+Coinbase is committed to diversity in its workforce and is proud to be an equal opportunity employer and to review all of our job postings to minimize biased language. Coinbase does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Coinbase will also consider for employment qualified applicants with arrest and conviction records in a manner consistent with San Francisco's Fair Chance Ordinance and similar local laws.
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how your data will be processed as part of the application procedure for application locations is available here: Ireland/EU, United Kingdom, and California. By submitting your application, you are agreeing to our use and processing of your data as required.","Ruby , performance , security , Go , service , build , process , frameworks , location , range , cloud , expression , signals , processing , storage",https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=8095&s=58&guid=00000170393f8ea7a57800d854d61851&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&ea=1&cs=1_0b510025&cb=1581508432596&jobListingId=3485666670,3485666670,glassdoor,Coinbase developer
+new,"Director, Developer Platform",Coinbase,"San Francisco, CA",2020-01-30,"Location: San Francisco, CA
+
+
+Coinbase has built the world's leading compliant cryptocurrency platform serving over 30 million accounts in more than 100 countries. With multiple successful products, and our vocal advocacy for blockchain technology, we have played a major part in mainstream awareness and adoption of cryptocurrency. We are proud to offer an entire suite of products that are helping build the cryptoeconomy, and increase economic freedom around the world.
+
+There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we assess whether a candidate demonstrates our values: Clear Communication, Positive Energy, Efficient Execution, and Continuous Learning. Second, we look for signals that a candidate will thrive in a culture like ours, where we default to trust, embrace feedback, disrupt ourselves, and expect sustained high performance because we play as a championship team. Finally, we seek people with the desire and capacity to build and share expertise in the frontier technologies of crypto and blockchain, in whatever way is most relevant to their role.
+
+Read more about our values and culture here.
+
+As the Director of our development platform, you are responsible for bootstrapping the ecosystem of third-party developers and services that will enable us to execute on our mission of an open financial system. Instead of focusing on the individual or institutional users, you fixate on developers and how to create an innovative, secure, and scalable platform to enable them. Consistent with the breadth of our vision, you have a broad challenge - everything from making trading algorithms easier to test and deploy for professional traders to making blockchain updates easier to respond to in the cloud to helping companies connect with our consumers through self service APIs is within your purview. You will partner with the entirety of Coinbase - all products, service teams, and disciplines - as you work to expose new and useful capabilities to developers. From developer portal design to API documentation to promoting our services on stage, you will wear many hats and spend much of your time meeting with, and learning from, our developers and customers.
+
+What you'll be doing:
+
+
+
+Create, own, operate, and expand our public APIs and developer portal.
+
+Market, advocate, and evangelize our developer platform and offerings; learn from developers and turn those learnings into actions by continuously improving our services, APIs, and architectures.
+
+Adopt the most modern and up-to-date technology approaches, such as Serverless, and incorporate them into our platform to accelerate developer productivity.
+
+Own and push our efforts to catalog APIs, create first-class services (many of which will also be public), and align both internal and external APIs and services with our business strategy.
+
+Present API, SOA, and service strategy to the executive team. Collaborate with every team across disciplines throughout Coinbase to make our developer platform vision a reality.
+
+Zealously advocate, through conferences, blogs, customer visits, and social media, for Coinbase, its developer offerings, and its platform vision.
+
+
+What we look for in you:
+
+
+
+Demonstrated ability to create and grow developer adoption (both individual and enterprise).
+
+Demonstrated success at owning and optimizing adoption and usage KPIs and related business metrics.
+
+Clear and crisp communicator. Able to successfully target audiences of 1 to 10,000 and from entry-level IC engineers to Board meetings. Fluid communicator of both aspirational vision and technically deep material, such as API specifications.
+
+Steer and influence both with and without authority - you should be capable of leading organizations with dozens of members as well as project and product managing complex, cross-organizational outcomes without organizational ownership. Comfortable leading engineering, design, PM, documentation, and other disciplines, including hiring and developing them.
+
+Demonstrated experience owning operations and incident response for enterprise-grade code.
+
+Minimum of 12 years of level-appropriate professional experience in a GM, CEO, CTO, technical Director of Product, or similar role/roles.
+
+4 year Computer Science or equivalent degree.
+
+
+Nice to haves:
+
+
+
+Deep and broad crypto knowledge, such as blockchain technology, defi, emerging Layer 2 solutions, etc.
+
+Knowledge of conventional financial systems and services, ideally from an implementation or product design perspective, such as broker/dealers, exchanges, quantitative analysis or high-frequency trading algorithms, margin and leverage, etc.
+
+Experience successfully designing and launching an enterprise-grade service/API in the cloud, or equivalent experience creating, delivering, and operating multi-tenanted, distributed systems at scale.
+
+Accomplished speaker with a public portfolio.
+
+MBA or equivalent on-the-job experience.
+
+Advanced degree (Master's and/or PhD) in math, computer science, statistics, engineering, or similar disciplines.
+
+
+Coinbase is committed to diversity in its workforce and is proud to be an equal opportunity employer and to review all of our job postings to minimize biased language. Coinbase does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Coinbase will also consider for employment qualified applicants with arrest and conviction records in a manner consistent with San Francisco's Fair Chance Ordinance and similar local laws.
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how your data will be processed as part of the application procedure for application locations is available here: Ireland/EU, United Kingdom, and California. By submitting your application, you are agreeing to our use and processing of your data as required.","performance , API , math , service , build , statistics , location , cloud , expression , signals , processing , state",https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=8095&s=58&guid=00000170393f8ea7a57800d854d61851&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&ea=1&cs=1_772ed47d&cb=1581508432621&jobListingId=3324490670,3324490670,glassdoor,Coinbase developer
+new,"Staff Software Engineer, Enterprise Applications",Coinbase,"San Francisco, CA",2020-02-05,"Location: San Francisco, CACoinbase has built the world's leading compliant cryptocurrency platform serving over 30 million accounts in more than 100 countries. With multiple successful products, and our vocal advocacy for blockchain technology, we have played a major part in mainstream awareness and adoption of cryptocurrency. We are proud to offer an entire suite of products that are helping build the crypto economy, and increase economic freedom around the world.
+
+There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we assess whether a candidate demonstrates our values: Clear Communication, Positive Energy, Efficient Execution, and Continuous Learning. Second, we look for signals that a candidate will thrive in a culture like ours, where we default to trust, embrace feedback, disrupt ourselves, and expect sustained high performance because we play as a championship team. Finally, we seek people with the desire and capacity to build and share expertise in the frontier technologies of crypto and blockchain, in whatever way is most relevant to their role.
+
+Read more about our values and culture here.
+
+We are looking for an experienced Staff Software Engineer to lead and drive capabilities for our Finance, HR, Sales or Support Engineering team in IT. A passion for engineering practices like product quality, CI/CD and agile adoption, is a must, from day one.
+
+The Staff Software Engineer with be responsible for development work in various platforms. The role will report to the Director of Engineering for Enterprise Apps. The growing Enterprise Applications and Architecture (EAA) team is based in San Francisco, CA, with a global presence in other offices.
+
+We have an extensive portfolio of world-class implementations of NetSuite, Anaplan, Coupa, Workday, SFDC and Mulesoft to help our Company scale. The successful candidate must have significant previous experience in similar roles, in rapidly growing organizations.
+
+What you'll be doing (ie. job duties):
+
+Design, build and maintain custom backend/frontend applications and services in the domains of Finance, HR, Sales, Support that integrate with best-in-class enterprise systems.
+Work with engineering managers, product managers, and designers to turn vision into a functional software for our stakeholders every quarter.
+Act as an owner where you will be involved in all stages of the application from inception through support.
+Articulate a long term vision for maintaining and scaling our home-grown enterprise systems.
+Add positive energy in every meeting, and make your coworkers feel included in every interaction.
+
+What we look for in you (ie. job requirements):
+
+You've worked with Front End: React, JavaScript; Back End: Golang, Ruby, Rails, Angular, C, C++ and Databases: Redshift, Postgres, Snowflake, Devops: Docker, AWS, CircleCI, Pagerduty and developed custom enterprise systems.
+You have at least 5 years of experience in software engineering.
+Computer Science degree or equivalent education
+Proven record of building security-led highly reliable systems, meeting non-functional requirements (availability, scalability, supportability, interoperability)
+
+Nice to haves:
+
+You are familiar with SDLC practices like agile/scrum
+Enjoy uncertainty and changing requirements in a fast-paced & high-growth environment
+Passionate about the crypto economy.
+
+Coinbase is committed to diversity in its workforce and is proud to be an equal opportunity employer and to review all of our job postings to minimize biased language. Coinbase does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Coinbase will also consider for employment qualified applicants with arrest and conviction records in a manner consistent with San Francisco's Fair Chance Ordinance and similar local laws.
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how your data will be processed as part of the application procedure for application locations is available here: Ireland/EU, United Kingdom, and California. By submitting your application, you are agreeing to our use and processing of your data as required.","C++ , C , Ruby , Angular , performance , Docker , build , Architecture , location , report , expression , signals , processing , state",https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=8095&s=58&guid=00000170393f8ea7a57800d854d61851&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&ea=1&cs=1_4ad8ce33&cb=1581508432654&jobListingId=3355617319,3355617319,glassdoor,Coinbase developer
+new,"Staff Software Engineer, Cloud",Coinbase,"San Francisco, CA",2020-02-08,"Location: San Francisco, CACoinbase has built the world's leading compliant cryptocurrency platform serving over 30 million accounts in more than 100 countries. With multiple successful products, and our vocal advocacy for blockchain technology, we have played a major part in mainstream awareness and adoption of cryptocurrency. We are proud to offer an entire suite of products that are helping build the cryptoeconomy, and increase economic freedom around the world.
+
+There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we assess whether a candidate demonstrates our values: Clear Communication, Positive Energy, Efficient Execution, and Continuous Learning. Second, we look for signals that a candidate will thrive in a culture like ours, where we default to trust, embrace feedback, disrupt ourselves, and expect sustained high performance because we play as a championship team. Finally, we seek people with the desire and capacity to build and share expertise in the frontier technologies of crypto and blockchain, in whatever way is most relevant to their role.
+
+Read more about our values and culture here.
+
+Infrastructure is not a back office function at Coinbase. It is a product that we hold to the same quality standards as any other that we ship (in our case, with internal and open source customers). Developer productivity and happiness is our goal. We've built some of the most secure, containerized infrastructure running in the cloud and consider DevOps & automation a competitive advantage for the company. We're growing our team to continue protecting and scaling Coinbase's infrastructure while furthering our mission of making payments more open and efficient around the world.
+
+In case you are wondering what technologies run behind Coinbase, we're powered by a combination of AWS, Docker, Terraform, Kinesis, PostgreSQL, Ruby, and Golang. Prior experience with these exact languages/technologies is not required.
+
+We're looking for a Staff Software Engineer to balance the role of an individual contributor while also anchoring new projects, leading technical direction, and mentoring other engineers on the team. You'll be working with many stakeholders given the sheer number of systems we touch.
+
+What you'll be doing:
+
+
+Scaling the persistent tiers that power a 12 factor, containerized micro-service architecture
+Providing durable and optimized storage services for internal applications
+Ensuring high availability across all backing services with well-exercised disaster recovery plans
+Provide self-service access for engineering teams to deploy, scale and access production infrastructure
+Participate in 24x7 on-call rotation
+Balancing security and usability with novel approaches to isolation and access
+
+What we look for in you:
+
+
+Experience building and maintaining large-scale production systems
+Experience with backend development
+Hands-on coding ability
+Interest or passion for building solid, scalable infrastructure
+
+Nice to haves:
+
+
+Experience using Amazon Web Services, Docker, Terraform, PostgreSQL
+Experience with host, network and account security in a VPC
+Experience deploying, integrating & securing service discovery
+Experience with immutable infrastructure
+
+Coinbase is committed to diversity in its workforce and is proud to be an equal opportunity employer and to review all of our job postings to minimize biased language. Coinbase does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law. Coinbase will also consider for employment qualified applicants with arrest and conviction records in a manner consistent with San Francisco's Fair Chance Ordinance and similar local laws.
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how your data will be processed as part of the application procedure for application locations is available here: Ireland/EU, United Kingdom, and California. By submitting your application, you are agreeing to our use and processing of your data as required.","Ruby , PostgreSQL , performance , function , Docker , security , Web , service , build , automation , location , cloud , expression , signals , case",https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=8095&s=58&guid=00000170393f8ea7a57800d854d61851&src=GD_JOB_AD&t=SR&extid=1&exst=EOL&ist=&ast=EOL&vt=w&slr=true&ea=1&cs=1_5ee0c872&cb=1581508432857&jobListingId=3485666672,3485666672,glassdoor,Coinbase developer
