@@ -31,7 +31,11 @@ providers_dict={
 
 get_prev_cache()
 
+<<<<<<< HEAD
 data  = pd.read_csv('/Users/satyam/Desktop/data.csv')
+=======
+data  = pd.read_csv('data.csv')
+>>>>>>> f21926cbaa9d2c534229293514db1b7a91039253
 
 
 df = pd.DataFrame(data)
@@ -67,8 +71,9 @@ for i in db.keys():
         keyword.append(i)
         countries.append(j)
 
-invalid = ['hackerrank','self','qasir.id']
+invalid = ['hackerrank','self','qasir.id','java','student']
 valid = ['tcs','itc','kit','ibm']
+separator = [';','/','+','#']
 
 def clean(kword):
     status = 0
@@ -80,6 +85,7 @@ def clean(kword):
         kword = kword[:kword.index('Encs')+1]
     if (kword.lower() in invalid):
         status=1
+<<<<<<< HEAD
     return [kword,status]
 
 
@@ -87,7 +93,12 @@ def clean(kword):
 '''for i in glob_cache.keys():
     for j in glob_cache[i].keys():
         print(i,j)'''
+=======
+    if any(word in kword for word in separator):
+        status=1
+>>>>>>> f21926cbaa9d2c534229293514db1b7a91039253
 
+    return [kword,status]
 
 
 
@@ -211,7 +222,7 @@ def lambda_handler(event,context):
         # done!
         jf.logger.info(
             "done. see un-archived jobs in " + config['master_list_path'])
-        print('-'*100)
+        #print('-'*100)
         try:
             if(count!=len(config['providers'])):
                 shutil.copy(src_fpath, dest_fpath)
@@ -229,9 +240,14 @@ def lambda_handler(event,context):
 
 
     #print(invalid_comp)
-
+    current_date = today.strftime("%Y-%m-%d")
+    # path = 'search/Job_details-{0}'.format(str(current_date))
+    d_path = '{0}/Job_details-{1}'.format(str(current_date),str(current_date))
     df = pd.DataFrame(make_new_csv, columns = ['Title','Company','link','Blurb'])
-    df.to_csv(str(cur_date)+'.csv',index=False)
+    df.to_csv(d_path+'.csv',index=False)
+ 
+    
+   
     
         
     
