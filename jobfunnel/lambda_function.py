@@ -88,13 +88,6 @@ def clean(kword):
 
 
 
-for i in glob_cache.keys():
-    for j in glob_cache[i].keys():
-        print(i,j)
-
-
-
-
 def lambda_handler(event,context):
     for i in range(len(keyword)):
         kword = keyword[i]
