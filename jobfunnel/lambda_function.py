@@ -31,11 +31,7 @@ providers_dict={
 
 get_prev_cache()
 
-<<<<<<< HEAD
-data  = pd.read_csv('/Users/satyam/Desktop/data.csv')
-=======
 data  = pd.read_csv('data.csv')
->>>>>>> f21926cbaa9d2c534229293514db1b7a91039253
 
 
 df = pd.DataFrame(data)
@@ -87,18 +83,8 @@ def clean(kword):
         kword = kword[:kword.index(',')]  
     if (kword.lower() in invalid):
         status=1
-<<<<<<< HEAD
-    return [kword,status]
-
-
-
-'''for i in glob_cache.keys():
-    for j in glob_cache[i].keys():
-        print(i,j)'''
-=======
     if any(word in kword for word in separator):
         status=1
->>>>>>> f21926cbaa9d2c534229293514db1b7a91039253
 
     return [kword,status]
 
