@@ -7,9 +7,10 @@ from math import ceil
 from requests import post
 from time import sleep, time
 
-from .jobfunnel import JobFunnel, MASTERLIST_HEADER
-from .tools.tools import filter_non_printables
-from .tools.tools import post_date_from_relative_post_age
+from jobfunnel import JobFunnel, MASTERLIST_HEADER
+from tools.tools import filter_non_printables
+from tools.tools import post_date_from_relative_post_age
+from collections import defaultdict as dd 
 
 
 class GlassDoor(JobFunnel):
@@ -24,8 +25,7 @@ class GlassDoor(JobFunnel):
                       'q=0.9,image/webp,*/*;q=0.8',
             'accept-encoding': 'gzip, deflate, sdch, br',
             'accept-language': 'en-GB,en-US;q=0.8,en;q=0.6',
-            'referer': 'https://www.glassdoor.{0}/'.format(
-                self.search_terms['region']['domain']),
+            'referer': 'https://www.glassdoor.com',
             'upgrade-insecure-requests': '1',
             'user-agent': self.user_agent,
             'Cache-Control': 'no-cache',
@@ -36,8 +36,7 @@ class GlassDoor(JobFunnel):
                       'image/webp,*/*;q=0.01',
             'accept-encoding': 'gzip, deflate, sdch, br',
             'accept-language': 'en-GB,en-US;q=0.8,en;q=0.6',
-            'referer': 'https://www.glassdoor.{0}/'.format(
-                self.search_terms['region']['domain']),
+            'referer': 'https://www.glassdoor.com/',
             'upgrade-insecure-requests': '1',
             'user-agent': self.user_agent,
             'Cache-Control': 'no-cache',
@@ -48,7 +47,7 @@ class GlassDoor(JobFunnel):
     def convert_radius(self, radius):
         """function that quantizes the user input radius to a valid radius
            value: 10, 20, 30, 50, 100, and 200 kilometers"""
-        if self.search_terms['region']['domain'] == 'com':
+        if True:
             if radius < 5:
                 radius = 0
             elif 5 <= radius < 10:
@@ -97,7 +96,7 @@ class GlassDoor(JobFunnel):
         """gets the glassdoor search url"""
         # form the location lookup request data
         data = {
-            'term': self.search_terms['region']['city'],
+            'term': self.search_terms['region']['country'],
             'maxLocationsToReturn': 10
         }
 
@@ -114,20 +113,20 @@ class GlassDoor(JobFunnel):
             raise NotImplementedError()
         elif method == 'post':
             # form the job search url
-            search = (f"https://www.glassdoor."
-                      f"{self.search_terms['region']['domain']}/Job/jobs.htm")
+            search = (f"https://www.glassdoor.com"
+                      f"/Job/jobs.htm")
 
             # form the job search data
+
             data = {
                 'clickSource': 'searchBtn',
                 'sc.keyword': self.query,
-                'locT': 'C',
+                'locT': location_response[0]['locationType'],
                 'locId': location_response[0]['locationId'],
                 'jobType': '',
                 'radius': self.convert_radius(
-                    self.search_terms['region']['radius'])
+                    self.search_terms['region']['radius']),
             }
-
             return search, data
         else:
             raise ValueError(f'No html method {method} exists')
@@ -189,10 +188,12 @@ class GlassDoor(JobFunnel):
 
         # get the html data, initialize bs4 with lxml
         request_html = self.s.post(search, headers=self.headers, data=data)
+        
 
         # create the soup base
+      
         soup_base = BeautifulSoup(request_html.text, self.bs4_parser)
-
+    
         # scrape total number of results, and calculate the # pages needed
         num_res = soup_base.find('p', attrs={
             'class', 'jobsCount'}).text.strip()
@@ -222,16 +223,15 @@ class GlassDoor(JobFunnel):
                     'class', 'next'}).find('a').get('href')
                 # uses partial url to construct next page url
                 page_url = re.sub(r'_IP\d+\.', "_IP" + str(page) + '.',
-                                  f"https://www.glassdoor."
-                                  f"{self.search_terms['region']['domain']}"
+                                  f"https://www.glassdoor.com"
                                   f"{part_url}")
 
                 fts.append(  # append thread job future to futures list
                     threads.submit(self.search_page_for_job_soups,
                                    data, page, page_url, job_soup_list))
         wait(fts)  # wait for all scrape jobs to finish
-
         # make a dict of job postings from the listing briefs
+        status = 0
         for s in job_soup_list:
             # init dict to store scraped data
             job = dict([(k, '') for k in MASTERLIST_HEADER])
@@ -245,6 +245,24 @@ class GlassDoor(JobFunnel):
                          recursive=False).text.strip()
                 job['company'] = s.find('div', attrs={
                     'class', 'jobInfoItem jobEmpolyerName'}).text.strip()
+                #print(job['company'].lower())
+                search_key = str(self.search_terms['keywords'][0]).lower().strip('developer').strip()
+                first_job = job['company'].lower().strip()
+          
+                flag = 0
+                search_list = search_key.split()
+                for i in search_list:
+                    if i in first_job:
+                        flag = 1
+                        break 
+                        
+               
+                #print(str(search_key).lower().strip()==str(first_job).lower().strip())
+                if(flag == 0):
+                    log_info('No searches found on glassdoor')
+                    status = 1
+                    continue
+                    
                 job['location'] = s.get('data-job-loc')
             except AttributeError:
                 continue
@@ -269,8 +287,7 @@ class GlassDoor(JobFunnel):
                 part_url = s.find('div', attrs={
                     'class', 'logoWrap'}).find('a').get('href')
                 job['id'] = s.get('data-id')
-                job['link'] = (f"https://www.glassdoor."
-                               f"{self.search_terms['region']['domain']}"
+                job['link'] = (f"https://www.glassdoor.com"
                                f"{part_url}")
 
             except (AttributeError, IndexError):
@@ -282,6 +299,7 @@ class GlassDoor(JobFunnel):
 
             # key by id
             self.scrape_data[str(job['id'])] = job
+
         # apply job pre-filter before scraping blurbs
         super().pre_filter(self.scrape_data, self.provider)
 

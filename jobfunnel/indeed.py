@@ -9,15 +9,11 @@ from math import ceil
 from requests import get
 from time import sleep, time
 
-from .jobfunnel import JobFunnel, MASTERLIST_HEADER
-from .tools.tools import filter_non_printables
-from .tools.tools import post_date_from_relative_post_age
+from jobfunnel import JobFunnel, MASTERLIST_HEADER
+from tools.tools import filter_non_printables
+from tools.tools import post_date_from_relative_post_age
+from database import country_indeed
 
-
-dom_dict = dd(str)
-
-dom_dict['com'] = 'http://www.indeed.com'
-dom_dict['nz'] = 'https://nz.indeed.com'
 
 class Indeed(JobFunnel):
 
@@ -31,7 +27,7 @@ class Indeed(JobFunnel):
             'accept-encoding': 'gzip, deflate, sdch, br',
             'accept-language': 'en-GB,en-US;q=0.8,en;q=0.6',
             'referer': '{0}/'.format(
-                dom_dict[self.search_terms['region']['domain']]),
+                country_indeed[self.search_terms['region']['country']]),
             'upgrade-insecure-requests': '1',
             'user-agent': self.user_agent,
             'Cache-Control': 'no-cache',
@@ -63,14 +59,15 @@ class Indeed(JobFunnel):
         if method == 'get':
             # form job search url
             search = ('{0}/jobs?'
-                      'q={1}&l={2}%2C+{3}&radius={4}&limit={5}&filter={6}'.format(
-                dom_dict[self.search_terms['region']['domain']],
+                      'q={1}&l={2}&radius={3}&limit={4}&filter={5}'.format(
+                    country_indeed[self.search_terms['region']['country']],
                 self.query,
                 self.search_terms['region']['city'],
-                self.search_terms['region']['province'],
                 self.convert_radius(self.search_terms['region']['radius']),
                 self.max_results_per_page,
                 int(self.similar_results)))
+                #print(search)
+            #print(country_indeed)
 
             return search
         elif method == 'post':
@@ -143,15 +140,24 @@ class Indeed(JobFunnel):
         soup_base = BeautifulSoup(request_html.text, self.bs4_parser)
 
         # parse total results, and calculate the # of pages needed
-        
-        num_res = soup_base.find(id='searchCountPages').contents[0].strip()
+        try:
+            num_res = soup_base.find(id='searchCountPages').contents[0].strip()
+        except Exception as e:
+
+            log_info('No searches found for the keyword on indeed')
+            return 
+        print('num_res',num_res)
         num_res = int(re.findall(r'f (\d+) ', num_res.replace(',', ''))[0])
+        
         log_info(f'Found {num_res} indeed results for query='
                  f'{self.query}')
-
+        
         pages = int(ceil(num_res / self.max_results_per_page))
 
-        # init list of job soups
+        pages = min(15,pages)
+
+        
+        # init list of job soups    
         job_soup_list = []
         # init threads
         threads = ThreadPoolExecutor(max_workers=8)
@@ -181,9 +187,16 @@ class Indeed(JobFunnel):
                     'data-tn-element': 'jobTitle'}).text.strip()
                 job['company'] = s.find('span', attrs={
                     'class': 'company'}).text.strip()
+                fir = self.search_terms['keywords'][0].strip(' developer').lower().strip()
+                sec = str(job['company']).lower().strip()
+
+                if(fir!=sec):
+                    continue
+
                 job['location'] = s.find('span', attrs={
                     'class': 'location'}).text.strip()
-            except AttributeError:
+            except Exception as e:
+                print(e)
                 continue
 
             job['blurb'] = ''
@@ -205,7 +218,7 @@ class Indeed(JobFunnel):
             try:
                 job['id'] = id_regex.findall(str(s.find('a', attrs={
                     'class': 'sl resultLink save-job-link'})))[0]
-                temp = dom_dict[self.search_terms['region']['domain']]
+                temp = country_indeed[self.search_terms['region']['country']]
                 job['link'] = (f"{temp}"
                                f"/viewjob?jk={job['id']}")
 

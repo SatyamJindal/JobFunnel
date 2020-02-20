@@ -16,10 +16,11 @@ from datetime import date
 from time import time
 from typing import Dict, List
 from requests import Session
-
-from .tools.delay import delay_alg
-from .tools.filters import tfidf_filter, id_filter
-from .tools.tools import proxy_dict_to_url
+from collections import defaultdict as dd
+from tools.delay import delay_alg
+from tools.filters import tfidf_filter, id_filter
+from tools.tools import proxy_dict_to_url
+import pandas as pd
 
 # setting job status to these words removes them from masterlist + adds to
 # blacklist
@@ -27,7 +28,12 @@ REMOVE_STATUSES = ['archive', 'archived', 'remove', 'rejected']
 
 # csv header
 MASTERLIST_HEADER = ['status', 'title', 'company', 'location', 'date',
-                     'blurb', 'tags', 'link', 'id', 'provider', 'query']
+                      'tags', 'link', 'id', 'provider', 'query','blurb']
+
+second = ['status', 'title', 'company', 'location', 'date',
+                      'tags', 'link', 'id', 'provider', 'query']
+
+make_new_csv = []
 
 # user agent list
 USER_AGENT_LIST = os.path.normpath(
@@ -156,11 +162,84 @@ class JobFunnel(object):
                 return [row for row in reader]
 
     def write_csv(self, data, path, fieldnames=MASTERLIST_HEADER):
+
+        stack_overflow_tags = dd(int)
+
+        #data_stack = pd.read_csv('QueryResults.csv')
+        #data_stack = pd.DataFrame(data_stack)
+        file = open('QueryResults.csv','r')
+        a = file.read()
+        a = list(a.split('\n'))
+        arr = []
+
+        for i in a:
+	        ind = i.index(',')
+	        arr.append([int(i[:ind]), i[ind+1:]])
+        data_stack = arr[:]
+        #print(data_stack[0])
+        for i in range(len(data_stack)):
+            stack_overflow_tags[str(data_stack[i][1]).lower()]=data_stack[i][0]
+        #print(stack_overflow_tags)
         # writes data [dict(),..] to a csv at path
         with open(path, 'w', encoding='utf8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer = csv.DictWriter(csvfile, fieldnames=second)
             writer.writeheader()
+            temp_dict = dd(int)
+            #print('data',data)
             for row in data:
+                make_new_csv.append([data[row]['title'],data[row]['company'],data[row]['link'],data[row]['blurb']])
+                curr_cont = list(data[row]['blurb'].split(' '))
+                for i in range(len(curr_cont)):
+                    curr_cont[i] = curr_cont[i].replace(',','')
+                    curr_cont[i] = curr_cont[i].replace('.','')
+                    curr_cont[i] = curr_cont[i].replace(' ','-')
+                ans=''
+                final_arr = []
+
+                curr_cont = list(filter(None.__ne__, curr_cont))
+                #print(curr_cont)
+                for i in curr_cont:
+                    if( i.lower() in stack_overflow_tags):
+                            #print('j',i)
+                        if(str(type(i.lower()))[8:-2]=='str'):
+                                #print('**')
+                                #print('trying',stack_overflow_tags[str(i.lower())])
+                            print(stack_overflow_tags[str(i.lower())])
+                            final_arr.append([stack_overflow_tags[str(i.lower())],i])
+
+
+
+                '''for i in temp_dict.keys():
+                    final_arr.append([stack_overflow_tags[i.lower()],i])'''
+
+                final_arr.sort(reverse=True)
+
+                rem_dup = dd(int)
+
+                final_string = []
+                for i in final_arr:
+                    if(i[1] not in rem_dup):
+                        final_string.append(i[1])
+                        rem_dup[i[1]]=1
+                    else:
+                        continue
+                    
+                #print('trying',final_string)
+
+                count = 0
+                for i in range(len(final_string)):
+                    count = count+1
+                    if(count>15):
+                        break
+                    ans+=final_string[i]
+                    if(count<min(15,len(final_string))):
+                        ans+=' , ' 
+
+                    
+                data[row]['tags'] = ans
+
+                #print('here', data[row]['tags'])
+                del data[row]['blurb']
                 writer.writerow(data[row])
 
     def remove_jobs_in_filterlist(self, data: Dict[str, dict]):
@@ -283,7 +362,8 @@ class JobFunnel(object):
     def update_masterlist(self):
         """use the scraped job listings to update the master spreadsheet"""
         if self.scrape_data == {}:
-            raise ValueError('No scraped jobs, cannot update masterlist')
+            # raise ValueError('No scraped jobs, cannot update masterlist')
+            return
 
         # converts scrape data to ordered dictionary to filter all duplicates
         self.scrape_data = OrderedDict(sorted(self.scrape_data.items(),
@@ -294,6 +374,7 @@ class JobFunnel(object):
 
         # load and update existing masterlist
         try:
+            print('path',self.master_list_path)
             # open masterlist if it exists & init updated masterlist
             masterlist = self.read_csv(self.master_list_path)
 
