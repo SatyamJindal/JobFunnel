@@ -1,0 +1,408 @@
+status,title,company,location,date,blurb,tags,link,id,provider,query
+new,Software Engineer - Document Workflow,FactSet Research Systems,"New York, NY 10016 (Murray Hill area)",2020-01-24,"Role/Department Description:
+The Research SBU is looking for a Software Engineer to contribute to our Document applications which deliver an enhanced research process across documents via surfacing direct document insights, assisting the search process, and easily sharing key findings. The engineers work closely with product development (PD) and other engineers across FactSet, including the Machine Learning team, to implement and support various workflows for our users. Engineers leverage a wide range of technologies (ES6, TypeScript, NodeJS, Vue) on a daily basis.
+Responsibilities:
+Participate in a fast-paced Agile project to bring new features and support existing features for Document products
+Design, Develop, and Test software using the latest web technologies
+Communicate and collaborate with product developers, direct manager and engineering peers to develop the correct solutions
+Think and communicate critically about architecture, design, and best practices
+Maintain code stability by writing unit tests and participate in online and offline code reviews
+Continued learning through additional training and code review sessions
+Required Skills:
+Bachelors degree or higher in Computer Science or related technical field
+Ability to develop software in the required languages and using required 3rd party tools, applications and libraries where needed.
+Ability to learn and apply internal systems and processes for developing and deploying software
+Ability to adapt to changes in requirements and learn new tools and practices where needed
+Ability to communicate effectively with peers within the organization
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","TypeScript , web , search , process , architecture , range , key",https://www.indeed.com/viewjob?jk=aad412c339f6d70b,aad412c339f6d70b,indeed,Factset Research Systems developer
+new,Software Engineer  FactSet.io  US Campus,FactSet Research Systems,"Norwalk, CT 06851",2020-01-13,"FactSets product suite of smart analytics and unique data empower the worlds leading financial service professionals to make more informed decisions every day. At our heart is an inclusive community unified by the spirit of going above and beyond. Our philosophy is to embrace diversity, and that our best ideas can come from anyone, anywhere, at any time. We continuously look ahead to advance the future and technology of our industry, by rolling up our sleeves to solve tough problems together, and by learning from our successes, as well as our failures.
+DevOps Engineers in the FactSet.io group architect, build, and maintain a Platform-as-a-Service infrastructure used by all developers at FactSet. Youll operate in both the development and systems world, writing software that helps scale the systems and applications that we support for our internal consumers. The team provides a wide breadth of open source projects and technologies as-a-service, including Docker, PostgreSQL, Redis, and Kafka. We use tools like Packer, Terraform, Chef, and Prometheus to manage our cloud-based infrastructure in AWS and Azure. Y oull tackle challenging problems and work with nearly all engineering groups at FactSet.
+Our engineers find the right balance between FactSet's flexible environment where everyone can contribute individually, yet at the same time cultivate a community where they can depend on each other for help, learning, and development.
+Qualifications:
+BS or MS degree in Computer Science (or equivalent)
+Experience operating Linux systems and programming in Bash
+Experience programming in a high-level language such as Go, Java, Ruby, or Python
+Attention to detail
+Preferred Qualifications:
+Familiarity of modern web technologies like JavaScript, React, HTML5/CSS3
+Programming highly available and distributed APIs
+Familiarity with Docker
+Why Life is Better as a FactSetter :
+Secure your future with our discounted employee stock purchase program and 401K matching
+4 weeks paid time off your first year of employment
+No or low cost medical, dental and vision care
+Free lunch Monday-Thursday, plus a variety of snack and beverages in the office daily
+Reimbursement for eligible expenses related to the CFA, CIPM, CAIA and FRM exams
+Wellness programs including gym discounts and more
+16 weeks paid parental leave for the primary caregiver (4 weeks for secondary)
+Employee referral bonuses
+And more!
+At FactSet, we celebrate diversity of thought, experience, and perspective. We are committed to disrupting bias and a transparent hiring process. All qualified applicants will be considered for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status. FactSet participates in E-Verify.","JavaScript , Java , Ruby , Linux , PostgreSQL , Azure , Docker , Go , web , service , build , Redis , process , find , Chef",https://www.indeed.com/viewjob?jk=85c74858c256e29a,85c74858c256e29a,indeed,Factset Research Systems developer
+new,Senior Systems Engineer,FactSet Research Systems,"New York, NY 10016 (Murray Hill area)",2020-01-13,"Job Description
+FactSet is looking for a Senior Systems Engineer with hands-on experience deploying and administering VMware and Citrix infrastructure, Cloud. The Systems Engineer will work closely with the various teams throughout the company, including Enterprise Hosting, IT Operations, Storage, Network Engineering to support a variety of customer infrastructure across multiple data centers globally. The successful candidate will have strong technical acumen with a deep knowledge of the fundamentals of VMware ESX and related technologies, Citrix and Windows Operating Systems.
+Responsibilities for the position will include building and administering multiple highly available VMware & Citrix environments across global data centers.
+Responsibilities:
+Design, build and support enterprise hosted infrastructure and platforms on VMWare Virtual Infrastructure, Citrix and public cloud technologies (AWS)
+Architecture and administration of VMWare and Citrix environments, Cloud infrastructure
+Administration of multiple Microsoft Windows, Active Directory
+Provide application configuration at time of implementation or migrations, ongoing monitoring and change management support
+Troubleshoot, diagnose and resolve escalated client issues to ensure application fully satisfies customers in terms of data integrity, application expectations and other factors per customer requirements
+Work closely with development, account management, support and other internal parties to facilitate issue resolution and change.
+Monitor and improve infrastructure for hosting services
+Participate in the research and documentation of processes, including new procedure manual documentation, implementation, and updates.
+Provide system performance and tuning, root cause determination in the event of failures
+Contribute significantly to enterprise architecture strategy, roadmap and standards
+Participate in engineering on-call
+Requirements:
+Bachelors in Computer Science or Engineering, or equivalent experience
+General understanding and comprehension of IT infrastructure and software which includes, but not limited, to storage, Converged infrastructure, Data Center solutions, Disaster Recovery, Networking, Security, Data Migrations, Cloud Computing, DevOps and more.
+3+ years VMware ESX Enterprise administration in a fully redundant environment
+3-5+ years Windows systems administration with Windows 2003 or later
+Experience with Active Directory environments including extensive knowledge of group policy.
+Willingness to be hands on with clients and escalated issues
+Strong customer services skills and the ability to manage client expectations and escalated issues
+Ability to solve technical performance issues
+Ability to manage many cases simultaneously, prioritizing appropriately
+Ability to communicate with developers, and other disciplines of systems administration
+Must be a self-starter, take initiative, and proactive
+Periodic on-call availability
+Highly Desired:
+Experience with any of the following Virtualization technologies: VMWare vSphere 5.5 / 6.5, vRealize Operations, VEEAM backup,Citrix XenApp and XenDesktop, and Microsoft Hyper-V, AWS, Azure
+Experience with any of the following Operating system technologies: Windows Server 2016, 2012 R2, and Windows Active Directory or Red Hat Enterprise Linux equivalent
+Experience with Managed Code for automation such as Powershell, Python, C#, bash or other scripting languages
+VMWare ESX, NSX, Citrix XenApp, Xen Desktop, Citrix Director
+Excellent communication skills
+Self-disciplined and highly motivated
+Experience with Cisco and SAN platforms a plus
+Experience in asset management or financial services is a plus
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","C# , Python , Linux , Windows , bash , performance , Powershell , Security , Networking , Server , build , Directory , automation , configuration , scripting",https://www.indeed.com/viewjob?jk=91a4e8a1e1f59d6b,91a4e8a1e1f59d6b,indeed,Factset Research Systems developer
+new,Digital-DatabaseModernization-Search,FactSet Research Systems,"Norwalk, CT 06851",2020-01-29,"Role/Department Description:
+The SI - Search and Lookup Group is seeking a motivated engineer to work on the search and lookup systems within Factset. This position provides the opportunity to work and develop the typeahead, search and lookup capabilities for the new workstation and the web.
+The responsibilities involve working with Application and Content Product Developers as well as other engineering teams to ensure that searching within Factset products is simple, fast and intuitive.
+You would have the opportunity to work on improving the search algorithm by improving relevancy, scoring, learning, prediction and analysis processes within the various search systems.
+The team also deals with advanced search which has facetted searching that allows one to look for more obscure results via specifying filter criteria.
+In addition, by being part of systems that are embedded in various other applications, there will be a broad exposure to FactSet business practices and products. This provides more opportunities to develop individual financial asset knowledge and technical engineering skills.
+Potential responsibilities:
+Working on the next version of Formula Search, Typeahead, Series Lookup etc.
+Enhancing the Factsearch backend algorithm to improve relevancy and search-ability of results improving prediction capabilities.
+Enhancing the content and lookup capabilities of Identifier Lookup 4
+Migrating the Typeahead, Factsearch and Lookup services to factset.io
+Want to haves:
+Bachelors degree in CS or related field.
+Ability to develop software in the required languages and using required 3rd party tools, applications and libraries where needed.
+Ability to learn and apply internal systems and processes for developing and deploying software
+Ability to communicate effectively with peers within the organization
+1+ years experience in programming with Perl and Python.
+1+ years experience in working with web services.
+1+ years experience working with SQL databases.
+Nice to haves:
+Experience with Elasticsearch
+Experience with RESTful web services
+Experience with Memcached
+Familiarity with Linux
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","SQL , algorithm , Perl , web , search , Search , filter , embedded , position , version",https://www.indeed.com/viewjob?jk=97fc96c62ce18544,97fc96c62ce18544,indeed,Factset Research Systems developer
+new,Product Specialist - US Campus,FactSet Research Systems,"New York, NY 10016 (Murray Hill area)",2020-01-13,"FactSet is an inclusive community unified by the spirit of going above and beyond. Our ethos is that diversity should be embraced  great ideas can come from anyone, anywhere, at any time. We roll up our sleeves to solve tough problems together, and learn from our successes, as well as our failures.
+Product Development is at the heart of what makes FactSet the right solution for our clients. Since our inception, our product developers have been responsible for driving the delivery of products that supply financial data, analytics and trading solutions for thousands of financial professionals around the globe. Our team members are passionate about growth, innovation and collaboration.
+As a member of the product development team, understanding users ever-changing needs comes first. The mission of the department is to deliver innovative, world-class solutions by collaborating with clients to understand their needs and with internal teams to bring our solutions to market. You will remain highly attuned to what's going on in the financial industry, as well as to what our clients need in order to do their jobs effectively. As a result, youll naturally emerge as among FactSet's most highly respected specialists and thought leaders.
+While we consider candidates with a strong interest in FinTech from any major, we especially encourage applicants with backgrounds in finance, MIS, economics, business administration, and applied mathematics. Above all, we look for candidates with strong analytical and problem-solving skills.
+Responsibilities:
+Develop a deep understanding of our users and their workflows
+Support applications by answering questions, troubleshooting bugs, and working on enhancement requests
+Ask effective questions in various situations to gather information and uncover user needs
+Analyze user workflows to arrive at clear vision of needs to optimize the user experience
+Collaborate with customers, sales, support, stakeholders and development teams to translate those needs into products and enhancements that delight the customer and improve their workflows
+Partner with teams (UX design, engineering, quality assurance) and stakeholders to inspire the delivery of valued-based solutions as a team
+Define and analyze metrics that inform the success of products
+Qualifications:
+Strong analytical and critical thinking skills
+Exceptional interpersonal and relationship-building abilities
+Strong organizational, communication, troubleshooting skills
+Ability to work effectively in a team setting
+High level of motivation
+Passion for technology and basic knowledge of financial markets
+Strong knowledge of Microsoft Office
+Bachelors Degree or 1-2 years of industry experience
+At FactSet, we celebrate diversity of thought, experience, and perspective. We are committed to disrupting bias and a transparent hiring process. All qualified applicants will be considered for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status. FactSet participates in E-Verify.
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity",process,https://www.indeed.com/viewjob?jk=57a7d224b54d9842,57a7d224b54d9842,indeed,Factset Research Systems developer
+new,Digital-API Program Manager,FactSet Research Systems,"Norwalk, CT 06851",2020-01-30,"Role/Department Description:
+API program leader, driving agility in the execution of the Developer Portal and the API Gateway product evolution. This role will report up into the Systems Infrastructure program management team with matrixed responsibilities to the Product Development organization.
+Responsibilities:
+Drive API program in providing organizational leadership for the Developer Portal and API Gateway product deployments.
+Coach engineering team to enable on time product delivery.
+Leverage Agile best practices where possible to drive operational efficiency.
+Consider implementation of additional Agile best practices as the team evolves and matures.
+Provide transparency to progress in delivering reporting to leadership teams.
+Lead the team - be a true leader for the engineering team.
+Support Program Management leader in executive reporting responsibilities for Digital Transformation.
+Required Skills:
+Adept at helping team members harness and develop strengths in pursuit of successful program outcomes. Building a cohesive team is key to successful project delivery.
+Ability to make decisions independently and to assume higher-level leadership responsibilities in critical situations. Decisiveness in key in this leadership position.
+Effective consultative and influencing approach. The need to influence and hold others accountable is central to the role and being seen as a leader.
+Demonstrated ability to effectively communicate and work with cross-functional teams. Highly effective communication skills are one of the most critical skills a good Program Manager possesses.
+Excellent interpersonal and communication skills, and proven ability to work effectively with all organizational levels. Highly effective communication skills are one of the most critical skills a good Program Manager possesses.
+Qualifications:
+Bachelors degree required, computer science preferred or relevant technology understanding and expertise.
+Prior experience working closely with Product Development and Engineering teams, a plus.
+Exceptional collaboration, organizational & communication skills.
+Detail-oriented with ability to see the big picture.
+Minimum of 3-5 years of experience with strong performance history.
+Working knowledge of different project management systems.
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","performance , API , key , report",https://www.indeed.com/viewjob?jk=c9dfc3415afeaceb,c9dfc3415afeaceb,indeed,Factset Research Systems developer
+new,Digital-DevOps-CSE,FactSet Research Systems,"New York, NY 10016 (Murray Hill area)",2020-01-13,"As part of FactSets Digital Transformation, were seeking experienced engineers to disrupt how we create, communicate and collaborate as an organization. From platforms such as Microsoft Exchange, Teams, SharePoint Online to core infrastructure such as Active Directory and Azure AD, we provide the backbone of core services necessary to getting FactSets work done.
+The successful candidate will be an individual who is uncompromising towards efficiency and automation. You will drive historically operational responsibilities into fully automated systems backed by software engineering best practices. Leveraging the latest technology to deliver this infrastructure and policy will be key to the exponential growth were targeting for these systems and the userbase who will consume them. The result will accelerate FactSets pace of innovation across the entire company and allow us to deliver on our Digital Transformation mission.
+If youre looking for a deep technical challenge that will impact the entire FactSet organization, youve found it.
+Responsibilities:
+Providing a high level of service and uptime to core services such as Mail, Active Directory, and Azure AD services
+Being a technical mentor to your teammates world-wide as we seek to empower them to be technical experts and product owners.
+Forming a strong partnership with Corporate Support Services to ensure they are successful with managing necessary technology deployments after they are selected.
+Developing a deep understanding of FactSets existing hardware, software, communication and collaboration deployments to assist Corporate Support Services with their day-to-day mission.
+Build and leverage metrics and key performance indicators to demonstrate how our organization is leveraging our technology and the benefits its delivering.
+Owning the process of transforming high-level visions into concrete, measurable deliverables.
+Proactively communicating with stakeholders to understand requirements, timelines, etc.
+Requirements:
+2+ years of professional experience using PowerShell to automate tasks.
+Administering Office 365/Microsoft 365 Services (SharePoint/Teams/Exchange Online).
+Familiarity with enterprise deployment & troubleshooting services across Windows Server/Workstation OSes.
+A desire to learn and evangelize FactSet and industry developer productivity, communication & collaboration technology, & best practices across PC, web & mobile platforms.
+Excellent communication, analytical and problem-solving skills to make tactical decisions and develop strategic plans.
+Capability to work on multiple tasks with shifting and sometimes conflicting priorities.
+Able to work effectively with other developers and members of other departments to develop effective and efficient solutions.
+Bachelors in Computer Science, engineering discipline, or equivalent experience.
+Highly Desired:
+Senior Software/Systems/Corporate Support Engineer or higher.
+Administering, automating, and architecting Exchange 2013/2016/2019/Exchange Online
+Deep technical understanding of email routing and industry-standard antispam technologies
+Administering, automating, and architecting Active Directory 2008R2/2012/2016 at an infrastructure level
+Administering, automating, and architecting Azure AD and Azure AD Connect
+Administering SharePoint Online and OneDrive
+Administering Teams/Skype for Business
+Administering Active Directory Federation Services
+Experience collaborating with remote colleagues.
+Experience working with or managing vendor relations.
+Experience collaborating with Operations, Network, and Security teams
+Ability to deal with ambiguity and flexibility to work collaboratively with others in a dynamic environment.","Windows , performance , Azure , PowerShell , email , Security , web , mobile , SharePoint , dynamic , service , deployment , Directory , process , automation",https://www.indeed.com/viewjob?jk=ae1c46bf0faebe14,ae1c46bf0faebe14,indeed,Factset Research Systems developer
+new,Network Security Engineer,FactSet Research Systems,"Austin, TX",2020-01-13,"FactSet is currently seeking a Security Engineer with a focus on Network Security to join the growing global Security team. We are looking for a junior to mid-level Network Security Engineer to join our Security Administration team to provide operational, Troubleshooting & Implementation support for the Security Infrastructure. You will work with engineering teams on cross-functional projects throughout the organization. This role requires enthusiasm, curiosity and a thirst for security knowledge.
+Responsibilities:
+Troubleshoot, Implement & provide operational support for security technologies such as next generation firewalls, VPN, anti-denial of service technologies, IDS/IPS, ACS/ISE, MFA, WAF, End Point Security, Cloud Security (AWS/Azure) & Network controls.
+Own the Infrastructure deployments, Hardware/Software upgrades/refresh at global scale.
+Draft, Peer review, Implement & Monitor the Infrastructure changes through the established change control procedure.
+Effectively lead the security projects assigned, by proper planning, implementation and coordination with multiple stakeholder Teams and achieving the desired results with in the Project deadlines.
+Own & manage the operational queues/load, Request prioritization, Handovers, SLA Adherence to achieve customer satisfaction.
+Effective vendor management by actively coordinating with Vendors/TAC for operational issues & escalating when required.
+Closely work with Architecture & Engineering teams to operationalize new technologies/stacks as they come into the security world through extensive documentation.
+Actively collaborate with Partner Teams, business analysts, project managers, IT architects, technical leads and developers to understand requirements and develop needs according to business requirements
+Actively participate in the Incident Management by providing the required inputs as a Security admin.
+Identifies opportunities for process and procedure enhancements to drive operational efficiency, reduce technical debt and increase customer service levels
+Documentation of the Process/Procedures/Technology & contributing to the drafts/reviews of SOPs.
+Collaborates with Departmental leadership in order to align with established Departmental/Organizational roadmaps.
+Participates in an on-call rotation for any escalations outside business hours, and support as required.
+Required Skills:
+3-5 years relevant experience
+Strong knowledge of network protocols and related technologies.
+Experience using, installing and configuring Cisco and Palo Alto security products
+Experience Network planning and implementation in large and medium data center environments
+Must have a strong understanding of networking concepts and security associated with them, LAN/WAN/MPLS/Internet and associated technologies such as Firewalls & Load Balancers.
+Certifications: CCNA Security, Palo Alto, AWS Solutions Architect Associate
+Strong technical background in Proxy, CASB, and other Internet protection suites
+Decent understanding with routing protocols and routing concepts
+Strong Troubleshooting skills
+Good understanding of OS & Virtualization concepts.
+Solid understanding of OSI layers & grasp of the commonly used L7 protocols.
+Solid understanding of the Application Tiers & related technology stacks (App Tier, DB Tier)
+Experience on Orchestration/automation solutions would be helpful.
+Other Relevant Skills:
+Written and oral communication & ability to engage partner teams in driving conversations.
+Ability to thrive on high ops tempo, high-stress environments
+Strong team player
+Ability to provide on-the-job training and knowledge sharing to other engineers.
+Self-initiative with strong time management
+Solid sense of integrity and identification with the mission","security , Security , join , networking , service , Proxy , process , Architecture , routing , background , Request , rotation , Cloud , Load , focus",https://www.indeed.com/viewjob?jk=64fe40fc0a0018fe,64fe40fc0a0018fe,indeed,Factset Research Systems developer
+new,Senior DevOps Engineer  FactSet.io,FactSet Research Systems,"Norwalk, CT 06851",2020-01-13,"DevOps Engineers in the FactSet.io group architect, build, and maintain a Platform-as-a-Service infrastructure used by all developers at FactSet. Youll operate in both the development and systems world, writing software that helps scale the systems and applications that we support for our internal consumers. The team provides a wide breadth of open source projects and technologies as-a-service, including Docker, PostgreSQL, Redis, and Kafka. We use tools like Packer, Terraform, Chef, and Prometheus to manage our cloud-based infrastructure in AWS and Azure. Youll tackle challenging problems and work with nearly all engineering groups at FactSet.
+Responsibilities:
+Automate setup and monitoring of platform servers and components
+Troubleshoot and optimize operating system level issues
+Design and build new self-service APIs, web portals, and CLIs
+Participate in a 24/7 on-call rotation
+Required Skills:
+Bachelors in Computer Science, Computer Engineering, or equivalent
+Track record of building infrastructure automation
+Understanding of Linux at both a high and low level (4+ years)
+2+ years experience operating in high-level languages such as Go, Ruby, Python, and Bash
+Attention to detail
+Strong verbal and written communication skills
+Highly Desired:
+Familiarity with Docker, Kubernetes, or Cloud Foundry
+Experience writing highly-available, distributed APIs and services in a production environment","Python , Ruby , Linux , PostgreSQL , Azure , Docker , Go , web , Kubernetes , build , Redis , Cloud , Chef",https://www.indeed.com/viewjob?jk=920a79d5e8524b4f,920a79d5e8524b4f,indeed,Factset Research Systems developer
+new,Senior Client Support Engineer,FactSet Research Systems,"Norwalk, CT 06851",2020-01-13,"The role of Senior Client Support Engineer will ensure that technical issues do not prevent FactSets sales teams from either signing on new clients or growing existing business by providing advanced technical support for FactSets products. Includes assistance with installation, connectivity, crashing, slowness and Office Integration.
+Technology Solutions engineers communicate directly with clients end users, business units, and IT, as well as FactSets engineers, product developers, consultants, and salespeople. With the rapid evolution of FactSet software and ever-changing client security, network, server, PC, and tablet environments, Technology Solutions Engineering is instrumental in researching, engineering, deploying, and supporting technology solutions for our client base.
+Responsibilities
+Assist with pre-sales technology discussions
+Assist post-sales design, implementation, and support
+Translate client needs to effective engineering action items
+Align technology needs with the product and business goals
+Educate clients and FactSet personnel on FactSets best-practices
+Correlate issues, then design enhancements to offer permanent remediation those issues
+Act as the product developer for implementations, diagnostics, and utilities
+Identify clients that require proactive attention
+Develop and maintain detailed technical documentation
+Occasional travel to client sites
+Requirements
+Bachelor's Degree
+Knowledge of server management, database administrator, or computer science
+Knowledge of networking, application deployment, troubleshooting Windows applications
+Native English communications skills  in-person, phone, and email
+Interaction with clients on a technical and non-technical basis
+Proactive, and operates independently or within a team
+Willingness to become a technical liaison for clients
+Passion for learning new technologies
+Excellent problem solving skills
+Helpful Experience
+Finance knowledge  markets, portfolios, asset management, financial instruments, real-time market data, and portfolio analytics
+Experience using or configuring FactSet
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","database , Windows , security , networking , deployment , server , installation , client , Client",https://www.indeed.com/viewjob?jk=b5f6f46962c5f121,b5f6f46962c5f121,indeed,Factset Research Systems developer
+new,Software Engineer - Universal Screening,FactSet Research Systems,"New York, NY 10016 (Murray Hill area)",2020-01-13,"Role/Department Description:
+Screening allows users to screen on Companies, Debt Securities, Funds, Transactions, and other types of Investments. Screening is driven by a powerful calculation engine with full customization capabilities, enabling users to perform complex calculations on a mix of FactSet and user-defined data.
+The Screening team within Research SBU is looking for a Software Engineer to contribute to our Screening Products and Infrastructure. Screening engineers work closely with product development (PD) and other engineers across FactSet to implement and support various interactive and non-interactive workflows. These workflows, such as formula lookup integration, reporting, charting, batch operation, and downloading, provides unique challenges to the team. Engineer leverages a wide range of technologies (ES6, Typescript, SASS, NodeJS, Python, Go, C++) on daily basis.
+The Screening team is looking for a motivated and talented Software Engineer to join us as we enhance these products, providing new features. This position provides an excellent opportunity to be involved in a key technology area and to gain an overall understanding of diverse FactSet products.
+Responsibilities:
+Participate in a fast-paced Agile project to bring new features and support existing features for Screening products
+Design, Develop, and Test software using the latest web technologies
+Communicate and collaborate with product developers, direct manager and engineering peers to develop the correct solutions
+Think and communicate critically about architecture, design, and best practices
+Maintain code stability by writing unit tests and participate in online and offline code reviews
+Continued learning through additional trainings and code review sessions.
+Required Skills:
+Has an undergraduate degree in Computer Science or equivalent training
+0 - 3 year's experience in a software development role
+Strong knowledge of JavaScript and Python
+Experience in web development languages, tools, and frameworks, such as ES6, Typescript, AngularJS, VueJS, chrome dev tools
+Desire to learn and apply internal systems and processes for developing and deploying software.
+Ability to adapt to changes in requirements and learn new tools and practices where needed.
+Ability to communicate effectively with peers within the organization
+Desired :
+Experience with server-side development languages and frameworks such as .NET C#, Java, Python, Node.js, Go
+Ability to contribute to code review feedback for other engineers and contribute to forward design ideas.
+Experience with writing unit tests in any language.
+Experience in creating and/or consuming web services","JavaScript , Java , C# , Python , AngularJS , Typescript , Go , web , join , types , SASS , architecture , Transactions , frameworks , range",https://www.indeed.com/viewjob?jk=43c0e43908814ba9,43c0e43908814ba9,indeed,Factset Research Systems developer
+new,Digital  Full-Stack Software Engineer,FactSet Research Systems,"Austin, TX",2020-01-13,"Cloud Tools Team is seeking an experienced Full-Stack Software Engineer with proven proficiency in development and deployment of software adhering to best practices and with fluency in the development environment and with related tools, code libraries and systems. Demonstrated ability to critique code and production for improvement, as well as to receive and apply feedback effectively. Proven ability to maintain expected levels of productivity and increasingly becoming independent as a software developer, requiring less direct engagement and oversight on a day to day basis from ones manager. Focus is on developing software and increasing volume of work accomplished (with consistent quality, stability and adherence to best practices), along with gaining a mastery of the products to which one is contributing and beginning to participate in forward design discussions for how to improve based on ones observations of the code, systems and production involved.
+The mission of the Cloud Tools team is to develop tooling to support FactSets migration to a modern cloud infrastructure. Our goal is to solve this problem by creating easy to use web applications and APIs that the developer community at FactSet can leverage to support the migration to cloud infrastructure. The Cloud Tools team primarily develops full-stack modern web applications using the latest web technologies (Typescript/VueJS/Node).
+The Cloud tools team currently manages a range of applications:
+Service Catalog: FactSets self-service portal for provisioning opinionated and governed cloud resources.
+Systems Inventory: A platform for keeping track of assets across the company and providing advanced dashboard functionality for analysis.
+Cost Attribution: A platform for modeling infrastructure costs across to the company.
+Provisioning Workflows: An application used to track and manage custom processes both simple and complex.
+Responsibilities:
+Work as a full-stack (front-end, backend, and database) software engineer in the Systems Infrastructure department to develop and maintain internal tooling for cloud infrastructure
+Design and develop software to meet business requirements, perform unit tests, and fix bugs
+Work closely with your team to define requirements and come up with technical solutions
+Analyze, troubleshoot, and resolve production issues
+Create useful documentation for any tooling developed
+Desired Skills:
+Bachelors degree or higher in Computer Science or related technical field
+3+ years experience in Web/Front-end development (HTML/JavaScript/TypeScript/CSS,AngularJS/VueJS/other web frameworks) or significant experience in another mainline language with a desire to learn web technologies
+A desire to learn and work with modern cloud technologies
+Excellent communication, analytical and problem-solving skills to make tactical decisions and develop strategic plans.
+Capability to work on multiple tasks with shifting and sometimes conflicting priorities
+Able to work effectively with other developers to develop effective and efficient solutions
+Bachelors in computer science, Computer Engineering, or equivalent
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","web , deployment , migration , range , cloud , Cloud , less , Focus",https://www.indeed.com/viewjob?jk=e9f0842dbfe8a979,e9f0842dbfe8a979,indeed,Factset Research Systems developer
+new,Senior Software Engineer,FactSet Research Systems,"Boston, MA",2020-02-06,"Role/Department Description:
+The RMS Engineering team is responsible for the development of Research Management applications with desktop, web and mobile UIs, robust Web Services and APIs, and a performant SQL database. These applications continue to have new features added to them, existing features refined, and are always looking to improve speed and reliability.
+We are looking for a highly motivated, experienced Software Engineer to work in a full-stack capacity. The ideal candidate should possess strong development, design and architecture skills along with good customer support and communication skills.
+Responsibilities
+Build out FactSet RMS applications using C#, Angular, Vue.JS, ASP.NET, and SQL
+Work on the deployment and troubleshooting of Factset RMS software
+Participate in design discussions and brainstorming of ideas to improve and develop new features.
+Communicate and collaborate with product developers, direct manager and engineering peers to develop the correct solutions
+Technical Skills
+Strong experience with C#, WinForms, SQL Server
+Strong experience in writing and consuming web Services - both SOAP using WCF and RESTful using ASP.NET WebAPI
+Experience in writing and optimizing SQL queries, troubleshooting performance issues in SQL Server
+IIS Deployment and troubleshooting experience
+Experience in ASP.Net MVC and ASP.Net a plus
+Experience in mobile application development with Cordova/Ionic a plus
+Experience with .Net Core a plus
+Experience with Cloud Infrastructure (AWS, Azure) a plus
+Soft Skills
+Highly independent requiring minimal supervision and direction
+Ability to work flexibly in a highly agile environment with daily stand-ups and SCRUM methodology
+Good communication skills and comfort with interacting with all types of people
+Innovative and entrepreneurial spirit
+Ability to quickly design and build POCs for potential product features
+Ability to do research and explore innovative technology areas for the product
+Motivated by a fast-paced, global team environment
+Experience
+Bachelors degree or higher in Computer Science or related technical field
+2-5 years of progressive experience in developing web applications
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","C# , SQL , Angular , database , WinForms , performance , WCF , web , Web , mobile , SOAP , types , deployment , Deployment , build",https://www.indeed.com/viewjob?jk=d9d170fc8ba4f301,d9d170fc8ba4f301,indeed,Factset Research Systems developer
+new,"Software Engineer, Next Gen Universal Screening Backend",FactSet Research Systems,"Norwalk, CT 06851",2020-01-13,"The Research Solutions Strategic Business Unit (SBU) is focused on innovating the foundation of FactSets product offering. By marrying robust content, intuitive applications, and innovative technology, we defend and grow our footprint across several key user classes including investment banking, sell-side research, buy-side research, private equity, portfolio managers, traders, capital markets, investor relations, and media. This SBU contains Core Applications (Universal Screening, Company & Security Analytics, Industry and Markets, Filings, Ownership, Research, News, Charting) and our industry leading Research Management Solutions (RMS) suite. The SBU closely partners with the Content and Platform Horizontals on strategy for FactSet Web, Mobile, and much of FactSets content offering.
+Role/Department Description:
+The Universal Screening Application team is responsible for both the development of services and accompanying infrastructure for the Next Gen Universal Screening application and maintenance of the legacy Universal Screening Application. Next Gen Universal Screening is currently one of the top watched projects and the infrastructure is utilized by many other applications such as Cornerstone, AT3, and Portfolio Optimizer. The application allows users to screen on Companies, Debt Securities, Funds, Transactions and other types of investments. Screening is driven by a powerful calculation engine with full customization capabilities, enabling users to perform complex calculations on a mix of FactSet and User-Defined data.
+The Next Gen Universal Screening backend team interacts with multiple different teams, and works frequently with FactSet.io deployed services, FDSA services, the online codebase, and the formula build. We have pushed data and services into AWS also, allowing opportunities to work with new cloud initiatives and a wide range of technologies including Apache Drill, Apache Parquet, and Python.
+Our group is looking for a motivated and talented Software Engineer to join us as we enhance these products, providing new features such as remote grid handling, new universe types, and chart type suggestions. This collaborative position on our backend team involves design and implementation of the various business logic components using C++ in a FDSA RESTful service environment, JavaScript in a nodejs environment, python scripts, and more.
+Responsibilities:
+Develop, test and deploy software Additional features and/or content is released to solution end users.
+Continued learning through additional trainings and code review sessions.
+Improved quality and productivity of output.
+Communicate and collaborate with product developers, direct manager and engineering peers to develop the correct solutions
+Effective project planning and development of expected solutions.
+Respond to bugs and requests for product development through internal systems
+Effective engagement in development and feedback life cycle
+Participate in design discussions and brainstorming of ideas to improve and develop new features.
+Gain broader proficiency for the product and demonstrate ability to contribute to forward direction.
+Required:
+Bachelors degree or higher in Computer Science or related technical field
+0 - 3 years' experience within software development
+Experience in programming with C++
+Ability to collaborate effectively with other engineers
+Ability to work independently and produce quality code
+Familiarity with Linux
+Desire to learn new concepts and work within RESTful services and factset.io
+Desired:
+Experience in designing and building large scale applications or services
+Experience in using JavaScript and NodeJS
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","JavaScript , python , C++ , Apache , Security , Web , join , Mobile , service , types , build , Transactions , grid , components , range",https://www.indeed.com/viewjob?jk=aa10a859dae02dc9,aa10a859dae02dc9,indeed,Factset Research Systems developer
+new,Digital - UX Staff - Senior UX Lead,FactSet Research Systems,"New York, NY 10016 (Murray Hill area)",2020-01-13,"FactSets User Experience Design team is offering an exciting opportunity for a Lead Visual Designer to help shape the next generation UI of our product suite. The best candidate for this role is a skilled and passionate visual designer with experience in desktop, web, and mobile application design. This role will influence the ground-level decisions that will evolve our products to touch and responsive design platforms. The role requires collaboration on cross-functional teams to develop a solid understanding of user needs and contribute visual design expertise to the delivery of high-quality products.
+Responsibilities:
+Help manage portions of the visual design strategy for all FactSet products, including desktop, mobile, and web while influencing the development of the overall design system
+Design pixel perfect high-fidelity mock ups and specifications that represent visual display and work-flow applying expert knowledge of branding, typography, organization, hierarchy, color theory, patterns, and interaction design principles
+Collaborate on cross-functional project teams which will include any combination of user researchers, designers, product managers, business stakeholders, subject matter experts and engineers; advocate for  and as necessary, lead - lean UX practices amongst Agile (or non-Agile) product teams
+Transform ideas, mock ups, and data into high quality, meaningful designs; iterate design solutions based on team feedback to ensure all business, user, and engineering requirements are met
+Manage multiple large-scale projects and determine resources needed to fulfill requirements; remain flexible through multiple project revisions while keeping a keen attention to detail
+Help oversee more junior designers; ensure they are collaborating with front-end developers and engineering to create HTML and CSS-friendly designs which meet the Design System specifications; continuously elevate their skill-set and promote exploration of industry best practices
+Communicate potential issues to the Creative Director and manage smaller design related issues within UX and project teams as they arise
+Remain current on design software and product design trends and communicate them to the larger visual design team as they pertain to our work and processes
+Possess an in-depth understanding of data visualization and interpret how to translate complex data in a more intuitive manner
+Gain an in-depth understanding of financial clients, products and workflows
+Do all of this with minimal oversight
+Required Skills:
+10+ years experience in a previous design role with a software or agency environment
+A portfolio of work demonstrating mastery of visual and interaction design principles, specifically related to application design
+Bachelors degree or higher in Graphic Design, Visual Communications, or related field preferably from a School of Art and Design
+A deep understanding of user centered design methodology, UX principles and product development roles and processes
+Multi-platform responsive and adaptive design experience
+Data visualization skills (think charting, not infographics)
+Strong organizational, multi-tasking, and time management skills
+Experience designing enterprise software solutions in the financial industry or corporate sector is a strong plus
+Capable of handling complex projects from inception to completion with minimal oversight
+Strong idea-generation and brainstorming skills; ability to distill information and problem-solve effectively
+Previous experience overseeing, managing, and mentoring a small team of designers
+Excellent spoken and written communication skills
+Ability to present design vision in document and spoken forms, influence stakeholders and leadership, and successfully defend your design choices
+Proficiency in Figma (preferred) or Sketch, and Illustrator
+Demonstrated fluency in HTML, CSS, JavaScript, iOS and Android platforms","JavaScript , Android , HTML , CSS , iOS , forms , web , mobile , include , resources , touch , field",https://www.indeed.com/viewjob?jk=a84fa082407faab2,a84fa082407faab2,indeed,Factset Research Systems developer
+new,Digital - DevOps - Lead Software Engineer - Native Cloud,FactSet Research Systems,"Norwalk, CT 06851",2020-01-17,"Software engineers in the FDSA group architect, build and maintain a distributed routing and service-hosting platform used by most engineers and product developers at FactSet. Developers on FDSA Team work with high-performance services with high availability requirements, while also engineering systems that keep those applications deployed and running smoothly.
+Working on FactSets routing infrastructure involves developing an understanding of data-flows through the entire system. When debugging issues, or developing and enhancing the infrastructure, FDSA engineers routinely work with data as high-level as request or debug logs or as low-level as request captures and TCP connection dumps. Working on the FDSA service-hosting platform, efficiently managing resources like CPU and memory are key, requiring knowledge of Linux system internals.
+FactSet is investing heavily in a digital transformation program to deliver new products for our clients and to reinvent the way we do business. Our vision for the digital evolution of our products and services is focused on the opportunity to be a disruptor in the marketplace and redefine our industry and our role in it. We are making innovative use of new technologies including machine learning and Cloud services to streamline our internal processes and onboard clients faster. FactSets core strengths are rooted in content and technology. It is time to leverage on these strengths to power our next chapter. Come join us in this exciting journey!
+Responsibilities:
+Automate setup and monitoring of FactSet's HTTP Proxying and service-hosting infrastructures(s)
+Developing and enhancing FactSet's API Gateway infrastructure(s)
+Participate in a 24/7 on-call rotation
+Required Skills:
+Bachelors in Computer Science, Computer Engineering, or equivalent
+Track record of building infrastructure automation
+Experience with deploying and running services on Linux (4+ years)
+Experience with high-level languages such as C++ or Java (4+ years)
+Attention to detail
+Strong verbal and written communication skills
+FactSet is an Equal Opportunity Employer  M/F/Veteran/Disability/Sexual Orientation/Gender Identity","Java , C++ , Linux , API , HTTP , debugging , join , memory , TCP , build , routing , request , connection , resources , key",https://www.indeed.com/viewjob?jk=daa362ec85111dc5,daa362ec85111dc5,indeed,Factset Research Systems developer

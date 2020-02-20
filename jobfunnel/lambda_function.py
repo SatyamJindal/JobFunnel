@@ -78,11 +78,13 @@ separator = [';','/','+','#']
 def clean(kword):
     status = 0
     if ('.com' in kword):
-        kword = kword[:kword.index('.')+1]
+        kword = kword[:kword.index('.')]
     if ('inc' in kword.lower()):
         kword = kword[:kword.lower().index('inc')]
     if ('Encs' in kword):
-        kword = kword[:kword.index('Encs')+1]
+        kword = kword[:kword.index('Encs')]
+    if (',' in kword):
+        kword = kword[:kword.index(',')]  
     if (kword.lower() in invalid):
         status=1
 <<<<<<< HEAD

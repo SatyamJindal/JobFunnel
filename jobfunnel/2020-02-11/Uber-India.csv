@@ -1,0 +1,146 @@
+status,title,company,location,date,blurb,tags,link,id,provider,query
+new,"Senior Software Engineer (Architect), Backend - Developer Platform",Uber,Bengaluru,2020-02-10,"At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and lets move the world forward, together.
+
+About the Role
+
+This is the team for you if you are excited about building platforms that supports many large scale products and tools / systems that all the Uber engineers use.
+
+In this role you will build software primarily focusing on scalability, performance, usability and reliability.
+
+You will mentor engineers, driving architectural decisions, co-ordinate with stakeholders, drive project delivery metrics and quality metrics.
+
+What Youll Do
+
+You will build high quality software that enables thousands of developers with their everyday software development porcess and that provides for the entire automation and release control at Uber.
+Work with developer product engineering teams to identify, design and build solutions that help scale our services and platforms.
+Architect the developer platform systems, lead teams, mentor engineers and drive project quality metrics.
+Drive adoption of best practices in code health, testing, and maintainability
+Analyze and decompose complex software systems and collaborate with cross-functional teams to influence design for scalability and testability
+Work with smart and motivated teammates in a fast-paced, collaborative environment.
+Build elegant backend platform components for high throughput and low latency distributed systems.
+Solve challenging problems with cutting edge design and algorithms.
+You will work with technologies like Golang, java, python, Mysql, Nosql.
+
+What Youll Need
+
+7+ years full-time professional software development experience.
+Enthusiasm for our mission: Youre excited to build systems that support thousands of super smart developers and those that impact products with millions of userbase.
+Architecture: Knowledge of data structures and an eye for architecture. You can discuss the tradeoff between architectural choices, both on a theoretical level and on an applied level. You should be able to design database schemas in extensible way.
+Strong coding/debugging abilities: You have advanced knowledge of at least one programming language, and are happy to learn more. Our codebase is primarily in Golang.
+Product sense: You create more than beautiful code. Engineers at Uber play a crucial role in choosing what we build and how we build it.
+A penchant for collaboration & a team player: You enjoy working cross collaboratively to drive impact across orgs. You believe that you can achieve more on a team that the whole is greater than the sum of its parts. You rely on others candid feedback for continuous improvement.
+
+
+About the Team
+
+Our developer platform groups mission is to Accelerate product velocity by providing a friction-free, integrated development platform to the thousands of engineers who build and improve Ubers various products.
+
+Our developer platform teams are responsible to support all the tools that are used throughout a developer lifecycle. This contains
+
+- Generic developer infrastructure like: code monorepos, build systems, continuous integration, deployment & release and testing systems
+
+- Language platform specific solutions like Mobile & Backed Developer experience and Frameworks
+
+- Platforms like Internationalization, Developer Analytics etc.
+
+Below are the teams that we are currently hiring Backend developers for:
+
+Healthline: Our platform enables Uber to quickly and reliably detect, report, and troubleshoot issues in our mobile apps. It captures various types of mobile app signals such as app crashes, exceptions, app not responding, memory leaks etc., classifies and reports(ticketing and alerting) issues in our mobile apps. Healthline also offers a web portal to show the list of issues and related data, logs, and stats, which allow developers to quickly troubleshoot the root cause of the reported issues.
+
+Wisdom: Our mission is to simplify the mobile in-app bug reporting experience to capture more high quality bugs, and build a ML-powered bug triaging platform to help engineers to quickly triage and troubleshoot the reported bugs. Wisdom platform has three major components.
+
+- A mobile SDK, which can be used by different mobile apps to onboard the in-app bug reporting flow easily to wisdom.
+
+- Backend processing pipeline and ML models, which processes inbound bugs to filter out noise and surface critical bugs to engineers.
+
+- Wisdom triage portal, the web portal that engineers use to triage and troubleshoot the reported bugs.
+
+Core Automation Platform (CAP): We provide a reliable and automated end-to-end testing framework for mobile sanity tests. Our tools allow safeguarding features and preventing regressions for each release and CD build, enabling mobile developers to build reliable Apps quickly.","java , python , Mysql , database , list , performance , testing , web , memory , mobile , Mobile , filter , types , deployment , build",https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=101641&s=58&guid=00000170394a4bd2a3a059595a70d7bf&src=GD_JOB_AD&t=SR&extid=1&exst=OL&ist=&ast=OL&vt=w&slr=true&cs=1_47100e91&cb=1581509135481&jobListingId=3487002833,3487002833,glassdoor,Uber developer
+new,"Software Engineer II, Frontend - Developer Platform",Uber,Bengaluru,2020-02-08,"At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and lets move the world forward, together.
+
+About the Role
+
+We are looking front end engineers who are passionate about building complex UIs. As a Software Engineer, you will play a pivotal role in the design & development of our Developer Infrastructure user experience which will be used by thousands of engineers across the globe. The ideal candidate will be excited for the challenge to think critically on many computer science disciplines , product design and usability, performance, and 24x7 reliability.
+
+What Youll Do
+
+Implement the features and user interfaces for developer platform tools. Design efficient and reusable front-end systems that drive complex web applications and workflows. Collaborate with Product Designers, Product Managers, and Software Engineers to deliver impactful products that improves productivity of thousands of engineers across the globe. Identify and resolve performance issues.
+
+What Youll Need
+
+BA/BS degree in a Computer Science or equivalent practical experience3 plus years of experience building Front End Applications using React Redux framework.Expertise in Javascript, HTML, CSS, and experience with libraries like SASS, LESS.Experience with Node.js, Grunt, Gulp, or other server-side Javascript technologies and tools.Passion for front-end development and making developers more efficient.Experience working on complex tools.
+
+About the Team
+
+Our developer platform groups mission is to Accelerate product velocity by providing a friction-free, integrated development platform to the thousands of engineers who build and improve Ubers various products.
+
+Our developer platform teams are responsible to support all the tools that are used throughout a developer lifecycle. This contains
+
+Generic developer infrastructure like the code monorepos, build systems, continuous integration, deployment & release and testing systems etc.Language platform specific solutions like Mobile & Backed Developer experience and Frameworks etc.Platforms like internationalization, developer analytics etc.
+
+As a part of the central frontend engineering team, you will be building frontend components for a lot of these 18 sub-teams.","Javascript , HTML , CSS , performance , testing , web , Mobile , Redux , deployment , SASS , build , get , Gulp , Frameworks , internationalization",https://www.glassdoor.com/partner/jobListing.htm?pos=110&ao=101641&s=58&guid=00000170394a4bd2a3a059595a70d7bf&src=GD_JOB_AD&t=SR&extid=1&exst=OL&ist=&ast=OL&vt=w&slr=true&cs=1_048e4087&cb=1581509135475&jobListingId=3486153167,3486153167,glassdoor,Uber developer
+new,"Senior Software Engineer (Architect), Android - Developer Platform",Uber,Bengaluru,2020-01-17,"At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and lets move the world forward, together.
+
+About the Role
+
+Uber Mobile infra is at a critical expansion point, we are making a huge impact on making our mobile apps and backend services more reliable and fault-free. We are trying to reduce mobile app release latency. We are investing in innovative systems to bring our mobile Apps to give our end users the best user experience possible and to scale. Our Mobile teams are supporting hundreds of engineers and tens of thousands of users every day.
+
+As one of our first mobile engineers in BLR, you will be critical in building out the next generation of infrastructure scale our systems to the next 5 years and more. We will provide a platform for you to explore and build out cutting edge system at Uber, and across the whole automation industry.
+
+We are looking for experienced Mobile Engineers who has experience in mobile App development and mobile infra field to work on high impact projects that will greatly increase developer velocity at Uber. If you love writing S.O.L.I.D. framework code that will stand the test of time, and enjoy the freedom to do things the ""right way"", then this is your team. We will be focusing on app performance, mobile architecture, automation frameworks best practices, building a stable, scalable and maintainable automation system.
+
+What Youll Do
+
+You will lead and contribute to engineering efforts from design to implementation, solving complex technical challenges around developer and engineering productivity and velocity.
+You will build tooling including mobile test framework, test runners, device management systems, CI pipelines, failure detection and monitoring systems and more.
+Deploy tooling and systems created to CI environment as well as to local development experiences.
+Analyze and decompose complex software systems and collaborate with cross-functional teams to influence design for ease-of-use, scalability, and testability,
+Work closely with Android, iOS release and backend engineers to design cross-platform solutions.
+Collaborate with different program teams working on our applications
+
+What Youll Need
+
+7 Plus Years Full-Time, Professional Software Development Experience
+Strong expertise in Kotlin and Java
+Solid computer science foundations in data structures, algorithms, system design
+Strong skills in analyzing system logs and debugging
+Deep understanding of Android SDKs
+Strong focus on high-quality and maintainable code
+You have understanding of latest and cutting edge frameworks on Android
+You have experience in multithreaded programming and excellent memory management know how
+Experience in efficiently collaborating on projects
+High emotional intelligence, empathy, self-awareness, and optimism.
+Great communication skills and an ability to work in a team and with end-users
+Experience with writing, releasing, maintaining mobile applications
+
+Bonus Points If
+
+BS/MS/PhD in Computer Science or a related field
+Experience with AOSP (Android Open Source Project) codebase
+Experience with bash scripts, python, go, Java and other languages
+Experience with Jenkins development or other CI pipeline tools
+Contribute to the wider Android community via open source
+
+About the Team
+
+Our developer platform groups mission is to Accelerate product velocity by providing a friction-free, integrated development platform to the thousands of engineers who build and improve Ubers various products.
+
+Our developer platform teams are responsible to support all the tools that are used throughout a developer lifecycle. This contains
+
+Generic developer infrastructure like the code monorepos, build systems, continuous integration, deployment & release and testing systems etc.Language platform specific solutions like Mobile & Backed Developer experience and Frameworks etc.Platforms like internationalization, developer analytics etc.
+
+Below are the teams under Developer Platform that we are currently hiring Android engineers for
+
+Core Automation Platform (CAP)
+
+We provide a reliable and automated end-to-end testing framework for mobile sanity tests. Our tools allow safeguarding features and preventing regressions for each release and CD build, enabling mobile developers to build reliable Apps quickly.
+
+Mobile Release
+
+The mission for the Mobile Release Engineering team is to provide efficient high quality releases with guardrails and visibility for all Uber applications. Its important for Uber that we safely roll out updates to our mobile applications on the Apple and Google stores regularly and efficiently. The release platform is responsible for the insights and automation to perform safe rollouts in a staged manner with efficient mitigation along the way. We will accomplish this by building and extending our platform and tooling across the entire mobile diff lifecycle.","Java , python , Android , iOS , bash , performance , go , Jenkins , testing , Kotlin , memory , mobile , Mobile , deployment , build",https://www.glassdoor.com/partner/jobListing.htm?pos=127&ao=101641&s=58&guid=00000170394a4bd2a3a059595a70d7bf&src=GD_JOB_AD&t=SR&extid=1&exst=OL&ist=&ast=OL&vt=w&slr=true&cs=1_40cf2c00&cb=1581509135493&jobListingId=3466175927,3466175927,glassdoor,Uber developer

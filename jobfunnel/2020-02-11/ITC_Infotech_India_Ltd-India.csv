@@ -1,0 +1,515 @@
+status,title,company,location,date,blurb,tags,link,id,provider,query
+new,Developer Others,ITC Infotech India Ltd,Pune,2020-02-11,"Roles & Requirements:
+
+Candidates must be flexible with different shifts.
+Good analytical and technical troubleshooting skills (3 to 4 years).
+Candidates with Salesforce Administration experience (2 to 3 years).
+Candidates with Production Support experience.
+Strong knowledge of business processes and best practices.
+A strong team player with good communication skills.
+Managing End Market calls and customer interactions.
+Must manage escalations.
+Must be Salesforce Administration certified.
+Must have Salesforce Community experience.",Salesforce,https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=140609&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_7c14d6d3&cb=1581508902636&jobListingId=3420125497,3420125497,glassdoor,ITC Infotech India Ltd developer
+new,Azure HD Insight Developer,ITC Infotech India Ltd,Bengaluru,2020-02-11,"Roles and Responsibilities
+
+
+
+The successful candidate should have 4 + years experience in large-scale software development, with at least 1-3 years in HD Insight & Azure Data Factory
+
+
+Demonstrate analytical and problem-solving skills, particularly those that apply to a ""Big Data"" environment on Azure
+
+
+
+Deep understanding and related experience with Hadoop stack - internals, HBase, Hive, Pig and Map/Reduce
+Good Understanding on Bigdata Concepts
+Exposure to ELK & No SQL DB like Mango DB & Cassandra will be added advantage
+Must have Exposure to BIDW concepts like ETL & Star schema","SQL , Azure , Hadoop , Hive , Cassandra , stack , Bigdata , HBase , schema",https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_1a204a4e&cb=1581508902639&jobListingId=3420510621,3420510621,glassdoor,ITC Infotech India Ltd developer
+new,Dot Net Developer,ITC Infotech India Ltd,Bengaluru,2020-02-11,"Candidate should be willing to be cross trained into Apriso technology.
+
+Requirements:
+
+3-6 years of overall experience.
+Good knowledge of OOPs, HTML, Javascript, SQL Server.
+Awareness of other MES products would be an added advantage.
+Good communication and presentation skills.
+Good customer interfacing skills.
+Should be able to work on new MES opportunities and close them successfully.
+Should be willing to travel within and outside India.","Javascript , HTML , SQL",https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=140609&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_bcc03100&cb=1581508902638&jobListingId=3420125547,3420125547,glassdoor,ITC Infotech India Ltd developer
+new,Microsoft Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"Full Stack (.Net / Angular) developer:
+
+Mandatory Skills:
+
+Minimum 5+ years of hands on experience in .Net Core and Angular6+ development with knowledge of Micro-services, micro-frontends and API
+
+Front-End and Server Side Expertise : Hands-on experience in Angular 6+, .NET (Web based architecture), Micro services/REST-Based Architecture/ Micro frontends
+
+ASP.NET/C# including (Web Services, WEBAPI, REST,MVC, Entity Framework).
+
+.NET Core (Micro Service Architecture)
+
+Database (SQLserver/Oracle/MySQL/MongoDB/Cassandra)
+
+SOA and Design patterns.
+
+Knowledge on IT systems Security
+
+Experience with Asynchronous Communication techniques, RabbitMQ knowledge is an advantage
+
+CI/CD - Pipeline setup and Proficient understanding of code versioning tools, such as Git / Stash / TFS
+
+Cloud Knowledge (IaaS, PaaS)
+
+Good knowledge on - Javascript (ReactJS) Typescript(Angular), HTML5, CSS3
+
+Good knowledge on Integration methodologies and frameworks, Integration with Mainframe is an advantage
+
+Understanding fundamental design principles behind a scalable application
+
+Implementing automated testing platforms and unit tests
+
+Experience of Software development Methodology like Agile, Extreme Programming, Prototyping","Javascript , Angular , Git , Asynchronous , testing , Service , Server , frameworks , RabbitMQ , Stack , Entity",https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=437149&s=58&guid=000001703946bf109e4875f39eb74c81&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_57921eac&cb=1581508902918&jobListingId=3485660009,3485660009,glassdoor,ITC Infotech India Ltd developer
+new,Java Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"Knowledge of
+
+Multi-site applications
+
+Backup & Recovery
+
+Load-balancing
+
+Network Infrastructures
+
+Monitoring tools (Grafana, Nagios, Prometheus, Thanos)
+
+SQL
+
+Jenkins
+
+GIT
+
+Expert knowledge of
+
+KVM
+
+Docker & Kubernetes
+
+Scripting / programming languages including but not limited to: Python, Ansible, Bash, Java, Go
+
+Public Cloud Infrastructure (GCP, AWS, Azure)
+
+ELK Stack
+
+RESTful APIs to connect to back-end services","Java , Python , Bash , Ansible , Cloud",https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=437149&s=58&guid=000001703946bf109e4875f39eb74c81&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_cd5817bb&cb=1581508902919&jobListingId=3485660015,3485660015,glassdoor,ITC Infotech India Ltd developer
+new,Testing Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"Work with the Development and QA teams to gather testing requirements for a SaaS web application.
+
+Establish a high-level performance testing strategy and design test plans which illustrate the performance testing approach.
+
+Develop, maintain, and execute performance test scripts.
+
+Implement and execute automated load testing scripts for web-based applications and APIs.
+
+Identify and document the root cause of performance.
+
+Identifying bottle-necks and tuning points.
+
+Provide insight into performance bottlenecks leveraging a variety of skills and tool sets on multiple platforms.
+
+Define problems, collect data, establish facts, and draw valid conclusions.
+
+Evaluate overall system capacity during end-to-end load tests.
+
+Maintain performance testing applications, environment, and datasets","performance , testing , web , load",https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_dc98dc78&cb=1581508902658&jobListingId=3485659987,3485659987,glassdoor,ITC Infotech India Ltd developer
+new,Oracle Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"1)3-8 years of experience in Implementation, support of Ebusiness Suite version 12.x
+
+2)Has real-time hands-on Techno/functional experience on PLSQL Conversions and Interfaces, Forms, Reports, XLM Publisher, knowledge of OAFramework and Workflow would be added advantage.
+
+3)Experience on either P2P or OTC Techno/functional track
+
+4)Ability to relate the product functionality to business processes, and thus offer implementation advices to customers on how to meet their various business scenarios using Ebiz application","Forms , PLSQL , version",https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=437149&s=58&guid=000001703946bf109e4875f39eb74c81&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_7eb80fd4&cb=1581508902922&jobListingId=3485659976,3485659976,glassdoor,ITC Infotech India Ltd developer
+new,Siebel Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"Should have minimum of 5 years of experience in Siebel Configuration/Scripting/Workflows
+Working experience in Siebel Upgrade to IP2017/2018/2019 Versions
+Hands on experience in Product Configurator and Order Management Module
+Hands on experience in Application Integration (EAI)
+Good Performance troubleshooting capabilities
+Good communication skills",Performance,https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=437149&s=58&guid=000001703946bf109e4875f39eb74c81&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_ab95c964&cb=1581508902923&jobListingId=3485659931,3485659931,glassdoor,ITC Infotech India Ltd developer
+new,Datawarehouse Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,Strong design and hands on development experience on enterprise software applications for both on prem and cloud using primarily Microsoft technologies.,cloud,https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_13fc6cb6&cb=1581508902659&jobListingId=3460891763,3460891763,glassdoor,ITC Infotech India Ltd developer
+new,JAVA Sr. Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"Must have strong knowledge in Java Fundamentals, OOPS concepts, collection, data structure, Design Patterns.
+
+Must have hands on experience in Spring AOP, Spring MVC, Spring Security and Spring DI/ Spring IoC framework.
+
+Must have experience in designing micro services.
+
+Must have experience in Hibernate.
+
+Must have experience in developing REST services.
+
+Good to have experience in Spring Boot","Java , Spring , REST , Security , structure",https://www.glassdoor.com/partner/jobListing.htm?pos=114&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_74662f78&cb=1581508902667&jobListingId=3485659984,3485659984,glassdoor,ITC Infotech India Ltd developer
+new,Web Tech Senior Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"Competencies:
+
+Able to work independently but collaborative mindset is a natural part of the candidates DNA
+
+Capable of translate user requirements into the overall architecture and break down in to incremental prices, develop and implement
+
+Capable of guiding and supporting other developers in the team
+
+Ability to write quality unit tests
+
+Understanding of automated processes for building testing, document and deploying.
+
+Problem solving skills.
+
+Min 2 years experience with RESTfull service and API
+
+Demonstrate ability to debugging and complex problem solving.
+
+Has an innovative/creative mind-set and way of thinking.
+
+Some years of experience with user-experience, basic prototype design and UI / UX design.
+
+Learn fast and have a natural interest in understand the business domain context he/her works in.
+
+Honest, open-minded and outgoing  dont mind saying he/her opinion and it lies in the candidates DNA to be an active member of the team and the teams development.
+
+Fluent/excellent in English writing an orally, preferable understand and speak Danish.
+
+Demonstrated experience working in a Scrum team and understand the core value of being a cross functional team following the Scrum methodology.
+
+Javascript competence/knowledge, preferably experience in Angular 6 or above, React JS, Redux
+
+The tech stack:
+
+Java, .Net, SQL, JavaScript, jQuery, JS frameworks (REACT, Redux, AngularJS, Agular 6 or above, Ember),CSS framework(Foundation, bootstrap and responsive design), CSS preprocessors  Sass/LESS, REST, SOAP, JIRA, Junit, Bitbucket/GIT , Jenkins.","JavaScript , jQuery , CSS , SQL , AngularJS , Angular , REST , debugging , Jenkins , testing , SOAP , Redux , Junit , service , architecture",https://www.glassdoor.com/partner/jobListing.htm?pos=115&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_be7cb833&cb=1581508902669&jobListingId=3485659999,3485659999,glassdoor,ITC Infotech India Ltd developer
+new,SAP Functional Developer,ITC Infotech India Ltd,Kolkata,2020-02-08,"We need a SAP consultant having knowledge of both Production Planning Module and Quality Management Module of SAP.
+
+The consultant should have following 
+
+Handled atleast one end to end SAP Implementation Project.
+
+Had worked on SAP S4 HANA environment
+
+Client handling experience
+
+Experience  3 years to 8 years","Module , SAP",https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=437149&s=58&guid=000001703946bf109e4875f39eb74c81&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_e466044e&cb=1581508902933&jobListingId=3485659977,3485659977,glassdoor,ITC Infotech India Ltd developer
+new,SAP Technical Developer,ITC Infotech India Ltd,Mumbai,2020-02-08,": Analysis of Requirement , Solutioning , Recommendation of Right Approach for implementation .
+
+Should Have worked on Migration projects
+
+Should have worked on Azure cloud as well Sap Commerce Cloud","Azure , Migration , cloud , Cloud , Sap",https://www.glassdoor.com/partner/jobListing.htm?pos=113&ao=437149&s=58&guid=000001703946bf109e4875f39eb74c81&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_4b66cadd&cb=1581508902935&jobListingId=3485659923,3485659923,glassdoor,ITC Infotech India Ltd developer
+new,Share Point Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"Share point 2016
+
+Able to perform below items.
+
+o Site column creation using code
+
+o Content type creation using code
+
+o Power Shell On-Premise No experience
+
+o Timer jobs
+
+o Control Templates  ACSX
+
+o Not much idea about AgilePoint","Shell , Templates , Timer",https://www.glassdoor.com/partner/jobListing.htm?pos=116&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_dbee3871&cb=1581508902670&jobListingId=3485659567,3485659567,glassdoor,ITC Infotech India Ltd developer
+new,Sharepoint Sr. Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,".Share Point Developer with K2 Experience
+.Share Point , Development, OOB, Custome development
+Jaccascript, JQuery
+Share Point Desigend based WF
+Web Services , consumptions
+Excellent Techncial & Hands on with K2 workkflow",,https://www.glassdoor.com/partner/jobListing.htm?pos=110&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_de2849e6&cb=1581508902661&jobListingId=3460891780,3460891780,glassdoor,ITC Infotech India Ltd developer
+new,Administrator Others,ITC Infotech India Ltd,Bengaluru,2020-02-10,"The candidate should have the below skills:
+1.Work experience as a Python Developer
+2.Write reusable, testable, and efficient code
+3.Expertise in at least one popular Python framework (like Django, Flask or Pyramid)
+4.Knowledge of object-relational mapping (ORM)
+5.Familiarity with front-end technologies (like JavaScript and HTML5)
+6.Support new projects and implement solutions from a Level-3 perspective
+7.Develop back-end components to improve responsiveness and overall performance
+8.Design and implementation of low-latency, high-availability, and performant applications
+9.Integration of user-facing elements developed by front-end developers with server-side logic
+10.Integration of data storage solutions may include databases, key-value stores, blob stores, etc
+11.Test and debug programs & Implement security and data protection solutions
+12.Coordinate with internal teams to understand user requirements and provide technical solutions
+
+Additional needed things:
+1. The candidate may have knowledge into CI/CD like Jenkins and able to build and deploy the code efficiently.
+2. Must have knowledge in Docker and Kubernetes and maintaining the pods and blue green deployments.
+3. Should work efficiently with Openshift clusters and the complete knowledge on the openshift jobs.
+4. He/She must have work experience in any one of the clous providers like AWS/GCP/Azure.
+5. Candidate should have better understanding and exposure of Agile principles and ITIL process.
+6. Strong knowledge into Networking concepts (TCP/IP/UDP/DNS etc) and able to understnd the reqirements from the network teams and needed to automate their daily tasks
+using python.","JavaScript , python , Python , Django , Docker , security , Jenkins , Flask , Networking , Kubernetes , build , include , components , mapping , openshift",https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_1109a4d1&cb=1581508902672&jobListingId=3487182704,3487182704,glassdoor,ITC Infotech India Ltd developer
+new,Datawarehouse Senior Developer,ITC Infotech India Ltd,Bengaluru,2020-02-08,"Providing guidance and expertise in information design best practices.
+
+Presenting viz to in house clients.
+
+Showcasing potential and generating excitement over data.
+
+Subject Matter Expert of the Power BI tools, processes, and policies with new and existing analysts throughout the organisation to gain actionale insights from data.
+
+Running workshops and launchs.
+
+Acting as service delivery manager over other developers.
+
+Must Have -
+
+3+ Yrs of exp and steadily increasing responsibility in an analytics and/or viz function
+
+A proven track record of designing and deploying business intelligence solutions in enterprise environments.
+
+Significant exp with Modern BI tools such as Tableau & Power Bi
+
+Exp helping clients define, develop, and deliver new data driven features
+
+Advances SQL exp
+
+Strong problem solving and technical aptitude.","SQL , service",https://www.glassdoor.com/partner/jobListing.htm?pos=113&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_69c56618&cb=1581508902666&jobListingId=3460891773,3460891773,glassdoor,ITC Infotech India Ltd developer
+new,.net developer,ITC Infotech India Ltd,Bengaluru,2020-02-04,".Net developer with 4 to 6 year experience. Hands on experience in WPF, WCF, Web API, MVC, Kendo UI , Telerik controls, Java Script, CSS & Angular JS. Should have experience in preparing automated unit test cases. Proficient with SQL commands and entity framework. Must have worked with TFS as configuration management tool. Must have experience in developing windows and web applications. Should be able to understand business requirement and work independently on the assigned task and complete. Experience in airline domain & working onsite-offshore model is added advantage.","Java , CSS , SQL , Angular , WPF , windows , API , WCF , web , Web , TFS , configuration , model , Telerik , controls",https://www.glassdoor.com/partner/jobListing.htm?pos=118&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_a08d405a&cb=1581508902673&jobListingId=3413432300,3413432300,glassdoor,ITC Infotech India Ltd developer
+new,EAI Developer,ITC Infotech India Ltd,Bengaluru,2020-01-31,"Bachelors Degree (BTECH/BE) is a must.
+
+5-6 Years of Integration Experience, which includes min of 4 to 5 Years of ESB integration using Mule.
+
+Min 1 or 2 End to End ESB Integration implementation
+
+Should have experience on Design, Develop and Deployment of Mule services on Windows or Linux.
+
+Understand and validate integration requirements
+
+Develop APIs on MuleSoft platform
+
+Develop Business Process Orchestrations - ESB Itinerary using Mule ESB
+
+Install, configure and deploy solution using Mule ESB 3.x
+
+Co-ordination of implementation with various offshore teams to create development plans, support delivery and test of scalable, reusable, supportable and repeatable architectural and design patterns
+
+Hands-on experience on Building interfaces on Mulesofts ESB platform
+
+Ability to create a living document (why it was built this way), including trouble shooting and template for future interfaces
+
+Must have knowledge on administrative aspects of Mule ESB
+
+Hands-on experience with leading SaaS applications and have specific knowledge of Mule CloudHub (v3.x) and/or Mule ESB
+
+Experience in Core Java, Messaging( JMS ), Web API - SOAP, REST and authentication methods such as OAuth and SAML
+
+Knowledge on Mulesoft CloudHub, Anypoint Platforms and JEE technologies, Spring/Hibernate Frameworks would be a plus
+
+Experience with SOA, ESB, JMS messaging concepts
+
+Hands-on experience with open source and agile development tools such as GitHub or SVN, and Maven","Java , Windows , REST , API , Maven , authentication , Web , GitHub , SVN , SOAP , methods , Deployment , OAuth , Process , Frameworks",https://www.glassdoor.com/partner/jobListing.htm?pos=119&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_fd77d3e9&cb=1581508902675&jobListingId=3453604803,3453604803,glassdoor,ITC Infotech India Ltd developer
+new,PLM Developer,ITC Infotech India Ltd,Bengaluru,2020-02-05,"Expertise in FlexPLM with atleast 1 Implementation experience
+Knowledge on Integration of FlexPLM with Other ERP Systems
+Proficient in Core Java, JSPs, Java Script.
+
+Willing to work in shifts is preferable.
+
+Good Communication and customer interfacing skills.",Java,https://www.glassdoor.com/partner/jobListing.htm?pos=120&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_e8c65766&cb=1581508902677&jobListingId=3481891185,3481891185,glassdoor,ITC Infotech India Ltd developer
+new,PLM Senior Developer,ITC Infotech India Ltd,Pune,2020-02-01,"Main duties/responsibilities :
+
+Design & Develop:
+
+To consult with business and application teams in creating business requirements and technical specifications.
+
+Design and develop custom Windchill solutions for requirements.
+
+Understand existing customizations and perform root Cause analysis of issues, followed by resolution.
+
+Understand runtime components/ configuration of Windchill and propose and develop solutions/measures to address problems.
+
+Understand and improvise existing integrations and design and implement new interfaces between business applications
+
+Testing:
+
+To performs bug verification and testing (unit ~/ function ~/ regression tests). Work with in-house team on test case
+
+validation.
+
+Team Work:
+
+To help team members with knowledge sharing and solutions.","function , testing , configuration , runtime , regression",https://www.glassdoor.com/partner/jobListing.htm?pos=123&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_cf05cd34&cb=1581508902681&jobListingId=3478244120,3478244120,glassdoor,ITC Infotech India Ltd developer
+new,ASP.net Developer,ITC Infotech India Ltd,Bengaluru,2020-01-18,"Work Location : Bangalore and willing to work onsite
+Exp: 4-7Yrs
+NP: immediate to 30days
+
+JD:
+1) Very good Asp.net with MVC, WCF/WPF
+2) Very good SQL server, Angular or Jquery Or Kendo UI
+All the above is mandatory
+Should be good in communication","Jquery , SQL , Angular , server , Location",https://www.glassdoor.com/partner/jobListing.htm?pos=122&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_eee36c42&cb=1581508902679&jobListingId=3423244839,3423244839,glassdoor,ITC Infotech India Ltd developer
+new,Sharepoint developer,ITC Infotech India Ltd,Bengaluru,2020-01-21,"Should have knowledge on SharePoint online (O365)
+Familiar with SharePoint designer for workflows, list, page layouts etc.
+Able to interact with business owners to get requirements and design the solution
+Should be able to mentor junior developers
+
+
+Must have skills
+
+
+
+Experience with C#, MVC, HTML, CSS, JavaScript, JQuery
+Experience in on premise versions 2010/2013/2016
+Experience with CSOM/JSOM
+Knowledge/Experience of PowerShell Scripting
+Experience with SharePoint framework (SPFx) and Azure development
+PowerApps, Microsoft Flow and Migration experience
+Bootstrap, Angular 6.0","JavaScript , C# , HTML , CSS , Angular , list , Azure , PowerShell , SharePoint , get , Migration",https://www.glassdoor.com/partner/jobListing.htm?pos=124&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_56a7e18a&cb=1581508902682&jobListingId=3447047499,3447047499,glassdoor,ITC Infotech India Ltd developer
+new,Developer - Java,ITC Infotech India Ltd,Bengaluru,2020-01-21,"Description:  Experience with one or more RPA technologies (e.g. UiPath, Automation Anywhere, Blue Prism).  At least 2 to 4 years of professional experience in programming (including scripting /coding), SQL and relational databases, and application development.  Should have a program Skills like VB Script, JAVA, C#.
+
+
+
+Strong Problem-Solving and Analytical Skills.","JAVA , SQL , Automation , scripting",https://www.glassdoor.com/partner/jobListing.htm?pos=125&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_9dbdb3da&cb=1581508902683&jobListingId=3447047214,3447047214,glassdoor,ITC Infotech India Ltd developer
+new,Design Engg. Sr Developer,ITC Infotech India Ltd,Bengaluru,2020-01-24,"Experience Range: 2 to 5 years relevant experience
+
+Job requirements:
+
+General mechanical knowledge, first approach on plastic and/or metal pieces.
+Very good knowledge of CAD Software and database management in either of ONE mentioned below,
+
+
+
+CATIA
+CATIA + CREO
+CATIA + INVENTOR
+
+
+Experience in Automotive Industry (> 12 months in CAD).
+Practice of ISO
+Strong basis on plastic and/or metal pieces development.
+Team work, proactive, Skilled to communicate in English language.
+Creative and autonomous.
+Rigorous person, methodic and precise in his job
+
+Other Requirements:
+
+
+Shift working (First shift and second shift)
+
+Education BE / Btech Mechanical",database,https://www.glassdoor.com/partner/jobListing.htm?pos=126&ao=140609&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_06014f72&cb=1581508902684&jobListingId=3427345595,3427345595,glassdoor,ITC Infotech India Ltd developer
+new,Senior Developer - Java,ITC Infotech India Ltd,Bengaluru,2020-01-21,"Description:  5-8 Years experience in Java.  Must have good understanding in Java Fundamentals, OOPS concepts, Data Structures/algorithms and Design Pattern.  Must have experience in Product Development.  Must have experience in in Spring.
+
+
+
+Must have experience in using Microservices Architecture.  Must have experience in developing REST services.  Test Driven Development experience CI/CD.","Java , REST , Architecture , Microservices",https://www.glassdoor.com/partner/jobListing.htm?pos=128&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_d8852e49&cb=1581508902687&jobListingId=3447047714,3447047714,glassdoor,ITC Infotech India Ltd developer
+new,Senior Asp.net developer,ITC Infotech India Ltd,Bengaluru,2020-01-21,"Microsoft, ASP.NET, C#, MVC, Sql server, TSQL, Anjular JS
+Good programming skill in ASP.Net MVC
+Good programming skill in SQL.
+Expertise in usage of .Net design patterns
+Should have exposure in design and architecture of applications.
+Should be able work independently with minimal guidance.","C# , Sql , TSQL , server , architecture",https://www.glassdoor.com/partner/jobListing.htm?pos=129&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_e3438b63&cb=1581508902688&jobListingId=3447047519,3447047519,glassdoor,ITC Infotech India Ltd developer
+new,DotNet Sr. Developer,ITC Infotech India Ltd,Guntur,2020-01-21,"Application development experience with solid programming abilities include ASP.NET, Angular 6, C#, Web API, oAuth, Entity Framework, LINQ, Social Media Integration, MS Azure, MS SQL Server, Java Script, JQuery  Deep understanding of .Net Framework 4.0, 4.5 & 4.6, .NET standard and .NET core  Experience working in Design Patterns.  Experience with different 3rd party SDKs and integration.  Exposure on Xamarin  Experience on Mobile development","Java , C# , JQuery , SQL , Angular , Azure , LINQ , API , Xamarin , Web , Mobile , Server , oAuth , include , Entity",https://www.glassdoor.com/partner/jobListing.htm?pos=130&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_cb2e90b2&cb=1581508902690&jobListingId=3447047514,3447047514,glassdoor,ITC Infotech India Ltd developer
+new,Siebel Developer,ITC Infotech India Ltd,Bengaluru,2020-02-06,"Minimum 2 yrs of experience in Siebel Administration.
+
+Siebel tools and Client Setup
+
+Siebel administrators to perform day-to-day admin tasks related to repository migration
+
+Siebel crash related issue
+
+Good Understanding of Siebel Server Architecture.
+
+User administration in Siebel
+
+Worked multiple Operating like Unix,Solaris,AIX.
+
+Expertise on Repository migration on various environment.
+
+Siebel Server and Web server installation.
+
+Knowledge on troubleshooting Siebel Performance issue
+
+Good Communication and Interpersonal Skill","Performance , Web , server , Server , crash , migration , repository , Repository , Client",https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_c745f942&cb=1581508902642&jobListingId=3459007809,3459007809,glassdoor,ITC Infotech India Ltd developer
+new,Microsoft Developer,ITC Infotech India Ltd,Bengaluru,2020-02-06,"3+ years of Xamarin Forms Application development experience using Visual Studio and Mac System for Android, iOS and Windows Phone
+
+Deep understanding of Xamarin Forms Architecture (Both Android and iOS)
+
+Experience with different NuGet packages, 3rd party SDKs and integration.
+
+Experience working with remote data via REST and JSON using REST web services.
+
+Experience in Push Notification Services, Memory Management, SQLite and latest Android APIs.
+
+Experience working network methodologies.
+
+Passion for learning new technologies and eagerness to collaborate with other creative minds.
+
+Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+
+Solid understanding of the full mobile development life cycle.
+
+Ability to translate concept designs into user interfaces on mobile devices
+
+Understanding of system and application performance limits and characteristics
+
+Code profiling and static analysis tools
+
+Use of Instruments for measuring and improving app performance
+
+Experience with Distributed Version Control systems (Git, SVN, TFS)
+
+Demonstrable capabilities in database (Specifically SQLite)
+
+Bachelor's degree in Computer Science/Information Technology or equivalent.
+
+3+ years of overall programming experience.
+
+Committed to test driven development","Android , iOS , JSON , database , Windows , Forms , performance , SQLite , REST , Xamarin , web , Memory , SVN , mobile , Architecture",https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_416f26a9&cb=1581508902657&jobListingId=3459007802,3459007802,glassdoor,ITC Infotech India Ltd developer
+new,SAP Functional Developer,ITC Infotech India Ltd,Bengaluru,2020-02-06,"ABAP (expert level)
+
+ABAP ( expert level )
+SAP GUI (expert level)
+ABAP Enhancement & Modifications (expert level)
+ABAP CDS, DCL
+ODATA/Gateway
+CDS",,https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_6fb7d6cc&cb=1581508902663&jobListingId=3459007793,3459007793,glassdoor,ITC Infotech India Ltd developer
+new,SAP Technical Developer,ITC Infotech India Ltd,Bengaluru,2020-02-11,"Candidates need to be strong in SAP SD with LE and OM.
+
+At least 3-4 End to End implementation exp
+
+Excellent communication skills.",SAP,https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_4dd667d5&cb=1581508902665&jobListingId=3462373698,3462373698,glassdoor,ITC Infotech India Ltd developer
+new,Xamarin Developer,ITC Infotech India Ltd,Bengaluru,2020-02-02,"Requirements:
+
+3-5 years of Mobile application development experience using Xamarin Forms.
+Excellent knowledge of .Net standard.
+Excellent knowledge of .Net Essentials.
+Good understanding of Xamarin Forms App Life Cycle.
+Good programming and debugging skills.
+Must have excellent knowledge on writing custom renderers.
+Must have excellent knowledge on writing dependency Injections.
+Must have excellent knowledge on customizing forms controls.
+Must have excellent knowledge on XAML/Bindings/Dynamic Views.
+Good understanding of Platform Features (Android/iOS).
+Excellent understanding of iOS and Android limitations.
+Excellent knowledge on Integrating/Consuming web services.
+Release and provisioning experience.
+Excellent knowledge of SQLite, Extensive knowledge of App Resources/Styles.
+Excellent knowledge of Memory Management.
+Cultivate and disseminate knowledge of application development best practice.
+Internally motivated, able to work proficiently both independently and in a team environment.
+Excellent team player and collaborate with other team members to complete work on timeline with quality.","Android , iOS , forms , Forms , SQLite , debugging , Xamarin , web , Memory , Mobile",https://www.glassdoor.com/partner/jobListing.htm?pos=121&ao=140609&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_db918906&cb=1581508902678&jobListingId=3136664911,3136664911,glassdoor,ITC Infotech India Ltd developer
+new,Java Developer,ITC Infotech India Ltd,Gurgaon,2020-02-06,"7+ years of software development experience using technologies such as ReactJS, NodeJS.
+Strong understanding on UI design patterns
+Should have exposure with Single Page Applications.
+HTML5, JavaScript, CSS3, less
+
+
+Should be able to write web APIs in NodeJS
+
+Preference shall be given to candidate with strong hold in ReactJS and good UI development concepts.","JavaScript , ReactJS , web",https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_8f50d7f8&cb=1581508902640&jobListingId=3459007806,3459007806,glassdoor,ITC Infotech India Ltd developer
+new,Oracle Developer,ITC Infotech India Ltd,Hyderabad,2020-02-06,"Good understanding of the functional flow in Oracle Applications on Procure to pay (P2P), Order to Cash (O2C) Cycle, Project Accounting (PA) and Oracle Time and Labor (OTL) Modules.
+
+Expertise in Interfaces Development in Financials (AP, AR, GL, PA). OAF experience is an added advantage.
+
+Expertise with Oracle Developer 10g (Reports10g), forms, SQL and PL/SQL.
+
+Extensive experience in Creating New Reports, customization of reports, defining concurrent programs, defining value sets and Strong programming experience in creating Procedures, Packages, Cursors, Functions, Triggers and other database objects using SQL and PL/SQL.
+
+Experienced in Developing Technical and Design Documents and Specifications.
+
+Expertise understanding of the AOL and System Administration module.
+
+Hands-on experience on Reports, Interfaces, Conversions, Workflow and Alerts components.
+
+Experienced in creating SQL*Loader control programs and PL/SQL validation scripts for validating and processing legacy data into Oracle Applications tables.
+
+Expertise in XML Publisher.","SQL , XML , database , Oracle , forms , validation , Triggers , processing",https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=437149&s=58&guid=000001703946bdc7823dc6de8481065c&src=GD_JOB_AD&t=SR&extid=1&exst=EL&ist=&ast=EL&vt=w&slr=true&cs=1_dfdf5815&cb=1581508902643&jobListingId=3459007501,3459007501,glassdoor,ITC Infotech India Ltd developer

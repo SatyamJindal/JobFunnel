@@ -35,11 +35,9 @@ con.login(user, password)
   
 # calling function to check for email under this label 
 con.select('Inbox')  
-  
- # fetching emails from this user "tu**h*****1@gmail.com" 
+
 msgs = get_emails(search('FROM', 'reports@hackerrank.com', con))[-2:] 
-  
-# Uncomment this to see what actually comes as data  
+
 # print(msgs)  
   
   
@@ -48,7 +46,7 @@ msgs = get_emails(search('FROM', 'reports@hackerrank.com', con))[-2:]
 # fetch the required content he / she needs 
 file = open('file.txt','w')
 file.close()
-# printing them by the order they are displayed in your gmail  
+ 
 for msg in msgs[::-1]:  
     for sent in msg: 
         if type(sent) is tuple:  
@@ -97,25 +95,16 @@ with open('file.txt', 'r') as f:
     data = data.replace("0D","")
 # write data to a csv 
 cols = ['Name', 'Email', 'Company', 'Phone', 'Payment plan', 'Country', 'Current status']
-HEADER = []
+rows = []
 l = data.split("|0A|")
 print(l)
 for i in l:
     row = i.split("|")
     row = [x.replace("\n","") for x in row]
     row = [x.strip(' ') for x in row]
-    HEADER.append(row)
-df = pd.DataFrame(HEADER,columns=cols)
+    rows.append(row)
+df = pd.DataFrame(rows,columns=cols)
 df.to_csv('data.csv',index=False)
-#print(data)
-#data_list = []
-'''with open('data.csv', 'w') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=HEADER)
-    #writer.writeheader()
-    # data.replace("\n","")
-    #print(data)
 
-    writer.writerows(HEADER)
-    print(HEADER)'''   
             
 
